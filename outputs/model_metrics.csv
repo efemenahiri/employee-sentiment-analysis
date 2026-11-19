@@ -1,0 +1,10 @@
+,A: monthly_score,B: mean_sentiment
+n_train,192.0,192.0
+n_test,48.0,48.0
+r2_train,0.35,0.111
+r2_test,0.48,0.051
+rmse_test,1.48,0.235
+mae_test,1.048,0.175
+baseline_rmse_test,2.061,0.241
+cv_r2_mean,0.276,-0.109
+cv_r2_std,0.107,0.159
