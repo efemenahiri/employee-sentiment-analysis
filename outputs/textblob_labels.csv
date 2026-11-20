@@ -1,0 +1,2236 @@
+employee,date,subject,textblob_polarity,textblob_label,lexicon_label
+sally.beck@enron.com,2010-05-10,EnronOptions Update!,0.25,Positive,Positive
+eric.bass@enron.com,2010-07-29,(No Subject),-0.075,Negative,Negative
+sally.beck@enron.com,2011-07-25,Phone Screen  Interview - Shannon L. Burnham,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-03-25,RE: My new work email,-0.006818181818181834,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-21,Bet,-0.05,Negative,Neutral
+eric.bass@enron.com,2011-10-23,RE: Favor,0.5,Positive,Neutral
+kayne.coulter@enron.com,2010-04-05,MG Inventory Summaries,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-04-21,Forgot the Attachment,0.3,Positive,Neutral
+sally.beck@enron.com,2010-02-07,Garvin Brown - AXIA Sr. Power Scheduler,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-02-06,More Dallas ASE Information,0.25,Positive,Neutral
+rhonda.denton@enron.com,2010-02-13,"UBSW Orientation - Thursday. For those that did not attend the
+ Houstonian Sessions",0.1,Positive,Positive
+patti.thompson@enron.com,2010-01-12,Re: family reunion,-0.15000000000000002,Negative,Neutral
+patti.thompson@enron.com,2011-01-21,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-09-24,Re: trades,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-04-14,Re: your 2nd round pick,0.25,Positive,Positive
+don.baughman@enron.com,2011-08-12,(No Subject),0.29999999999999993,Positive,Positive
+rhonda.denton@enron.com,2011-07-01,Game at 8,-0.4,Negative,Neutral
+sally.beck@enron.com,2010-07-07,RE: Southern Union Galveston/Pt. Arthur,-0.3125,Negative,Negative
+eric.bass@enron.com,2011-12-18,RE: Transmission Agreements Meeting Tues. Jan. 29 10:00 a.m.,0.4,Positive,Neutral
+johnny.palmer@enron.com,2010-09-28,Throughput Info,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-03,"FirstEnergy System to American Transmission Systems, Inc.",0.0,Neutral,Neutral
+don.baughman@enron.com,2011-05-19,Desk Info Sheet,-0.16666666666666666,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-07-08,Kennison,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-25,Call Laddie for house party:,0.0,Neutral,Positive
+kayne.coulter@enron.com,2011-10-15,Re: Visit,0.22083333333333333,Positive,Positive
+john.arnold@enron.com,2010-09-02,Re: Texas Counterparties,0.03333333333333333,Neutral,Neutral
+don.baughman@enron.com,2010-11-06,FW: Tahoe,0.0,Neutral,Negative
+john.arnold@enron.com,2011-07-30,the ballot,0.10416666666666667,Positive,Neutral
+john.arnold@enron.com,2010-10-16,Re: The Pictures,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-05-31,Re: Any luck?,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-13,Candidate Contact Information,-0.08333333333333333,Negative,Neutral
+sally.beck@enron.com,2010-04-12,Enron Management Conference,0.25,Positive,Neutral
+patti.thompson@enron.com,2010-11-12,Commissioner.COM trade decision,-0.15000000000000002,Negative,Neutral
+john.arnold@enron.com,2010-04-14,vacation plans,0.1590909090909091,Positive,Positive
+rhonda.denton@enron.com,2011-09-22,Interview Schedule for John Franklin,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-09,Background  for Hourly Positions,0.2937037037037037,Positive,Positive
+john.arnold@enron.com,2010-06-03,NEW VERSION OF THE VIEW DATA DATABASE,0.11212121212121212,Positive,Neutral
+johnny.palmer@enron.com,2011-04-13,Re: Question,0.1,Positive,Neutral
+rhonda.denton@enron.com,2011-02-14,DynegyDirect,0.06666666666666667,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-04-20,Re: Continental Power,0.425,Positive,Positive
+bobette.riner@ipgdirect.com,2010-12-04,Re: Fw: [txhmed] interesting ...,0.13686868686868686,Positive,Positive
+rhonda.denton@enron.com,2010-05-11,Re: The Pictures,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-08-15,Re: GAME WEDNEDSDAY @ 7:00,0.2,Positive,Negative
+don.baughman@enron.com,2010-07-10,Re:,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-08-04,PX Credits,0.375,Positive,Neutral
+patti.thompson@enron.com,2011-03-24,Update on review work on feeds,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-11-06,Expense Report for Stephen Schwarz Dated 2/25/00,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-22,London Doorstep Phase I Responsibility Matrix,0.13095238095238096,Positive,Neutral
+johnny.palmer@enron.com,2010-02-23,PJM and Cinergy Prices,-0.075,Negative,Neutral
+john.arnold@enron.com,2011-05-25,Holiday posting schedule,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-22,If you are stuck...,0.06428571428571428,Positive,Positive
+bobette.riner@ipgdirect.com,2011-04-10,Interview Schedule,0.175,Positive,Neutral
+eric.bass@enron.com,2011-05-18,RAC risk reporting,0.12142857142857141,Positive,Neutral
+sally.beck@enron.com,2011-05-18,RE: MATT DRUDGE -- DRUDGE REPORT 2001,-0.07777777777777779,Negative,Negative
+bobette.riner@ipgdirect.com,2011-11-10,(No Subject),0.0,Neutral,Neutral
+eric.bass@enron.com,2011-06-08,Re: Please respond,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-13,DPR - 8/23/00,0.15833333333333333,Positive,Negative
+lydia.delgado@enron.com,2010-12-13,Re: Thanks for the interview,0.2611111111111111,Positive,Positive
+bobette.riner@ipgdirect.com,2011-07-31,Re: Game Tonight @ 7,-0.4,Negative,Positive
+johnny.palmer@enron.com,2010-08-22,Follow Up,0.22142857142857145,Positive,Positive
+patti.thompson@enron.com,2010-04-27,Re: Tuberville,0.1,Positive,Neutral
+sally.beck@enron.com,2011-08-22,Systems,0.17101190476190478,Positive,Positive
+john.arnold@enron.com,2010-02-02,Interview: Mechelle Atwood,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-11-24,"June 3, 2000 Super Saturday results and assignments",0.23617424242424243,Positive,Positive
+johnny.palmer@enron.com,2010-04-14,ANP Marketing Company,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-11-22,Re: Astros Tickets,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-05-13,Lunch,-0.25,Negative,Negative
+lydia.delgado@enron.com,2011-12-31,Midwest/Southeast Desk Meeting w/Fletch Sturm,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-02-22,Monthly meeting,0.33749999999999997,Positive,Positive
+bobette.riner@ipgdirect.com,2010-04-21,Telluride,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-12-31,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-04-08,Enpower counterparties,0.35,Positive,Neutral
+sally.beck@enron.com,2011-03-07,Internet E-mail,-0.12694444444444444,Negative,Neutral
+eric.bass@enron.com,2011-03-10,Enron Europe FX/IR BRM,0.1875,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-16,Re: Sherry,0.5,Positive,Neutral
+lydia.delgado@enron.com,2011-05-17,TradersNews Cinergy index shows massive hourly volumes for Feb. 1,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-05-26,adios,0.3055555555555556,Positive,Positive
+rhonda.denton@enron.com,2011-05-15,Flat books,0.10113636363636364,Positive,Negative
+don.baughman@enron.com,2010-09-24,Re: Deal # QV9672,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-20,wassup,0.3162878787878788,Positive,Neutral
+patti.thompson@enron.com,2010-01-22,Re: tubing,0.5583333333333333,Positive,Neutral
+johnny.palmer@enron.com,2011-01-19,Re: Enron Field,0.28,Positive,Positive
+rhonda.denton@enron.com,2011-11-03,(No Subject),0.0,Neutral,Neutral
+eric.bass@enron.com,2011-07-22,Interviews,0.3333333333333333,Positive,Positive
+johnny.palmer@enron.com,2011-02-25,Re: Nymex Converter for Nov. 20 - 24,-0.1,Negative,Neutral
+eric.bass@enron.com,2011-08-07,"Phone Interview Confirmation - Wednesday, June 6, 2001 - Shannon L.
+ Burnhan",0.4,Positive,Neutral
+patti.thompson@enron.com,2011-06-10,Re: QB,0.25,Positive,Positive
+kayne.coulter@enron.com,2010-04-08,Trade,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-27,January 11 - Managing Operational Risk,0.18452380952380953,Positive,Negative
+sally.beck@enron.com,2010-03-30,Williams Customer First site,0.25,Positive,Neutral
+eric.bass@enron.com,2011-09-24,Phone Screen  Interview - Shannon L. Burnham,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-26,Saturday night follow up,-0.625,Negative,Neutral
+johnny.palmer@enron.com,2010-09-12,PJM and Cinergy Prices,-0.075,Negative,Neutral
+bobette.riner@ipgdirect.com,2011-04-24,Call Laddie for house party:,0.0,Neutral,Positive
+lydia.delgado@enron.com,2011-12-08,TradersNews market commentary attached,0.2,Positive,Neutral
+don.baughman@enron.com,2010-05-14,Bankruptcy,0.2333333333333333,Positive,Negative
+patti.thompson@enron.com,2011-08-11,Body Shop Deductions for UBS Employees,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-05-26,March 8 hourly indexes attached,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-01-26,Re: FYI,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-10,Stan's Staff Mtg. Conference room EB49C2,0.13333333333333333,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-10,RE: TV,0.019999999999999997,Neutral,Positive
+lydia.delgado@enron.com,2011-05-02,FW:,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-05,Peggy Hedstrom,0.4,Positive,Neutral
+lydia.delgado@enron.com,2011-04-10,Ava @ Hyatt / Enron @ A Glance,0.13333333333333333,Positive,Neutral
+rhonda.denton@enron.com,2011-12-14,Re: Power Trader Position,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-04,Wellesley and ASE meetings,0.22625,Positive,Positive
+don.baughman@enron.com,2010-02-11,Re: Fantasy Basketball,0.7,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-03-10,CG&E Agreements,0.11233766233766233,Positive,Neutral
+rhonda.denton@enron.com,2010-04-09,Trading Position,0.21666666666666667,Positive,Neutral
+sally.beck@enron.com,2011-09-07,"Out of the Office - Afternoon of Friday, June 9",0.5,Positive,Neutral
+lydia.delgado@enron.com,2010-11-15,PJM and Cinergy Prices,-0.075,Negative,Neutral
+lydia.delgado@enron.com,2011-02-16,Re: game tonight,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2010-04-18,Happy Holidays from HighSchoolAlumni.com!,0.2825254329004329,Positive,Positive
+don.baughman@enron.com,2010-02-11,John B. - vacation,0.13333333333333333,Positive,Positive
+john.arnold@enron.com,2010-04-29,Re: Austin,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-13,RE: Happy Hour,0.8,Positive,Positive
+john.arnold@enron.com,2010-01-10,(No Subject),0.1787878787878788,Positive,Neutral
+don.baughman@enron.com,2010-06-13,Golf Tournament Details,0.12333333333333335,Positive,Positive
+don.baughman@enron.com,2011-09-07,Global Risk Management Operations Weekly Operating Report,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-08-20,Global Standards Report - September 2000,0.15000000000000002,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-08-26,Re: Vandy,-1.0,Negative,Neutral
+eric.bass@enron.com,2011-06-07,Time for Voting,0.11111111111111112,Positive,Positive
+johnny.palmer@enron.com,2010-06-09,CCV Assoc. Mtg. Monday,0.07857142857142858,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-08,"Final Schedule - Tuesday, May 22, 2001 - Jeff M. Gerl",0.06666666666666667,Positive,Neutral
+patti.thompson@enron.com,2011-06-05,Re: this week's game,-0.10000000000000002,Negative,Positive
+patti.thompson@enron.com,2011-12-09,"You're so money, baby",0.6,Positive,Positive
+johnny.palmer@enron.com,2010-06-19,Re: resume,0.20833333333333334,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-05,JD Leave Early,0.1,Positive,Neutral
+rhonda.denton@enron.com,2011-06-09,Re: Game Tonight,-0.21666666666666667,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-12-18,Restaurant Name,0.06577380952380954,Positive,Positive
+johnny.palmer@enron.com,2011-06-07,CNN Breaking News,0.3625,Positive,Neutral
+patti.thompson@enron.com,2010-10-29,Re: BOWL POOL 2000,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-06-26,Fortune Article,0.36439393939393944,Positive,Positive
+bobette.riner@ipgdirect.com,2011-02-23,Darrel Jackson,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-14,New Stock Symbol,-0.0869949494949495,Negative,Neutral
+don.baughman@enron.com,2010-03-22,Re:,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-03-26,Julie's Trip,0.05416666666666667,Positive,Negative
+eric.bass@enron.com,2011-03-10,TNE Index info attached,0.19375,Positive,Positive
+patti.thompson@enron.com,2010-09-01,Happy holidays,0.35555555555555557,Positive,Positive
+patti.thompson@enron.com,2010-05-31,Schedule C Reserve,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-02-10,Your Birthday,0.0,Neutral,Positive
+patti.thompson@enron.com,2010-05-25,Intel Corporation and Davis Wire Corporation,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-26,The Mighty Horns,-0.030000000000000006,Neutral,Neutral
+lydia.delgado@enron.com,2011-08-04,Invitation to Mardi Gras,0.18863636363636363,Positive,Positive
+john.arnold@enron.com,2010-02-03,Re: resume,0.20833333333333334,Positive,Positive
+john.arnold@enron.com,2011-11-16,Re: Game @ 7:00,-0.4,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-03-28,Open Enrollment 2001 Deadline,0.0,Neutral,Positive
+johnny.palmer@enron.com,2011-04-16,Texas EOL DATA,0.2,Positive,Neutral
+sally.beck@enron.com,2011-08-17,Re: Brian's B-day,-0.3333333333333333,Negative,Neutral
+patti.thompson@enron.com,2010-05-24,Taylor,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-12,Check-out with PECO,0.13333333333333333,Positive,Neutral
+lydia.delgado@enron.com,2011-05-04,Outage for Unify Gas Users,-0.125,Negative,Neutral
+sally.beck@enron.com,2010-03-24,RE: Send me your resume,0.29375,Positive,Positive
+bobette.riner@ipgdirect.com,2010-05-16,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-04-11,Re: Cancun,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-04-23,Info for Accounting Offsite,0.5234375,Positive,Positive
+bobette.riner@ipgdirect.com,2010-02-14,"Into Cinergy Hourly Index for November 20, 2001",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-15,RE: ffl,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-09-18,IPG,0.19047619047619047,Positive,Positive
+sally.beck@enron.com,2011-08-25,ClickAtHome - MSN Internet Service Available,0.05750000000000001,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-04,Hot List & Mgmt Summary 9/28/00,0.2333333333333333,Positive,Neutral
+john.arnold@enron.com,2010-06-14,[Fwd: James Vasquez],0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-14,(No Subject),0.125,Positive,Positive
+lydia.delgado@enron.com,2010-10-30,"Playa Del Carmen, Mex.",0.0,Neutral,Neutral
+sally.beck@enron.com,2011-11-28,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-14,Accomplishments - First Half of 2000,0.08214285714285714,Positive,Neutral
+don.baughman@enron.com,2011-01-09,hey don,0.06818181818181818,Positive,Neutral
+johnny.palmer@enron.com,2010-03-12,Congratulations!,0.4083333333333333,Positive,Positive
+sally.beck@enron.com,2010-12-13,"SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who
+ Participate in the Enron Corp Savings Plan",0.23344155844155842,Positive,Positive
+sally.beck@enron.com,2010-03-22,Hello!,0.11818181818181818,Positive,Neutral
+lydia.delgado@enron.com,2010-11-22,Operations Contacts - Week of March 12,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-01-10,Happy Hour,0.8,Positive,Positive
+don.baughman@enron.com,2011-10-22,Book Administrator's for EGM,-0.125,Negative,Neutral
+patti.thompson@enron.com,2011-09-09,Re: funnies,-0.15000000000000002,Negative,Neutral
+lydia.delgado@enron.com,2011-02-08,Position,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-08-11,RE: Scalers for conversion of daily prices to hourly prices,0.07500000000000001,Positive,Positive
+johnny.palmer@enron.com,2010-05-13,Triple Lutz Notes,0.1,Positive,Neutral
+eric.bass@enron.com,2010-07-03,FW: TheStreet: Trusts Keeping Enron Off Balance,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-05-16,You Won't Believe These Rates!,0.4,Positive,Positive
+rhonda.denton@enron.com,2010-08-20,CG&E Agreements,0.11233766233766233,Positive,Neutral
+kayne.coulter@enron.com,2011-11-03,December Newsletter - Free CD with any order!,0.375,Positive,Positive
+kayne.coulter@enron.com,2010-04-17,PG&E BANKRUPTCY CASE-- IMPORTANT,0.27738095238095234,Positive,Negative
+lydia.delgado@enron.com,2011-11-25,RE: Honeymoon Itinerary,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-06-24,Re :  (#7482-000998-38589983858),0.5,Positive,Neutral
+rhonda.denton@enron.com,2010-04-08,Holiday posting schedule,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-06-13,Re: Thanks for the interview,0.2611111111111111,Positive,Positive
+john.arnold@enron.com,2011-03-26,"Into Cinergy Hourly Index for November 19, 2001",0.25555555555555554,Positive,Positive
+rhonda.denton@enron.com,2011-09-02,P&L entries,-0.03015873015873017,Neutral,Negative
+eric.bass@enron.com,2010-04-04,Re: Tuition Reimbursement,0.15000000000000002,Positive,Neutral
+eric.bass@enron.com,2011-10-26,Re: promotion,0.4,Positive,Positive
+kayne.coulter@enron.com,2010-11-11,PG&E Weekly Report,-0.0022222222222222253,Neutral,Negative
+johnny.palmer@enron.com,2011-07-23,eValueMarketing  - N60 Cancellation,0.5,Positive,Neutral
+johnny.palmer@enron.com,2010-06-12,Emily's First Pictures,0.31803751803751806,Positive,Positive
+john.arnold@enron.com,2010-03-17,Trips,-0.125,Negative,Neutral
+kayne.coulter@enron.com,2011-12-08,Quick and Easy Renewal Form for CFO Magazine,0.18958333333333333,Positive,Positive
+sally.beck@enron.com,2011-08-22,(No Subject),0.011111111111111115,Neutral,Negative
+bobette.riner@ipgdirect.com,2010-05-27,Added Role,0.008333333333333338,Neutral,Positive
+sally.beck@enron.com,2010-12-28,"SAVINGS PLAN TRANSITION PERIOD ENDS For All Employees who
+ Participate in the Enron Corp Savings Plan",0.23344155844155842,Positive,Positive
+johnny.palmer@enron.com,2011-02-22,Re: Petro Canada,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-09-07,Congratulations,0.0,Neutral,Positive
+don.baughman@enron.com,2011-12-12,Deferred Annuity,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-05-12,RE: Good Morning!!,1.0,Positive,Positive
+johnny.palmer@enron.com,2011-08-16,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-11-23,Update to Merger Q&A,0.5,Positive,Neutral
+john.arnold@enron.com,2010-06-21,RE: Taylor,-0.07500000000000001,Negative,Neutral
+sally.beck@enron.com,2011-01-10,Re: Proposal for Electronic Confirmations,0.47000000000000003,Positive,Negative
+eric.bass@enron.com,2011-09-13,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-02-12,OPM Presentation,0.3125,Positive,Positive
+johnny.palmer@enron.com,2011-04-19,Welcome to Chicago and ENA,0.5,Positive,Positive
+johnny.palmer@enron.com,2011-07-20,Global Ops Task Force week ending 9/29,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-12-18,"Re: SPP hourly trades have been incorporated into the Entergy
+ hourly index",0.35,Positive,Positive
+eric.bass@enron.com,2010-01-14,EnTelligence WebSite,0.0,Neutral,Positive
+lydia.delgado@enron.com,2010-03-19,Vermont Yankee Status Update.,0.4,Positive,Neutral
+rhonda.denton@enron.com,2010-05-16,EDGAR Online - Here is the Information You Requested,0.125,Positive,Neutral
+sally.beck@enron.com,2010-08-09,Re: Cha Ching!,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-05,"Reliant Energy Services, Inc.",0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-11-11,EnronOptions Update!,0.25,Positive,Positive
+rhonda.denton@enron.com,2011-01-08,Re: 2001 Margin Plan,0.4166666666666667,Positive,Neutral
+rhonda.denton@enron.com,2011-06-02,Re: Expense Reports,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-11-13,Re: Do you want to reschedule a catch up ?,0.26833333333333337,Positive,Positive
+kayne.coulter@enron.com,2011-10-28,MAPP ATC Posting Website,-0.125,Negative,Negative
+bobette.riner@ipgdirect.com,2011-09-19,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-09-12,RE: FFL Dues,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-08-21,Michael Byrne-Real Time Trader,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-03-13,T. Hall's Exp Rpt for Your Apprvl,0.2,Positive,Positive
+patti.thompson@enron.com,2010-05-30,Re: Got caught up with real time issue - missed my slot today,0.23214285714285715,Positive,Positive
+sally.beck@enron.com,2010-10-17,Global Operations Controller Forum,0.06135531135531136,Positive,Positive
+kayne.coulter@enron.com,2011-02-20,HEY,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-04-06,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-01-04,Intel Corporation and Davis Wire Corporation,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-01-27,Re: Practice,0.2,Positive,Positive
+sally.beck@enron.com,2010-07-30,(No Subject),-0.1,Negative,Neutral
+lydia.delgado@enron.com,2010-07-30,energynewslive.com,0.25,Positive,Neutral
+lydia.delgado@enron.com,2011-05-30,OU Salaries,0.05555555555555555,Positive,Negative
+eric.bass@enron.com,2010-01-15,(No Subject),0.21696428571428572,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-07-21,Another Move Up the Career Ladder,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-11,Interview Schedule,0.1,Positive,Neutral
+eric.bass@enron.com,2010-09-28,Remington Wildlife Feeders,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-07-01,(No Subject),0.0,Neutral,Positive
+eric.bass@enron.com,2010-03-11,LaRence Snowden,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-04,Potential employment opportunities with Enron,0.06499999999999999,Positive,Positive
+lydia.delgado@enron.com,2010-09-10,"Final Schedule - Wednesday, May 23, 2001 - Kevin M. McLarney",0.06666666666666667,Positive,Neutral
+john.arnold@enron.com,2011-08-10,Dinner Friday,0.0,Neutral,Positive
+don.baughman@enron.com,2011-04-15,RE: CommodityLogic Team Contact Info,0.2,Positive,Positive
+johnny.palmer@enron.com,2011-02-03,RE: game at 9,-0.4,Negative,Neutral
+don.baughman@enron.com,2010-07-01,Re: FW: Olympic Highlights,0.2875,Positive,Positive
+patti.thompson@enron.com,2010-04-09,Darrel Jackson,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-08-27,Vermont Yankee Notification,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-10,Re: GAME TONIGHT @ 7:00,-0.35,Negative,Neutral
+kayne.coulter@enron.com,2011-10-05,Fwd: Foundations,0.8,Positive,Positive
+lydia.delgado@enron.com,2011-05-01,RE:,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-12-18,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-08-18,Re: Congratulations,0.45999999999999996,Positive,Positive
+johnny.palmer@enron.com,2010-03-18,New Interchange Subcommittee Officers,0.20735930735930733,Positive,Positive
+bobette.riner@ipgdirect.com,2010-03-28,Transmission Rates,0.24285714285714285,Positive,Positive
+eric.bass@enron.com,2010-03-19,Re:,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-12-25,E Services company,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-30,Re: Congrats,0.1,Positive,Positive
+lydia.delgado@enron.com,2010-06-22,(No Subject),-0.1,Negative,Neutral
+lydia.delgado@enron.com,2011-08-20,Forgot the Attachment,0.3,Positive,Neutral
+johnny.palmer@enron.com,2010-10-13,National Grid as Managing member of ARTO,0.01676136363636363,Neutral,Negative
+sally.beck@enron.com,2010-03-09,Super Bowl Party - 2/3/02,0.20833333333333331,Positive,Positive
+john.arnold@enron.com,2010-02-02,Re: Metals Trading Back Office Support Meeting,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-08-09,FYI: Online Financial Tool StatementOne Has $15 Million Round Two,-0.03181818181818183,Neutral,Neutral
+patti.thompson@enron.com,2010-12-08,LUNCH,0.25,Positive,Neutral
+rhonda.denton@enron.com,2010-06-06,FW: Scotty Ts X-mas Party 2,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-09-14,Meeting Today at 1:30 Re: Compensation Study,0.03333333333333334,Neutral,Neutral
+john.arnold@enron.com,2010-12-05,Re:,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-10-29,(No Subject),-0.375,Negative,Negative
+john.arnold@enron.com,2011-11-11,TNE Index info attached,0.19375,Positive,Positive
+eric.bass@enron.com,2010-10-04,1/5/00 P&L,-0.07777777777777779,Negative,Neutral
+don.baughman@enron.com,2010-02-13,January earnings,-0.024999999999999994,Neutral,Neutral
+don.baughman@enron.com,2011-08-25,Ski trip????,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-03-12,Alexander McElreath 24hr Trader,0.1,Positive,Neutral
+john.arnold@enron.com,2011-07-15,Vermont Yankee,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-07-20,Bid/Offer,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-01-25,Central Illinois Light Company,0.20000000000000004,Positive,Neutral
+eric.bass@enron.com,2011-10-05,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-06-07,1/5/00 P&L,-0.07777777777777779,Negative,Neutral
+john.arnold@enron.com,2010-08-22,Re: Hi!,0.13857142857142857,Positive,Positive
+eric.bass@enron.com,2011-04-08,RE: Ship fixed price swing/swap,0.1,Positive,Neutral
+john.arnold@enron.com,2010-11-13,Re: CFA Reimbursement,-0.4,Negative,Neutral
+john.arnold@enron.com,2011-03-13,(No Subject),0.0,Neutral,Negative
+lydia.delgado@enron.com,2011-02-04,Re: Lisa Peterson,0.16666666666666666,Positive,Negative
+don.baughman@enron.com,2010-12-11,RESUME,0.5,Positive,Neutral
+sally.beck@enron.com,2010-09-12,Re: Global Operations Controller Forum,0.02232142857142857,Neutral,Neutral
+don.baughman@enron.com,2011-11-21,Prudency Release,0.044444444444444446,Neutral,Neutral
+john.arnold@enron.com,2010-06-28,System outage nomination impact,-0.19999999999999998,Negative,Negative
+rhonda.denton@enron.com,2010-05-23,Interview Schedule,0.175,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-22,We Got the Money!!,0.26,Positive,Positive
+john.arnold@enron.com,2010-03-06,Dog,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-18,data,0.5,Positive,Positive
+lydia.delgado@enron.com,2010-05-10,Webtrader beta testing data from the hourly EPMI,0.25,Positive,Positive
+bobette.riner@ipgdirect.com,2011-12-19,Re: Travis Resume,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-21,Phone numbers,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-07-17,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2011-07-16,Buy DVD via ColumbiaHouse.com,0.4,Positive,Neutral
+kayne.coulter@enron.com,2010-12-31,Re: Game at 9:00,-0.5571428571428572,Negative,Negative
+lydia.delgado@enron.com,2011-03-28,Mr. Hamilton,0.5,Positive,Positive
+lydia.delgado@enron.com,2011-08-06,TradersNews market info,0.2,Positive,Neutral
+john.arnold@enron.com,2010-03-05,Get CoolBlueOffers(R) Savings,0.18928571428571428,Positive,Positive
+don.baughman@enron.com,2011-09-15,TNE Index info attached,0.19375,Positive,Positive
+rhonda.denton@enron.com,2010-04-01,- Inventory Collected from CN=Don Baughman/OU=HOU/O=ECT -,0.13,Positive,Positive
+john.arnold@enron.com,2011-12-05,"IDACORP Energy, LP",0.2333333333333333,Positive,Neutral
+johnny.palmer@enron.com,2010-08-10,*Updated* Nightly Duties and MDEA Load sheets folder,0.16666666666666666,Positive,Positive
+lydia.delgado@enron.com,2011-10-12,Global Operations Controller Forum,0.06135531135531136,Positive,Positive
+don.baughman@enron.com,2010-03-02,Re: Davis,0.5,Positive,Positive
+don.baughman@enron.com,2011-09-25,Chad Starnes,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-03-12,Action from last Doorstep meeting,0.012500000000000002,Neutral,Negative
+johnny.palmer@enron.com,2011-11-03,Into Cinergy Hourly Index,-0.1,Negative,Positive
+patti.thompson@enron.com,2011-09-16,TNE Index info attached,0.19375,Positive,Positive
+don.baughman@enron.com,2011-06-04,<<Concur Expense Document>> - Baseball Game,-0.13214285714285715,Negative,Positive
+sally.beck@enron.com,2011-07-27,Enron Messenging Board,0.25,Positive,Neutral
+rhonda.denton@enron.com,2011-06-06,RE: TradersNews,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-02,Your Username and Password,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-12-05,Re: Admin Issues,0.0,Neutral,Negative
+don.baughman@enron.com,2011-05-29,Communications Workshop,0.0,Neutral,Positive
+eric.bass@enron.com,2011-06-09,RBs,0.0,Neutral,Negative
+patti.thompson@enron.com,2010-01-13,"TradersNews hourly indexes for ComEd, TVA and ERCOT attached",0.13636363636363635,Positive,Neutral
+kayne.coulter@enron.com,2011-02-06,Gen-Sys Energy,0.2,Positive,Neutral
+don.baughman@enron.com,2010-04-16,Winfield Technology,0.1,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-23,(No Subject),0.18833333333333332,Positive,Negative
+lydia.delgado@enron.com,2010-11-18,So long,0.25092592592592594,Positive,Positive
+patti.thompson@enron.com,2011-10-26,"IDACORP Energy, LP",0.2333333333333333,Positive,Neutral
+johnny.palmer@enron.com,2011-08-08,Re: Fw: [txhmed] interesting ...,0.13686868686868686,Positive,Positive
+lydia.delgado@enron.com,2010-05-12,RE: My new work email,-0.006818181818181834,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-22,(No Subject),0.13636363636363635,Positive,Neutral
+patti.thompson@enron.com,2011-07-24,Message from Rusty,0.33954545454545454,Positive,Positive
+john.arnold@enron.com,2010-11-16,Congratulations,0.041666666666666664,Neutral,Positive
+eric.bass@enron.com,2011-04-22,No trades with PG&E,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-04-21,Re:,0.18181818181818182,Positive,Positive
+kayne.coulter@enron.com,2010-05-28,Dinner Tomorrow,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-09-02,"FirstEnergy Trading Services, Inc.",0.6,Positive,Neutral
+don.baughman@enron.com,2010-12-07,Re:,0.31233766233766236,Positive,Positive
+kayne.coulter@enron.com,2011-10-11,energynewslive.com,0.25,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-11-14,Phone numbers,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-05-31,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-04-17,Trade?,-0.1,Negative,Neutral
+lydia.delgado@enron.com,2011-05-07,model,-0.1,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-09-30,Knowledge Center,0.04,Neutral,Neutral
+sally.beck@enron.com,2011-07-19,Re: Please read and respond,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-08-06,Conference Call on Wednesday morning,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-11-03,Re: Dinner on Friday?,-0.15000000000000002,Negative,Neutral
+rhonda.denton@enron.com,2010-04-19,Connecticut Municipal Electric Energy Cooperative,0.2,Positive,Neutral
+sally.beck@enron.com,2011-08-22,Action Requested:  Past Due Invoice,-0.05555555555555555,Negative,Neutral
+eric.bass@enron.com,2010-02-11,Message from Rusty,0.33954545454545454,Positive,Positive
+lydia.delgado@enron.com,2011-01-01,Professional Update,0.09999999999999999,Positive,Positive
+bobette.riner@ipgdirect.com,2010-02-17,"TradersNews hourly indexes for ComEd, TVA and ERCOT attached",0.13636363636363635,Positive,Neutral
+don.baughman@enron.com,2010-05-18,OU Corporate View,-0.10952380952380952,Negative,Positive
+patti.thompson@enron.com,2011-01-02,Traders News Meeting Chuck & Miles,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-01,Re: Semi Finals,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-12,Re: Telluride,-0.10000000000000002,Negative,Neutral
+sally.beck@enron.com,2011-03-24,MISO Advisory Seat,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-30,TradeSpark SO2 & OTC NOx MPI 01/25/01,0.23333333333333336,Positive,Positive
+bobette.riner@ipgdirect.com,2010-02-08,(No Subject),0.17833333333333332,Positive,Neutral
+eric.bass@enron.com,2010-01-25,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-06-09,FW: TOP 50 GAS CPS - AS OF 11-20-01,0.5,Positive,Neutral
+sally.beck@enron.com,2011-12-03,(No Subject),-0.025,Neutral,Positive
+rhonda.denton@enron.com,2011-01-26,Global Risk Management Operations Weekly Operating Report,0.06666666666666667,Positive,Neutral
+don.baughman@enron.com,2011-10-30,Garvin Brown - AXIA Sr. Power Scheduler,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-09-06,Funny,0.25,Positive,Positive
+rhonda.denton@enron.com,2010-08-28,Re: UT MBA Excellence Awards,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-07-01,Re:,0.16666666666666666,Positive,Neutral
+sally.beck@enron.com,2010-08-29,RE: traders news indexes 4-03-01,0.175,Positive,Neutral
+johnny.palmer@enron.com,2011-09-09,24 hour trading position,0.45,Positive,Positive
+patti.thompson@enron.com,2011-07-10,8:30 AM Tuesday Risk Meeting,0.05,Positive,Neutral
+sally.beck@enron.com,2010-12-29,Re: AEC Issues,0.39999999999999997,Positive,Positive
+eric.bass@enron.com,2010-07-14,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+johnny.palmer@enron.com,2011-05-31,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+sally.beck@enron.com,2011-10-15,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-12-22,Conference Update,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-23,Master Power Contracts,0.20000000000000004,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-06-27,Re: ENSIDE,0.5208333333333334,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-03,ERCOT Readiness Update attached,0.03333333333333333,Neutral,Neutral
+sally.beck@enron.com,2010-02-22,Fwd: [Fwd: Fwd: predictions],0.0,Neutral,Neutral
+sally.beck@enron.com,2011-11-25,RE:,0.3499999999999999,Positive,Positive
+kayne.coulter@enron.com,2010-07-28,Oldy but goody,0.15,Positive,Positive
+kayne.coulter@enron.com,2010-12-17,Re: Mumme,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-08-21,Congratulations!,0.12878787878787878,Positive,Positive
+johnny.palmer@enron.com,2010-09-25,SAP Logon ID and Password,0.024999999999999994,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-11-22,Canadian Promotions/Trip,0.3,Positive,Positive
+rhonda.denton@enron.com,2011-04-19,Dayton Power & Light; Sempra Energy Trading,0.25,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-11-19,RE: Thursday,-0.234375,Negative,Negative
+don.baughman@enron.com,2010-06-27,Re:,0.4166666666666667,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-12-25,Re:,-0.5,Negative,Neutral
+lydia.delgado@enron.com,2011-10-01,Re: Petro Canada,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-10-16,DPR Holiday Schedule,0.1619047619047619,Positive,Positive
+don.baughman@enron.com,2010-05-03,Re: Fantasy Basketball,0.25,Positive,Positive
+johnny.palmer@enron.com,2010-08-05,Dinner Friday,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-06-20,Re: NCAA,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-06-22,Project DoorStep TARGET DATE,0.05,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-10-16,Re: Executive Impact and Influence Program- Enrollment,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-03-02,Re: Promotion,0.4,Positive,Positive
+patti.thompson@enron.com,2010-01-15,Into Cinergy Index,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-05-08,Global Operations Task Force - Issues Summary,0.0,Neutral,Negative
+john.arnold@enron.com,2010-12-29,December Course Offerings,0.3,Positive,Neutral
+kayne.coulter@enron.com,2011-12-30,eService Online New Member Information,0.43825757575757573,Positive,Positive
+eric.bass@enron.com,2011-12-24,EOL stats for Q4 2000,0.05454545454545454,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-04-01,RE:,-0.0045454545454545565,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-20,Insert for Organizational Memo,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-03-17,Flat books,0.10113636363636364,Positive,Negative
+john.arnold@enron.com,2011-10-08,Re: Expense Reports,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-07-19,Re: EBS Position,0.4787878787878788,Positive,Positive
+johnny.palmer@enron.com,2011-08-27,Breakfast Reception with Dan McCarty - Fx Ctr,0.13333333333333333,Positive,Neutral
+patti.thompson@enron.com,2010-11-22,ENA SAP Controls Projects,0.1,Positive,Neutral
+lydia.delgado@enron.com,2011-02-19,Re: Cover,0.10000000000000002,Positive,Neutral
+sally.beck@enron.com,2011-07-13,(No Subject),0.34285714285714286,Positive,Neutral
+lydia.delgado@enron.com,2010-03-17,Re: FW: You asked for questions,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-06-23,GAME TONIGHT @ 8:45,-0.4,Negative,Neutral
+patti.thompson@enron.com,2011-08-30,Re: Business Review,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-10-15,Re: Meeting,0.7,Positive,Positive
+patti.thompson@enron.com,2011-11-13,Enron Management Conference,0.25,Positive,Neutral
+don.baughman@enron.com,2011-10-12,POWER REVIEW,-0.25,Negative,Neutral
+don.baughman@enron.com,2010-12-28,Re : Game on Wed,-0.5,Negative,Negative
+lydia.delgado@enron.com,2010-10-15,TradeSpark SO2 and OTC NOx MPI 02/23/01,0.23333333333333336,Positive,Positive
+kayne.coulter@enron.com,2010-07-20,Re: Class Confirmation - Kristin Albrecht,0.35,Positive,Neutral
+kayne.coulter@enron.com,2010-01-04,FW: Hourly Trading Desk,0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-09-05,Re: Next Week,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-09-13,"Allegheny Energy Supply Company LLC - Merrill Lynch Capital
+ Services, Inc.",0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-03-04,FW: Vermont Yankee Notification,-0.16666666666666666,Negative,Neutral
+john.arnold@enron.com,2010-03-03,Re: EnTouch Deadline,0.2928571428571428,Positive,Positive
+kayne.coulter@enron.com,2010-01-19,(No Subject),0.0024999999999999953,Neutral,Neutral
+john.arnold@enron.com,2010-02-19,Miachael's Address,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-08-16,Groceries for 1/10/01,-0.2,Negative,Neutral
+lydia.delgado@enron.com,2010-09-05,End of Season,0.145,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-07,Re: Thanks!,0.3025510204081633,Positive,Positive
+don.baughman@enron.com,2010-04-26,RAC risk reporting,0.12142857142857141,Positive,Neutral
+lydia.delgado@enron.com,2011-03-17,TradersNews ComEd and TVA hourly indexes attached,0.13636363636363635,Positive,Neutral
+sally.beck@enron.com,2010-07-29,El Tiempo,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-01-23,MANUAL WIRE & SAME DAY PAYMENT AUTHORIZATION SCHEDULE,0.06818181818181818,Positive,Neutral
+don.baughman@enron.com,2010-01-08,Re:,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-05-17,pc problems,0.0,Neutral,Negative
+sally.beck@enron.com,2011-10-28,(no subject),0.2625,Positive,Positive
+johnny.palmer@enron.com,2011-07-12,Re: AEC Issues,0.39999999999999997,Positive,Positive
+john.arnold@enron.com,2010-08-12,In London Office - January 15-19,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-05-29,Power Contracts,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-02-10,Cigar Aficionado Account Service,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-01-26,Pick-Ups,0.2333333333333333,Positive,Neutral
+lydia.delgado@enron.com,2011-10-30,Re: Game tonight,-0.4,Negative,Neutral
+john.arnold@enron.com,2010-02-21,East Power Candidate,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-12-27,RE: Corruption Test,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-03-17,Associates PRC Meeting,0.13636363636363635,Positive,Neutral
+john.arnold@enron.com,2010-07-11,TMS Weekly Mtg. Conference room EB4102,0.13333333333333333,Positive,Neutral
+patti.thompson@enron.com,2011-07-02,MISO proposed $1000 penalty,-0.13333333333333328,Negative,Negative
+john.arnold@enron.com,2010-06-24,Buy DVD via ColumbiaHouse.com,0.4,Positive,Neutral
+sally.beck@enron.com,2010-03-18,"Using TradersNews Energy Hourly Indexes in a Next-day Trading
+ Strategy",0.14444444444444443,Positive,Neutral
+don.baughman@enron.com,2011-05-14,EnVision - Updated,0.26666666666666666,Positive,Positive
+don.baughman@enron.com,2010-05-17,ComEd and Cinergy Markets,-0.1,Negative,Neutral
+sally.beck@enron.com,2010-12-06,Re: fyi - eRequest for vpn,0.33166666666666667,Positive,Positive
+bobette.riner@ipgdirect.com,2011-02-23,RE: Baby Party/Shower,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-16,Re: cddd,-0.15000000000000002,Negative,Neutral
+lydia.delgado@enron.com,2011-08-31,Soward,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-11,FW: Real Time Trader Ryan Thomas,0.2,Positive,Neutral
+john.arnold@enron.com,2011-02-20,clarksdale generation,0.2,Positive,Neutral
+john.arnold@enron.com,2010-01-27,OU Alumni List - GIS,0.4,Positive,Positive
+john.arnold@enron.com,2010-07-11,MNF,-0.20833333333333331,Negative,Neutral
+lydia.delgado@enron.com,2010-11-25,Re: NO GAME TONIGHT,0.2,Positive,Neutral
+rhonda.denton@enron.com,2011-11-07,East Power Candidate,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-20,Re: reminder -pira dinner sund may 13 th 7.45 pm st regis,-0.06825396825396826,Negative,Neutral
+johnny.palmer@enron.com,2011-02-19,Re: Aeros,0.175,Positive,Neutral
+eric.bass@enron.com,2010-10-11,Re: Approval for Sign on Bonuses,0.2,Positive,Positive
+don.baughman@enron.com,2011-08-16,BRUTAL,-0.2333333333333333,Negative,Positive
+lydia.delgado@enron.com,2011-04-30,- Inventory Collected from CN=Don Baughman/OU=HOU/O=ECT -,0.13,Positive,Positive
+john.arnold@enron.com,2010-10-18,Indianapolis Power and Light Company,0.30000000000000004,Positive,Neutral
+patti.thompson@enron.com,2011-10-21,Re:,0.3234848484848485,Positive,Positive
+don.baughman@enron.com,2010-06-06,2002 Holiday Schedule,0.0934659090909091,Positive,Positive
+lydia.delgado@enron.com,2011-04-16,Re:,-0.3333333333333333,Negative,Negative
+bobette.riner@ipgdirect.com,2011-09-19,Christine Walton Resume,0.4575,Positive,Positive
+don.baughman@enron.com,2011-07-01,Re: Rotations,0.07457912457912458,Positive,Positive
+eric.bass@enron.com,2010-10-27,"Price Reservations 14 May 2001 Real-Time Market and 15 May 2001
+ Day-Ahead Market",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-10-14,The TradersNews hourly indexes have been posted,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-01-26,Global Ops Task Force week ending 9/29,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-06-20,Carthage GAS DAILY MONTHLY INDEX,0.06666666666666667,Positive,Neutral
+sally.beck@enron.com,2010-05-01,Re: photos as a gift?,0.04999999999999999,Neutral,Neutral
+john.arnold@enron.com,2010-03-16,Sign of the Times,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-12-11,Re: Astral downtime request,0.8,Positive,Positive
+john.arnold@enron.com,2011-10-08,Special Enron Business Birthday Edition Now Online,0.29464285714285715,Positive,Positive
+eric.bass@enron.com,2011-08-16,Re: Interview,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-06-22,"Playa Del Carmen, Mex.",0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-10-19,USBS Painewebber,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-05-25,trading in India,0.11212121212121212,Positive,Neutral
+don.baughman@enron.com,2011-09-18,Freeman,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-05-03,(No Subject),0.390625,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-13,MANUAL WIRE & SAME DAY PAYMENT AUTHORIZATION SCHEDULE,0.06818181818181818,Positive,Neutral
+john.arnold@enron.com,2010-01-29,Re:,0.2555555555555556,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-10-23,Re: Gonzalez,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-05-21,Alexander McElreath 24hr Trader,0.1,Positive,Neutral
+sally.beck@enron.com,2010-06-11,Texas vs. Michigan?,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-09-02,8/7/2001 HE 23,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-03-03,DCB Passwords,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-01-14,CAISO Notice: August 31 Distributed Generation Meeting,0.06944444444444445,Positive,Negative
+lydia.delgado@enron.com,2010-05-19,Snapka's Holiday Benefits (all prodeeds go to Cindy!),0.0,Neutral,Positive
+sally.beck@enron.com,2011-12-20,\\GTROS-FS01P\APPSRW,0.475,Positive,Positive
+patti.thompson@enron.com,2010-01-25,(No Subject),0.5,Positive,Neutral
+sally.beck@enron.com,2010-07-30,CFA Reimbursement,0.2,Positive,Neutral
+rhonda.denton@enron.com,2010-08-10,Re: Production Data,-0.008333333333333331,Neutral,Neutral
+eric.bass@enron.com,2010-07-16,Powerpoint Presentation,0.0,Neutral,Positive
+kayne.coulter@enron.com,2011-12-19,Re: visit,0.25,Positive,Positive
+don.baughman@enron.com,2011-04-09,Re:,0.6,Positive,Positive
+lydia.delgado@enron.com,2010-05-30,VaR training,0.26666666666666666,Positive,Neutral
+don.baughman@enron.com,2010-09-26,ClickAtHome Pilot 3 - Last Day to speak with Dell,0.1,Positive,Neutral
+eric.bass@enron.com,2010-07-07,London Doorstep Presentations,0.1,Positive,Positive
+don.baughman@enron.com,2010-02-14,Steamboat Vacation information...,0.25,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-03-08,Re: Congratulations!,0.4,Positive,Positive
+eric.bass@enron.com,2010-10-25,Re: Demand Letter for Shannon Tyer to Amico Property,0.2,Positive,Neutral
+eric.bass@enron.com,2011-09-30,RE: Mind if I drive into your house?,0.125,Positive,Neutral
+patti.thompson@enron.com,2010-07-03,Our next vacation,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-01-12,Scott Earnest Out of Office,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-04-18,Winfield Technology,0.1,Positive,Positive
+john.arnold@enron.com,2010-03-19,Fwd: Inspection Report,0.8,Positive,Positive
+lydia.delgado@enron.com,2011-12-08,for our meeting this morning,0.3,Positive,Positive
+kayne.coulter@enron.com,2011-09-20,"FirstEnergy Trading Services, Inc.",0.6,Positive,Neutral
+don.baughman@enron.com,2011-02-02,Flat books,0.10113636363636364,Positive,Negative
+rhonda.denton@enron.com,2011-12-24,Re: Global Operations Controllers Forum,0.3,Positive,Positive
+sally.beck@enron.com,2010-08-14,TradersNews market info,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-10-21,do you have any people working on Friday?,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-06-06,Expense Report for Stephen Schwarz Dated 6/5/00,0.2,Positive,Positive
+lydia.delgado@enron.com,2011-05-26,TradersNews Energy Account Activation,-0.07777777777777779,Negative,Negative
+eric.bass@enron.com,2011-12-14,Details of Thursday Afternoon OpRisk Meeting,-0.06666666666666667,Negative,Neutral
+patti.thompson@enron.com,2010-06-12,RE: Receipt of Hedge Fund Information,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-01-08,(No Subject),0.21696428571428572,Positive,Neutral
+don.baughman@enron.com,2011-07-28,Approval to release salary averages to Lisa Cousino,0.0,Neutral,Positive
+rhonda.denton@enron.com,2010-07-07,Interview Schedule for Eric Blair,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-12-16,ffl dues,0.2,Positive,Positive
+johnny.palmer@enron.com,2011-07-04,RE: funnies,-0.15000000000000002,Negative,Neutral
+sally.beck@enron.com,2010-05-18,RE: RESUME,0.15,Positive,Positive
+lydia.delgado@enron.com,2011-10-25,"Subject:  Entergy OASIS outage between 01:00 and 05:00 CST on
+ 11/17/2001",0.03393939393939393,Neutral,Neutral
+john.arnold@enron.com,2010-09-29,New Analyst,0.07878787878787878,Positive,Neutral
+john.arnold@enron.com,2011-10-21,Utility Term Sheet Form 1,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-11-02,New Power Book Req #839,0.13636363636363635,Positive,Neutral
+johnny.palmer@enron.com,2011-04-06,Re: Petro Canada,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-15,Scary Flood Pic,-0.5,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-09-11,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-04,Re: def leppard,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-06,New Years,0.2909090909090909,Positive,Positive
+john.arnold@enron.com,2010-12-29,Thunderball presentation,0.2,Positive,Neutral
+eric.bass@enron.com,2011-06-01,RE: canadian service deals,0.35,Positive,Neutral
+john.arnold@enron.com,2011-02-26,TradersNews Power Account,-0.018518518518518528,Neutral,Negative
+patti.thompson@enron.com,2011-11-04,RE: Thursday,-0.234375,Negative,Negative
+kayne.coulter@enron.com,2010-01-31,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-08-15,bullet points,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-03-17,(No Subject),0.16548295454545453,Positive,Neutral
+kayne.coulter@enron.com,2010-04-24,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-05-20,ENA SAP Controls Projects,0.1,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-07-17,Request Submitted: Access Request for maria.garza@enron.com,-0.125,Negative,Neutral
+johnny.palmer@enron.com,2010-09-17,Status on Hiring,0.05814393939393939,Positive,Positive
+sally.beck@enron.com,2010-10-13,RE:,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-26,Re: Travis Resume,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-07-13,(No Subject),0.1787878787878788,Positive,Neutral
+don.baughman@enron.com,2010-05-05,(No Subject),0.5,Positive,Neutral
+lydia.delgado@enron.com,2011-11-29,Vacation/Paternity Leave Scheduled,0.13636363636363635,Positive,Positive
+johnny.palmer@enron.com,2010-06-17,"DRAFT:  INFORMATION, Please Read: UBSWE Migration postponed",-0.05625,Negative,Neutral
+rhonda.denton@enron.com,2010-01-29,Ameren Services Company,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-03-07,Your 2nd round pick,-0.1,Negative,Neutral
+john.arnold@enron.com,2010-11-10,RE: CommodityLogic Team Contact Info,0.2,Positive,Positive
+johnny.palmer@enron.com,2011-01-27,Re: Welcome to www.har.com! (4),0.16,Positive,Positive
+kayne.coulter@enron.com,2011-09-11,"FirstEnergy System to American Transmission Systems, Inc.",0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-07-30,Data Integrity,0.032499999999999994,Neutral,Negative
+sally.beck@enron.com,2010-07-20,Year End 2000 Feedback Deadline,-0.016666666666666673,Neutral,Neutral
+rhonda.denton@enron.com,2010-04-22,Re: trades,-0.051851851851851864,Negative,Neutral
+johnny.palmer@enron.com,2010-07-31,Foster/Sahara meeting.,0.03683712121212122,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-06-12,Re: faulk,0.39999999999999997,Positive,Positive
+lydia.delgado@enron.com,2010-04-27,RE: ffl,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-02-20,Fantast Basketball DRAFT TODAY @ 10:30,0.07314814814814814,Positive,Positive
+sally.beck@enron.com,2011-08-27,RE: canadian service deals,0.35,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-07-18,RE: crude buying,-0.7,Negative,Neutral
+johnny.palmer@enron.com,2011-06-25,"Communication of Deferral Plan Status for Active and Inactive
+ Employees",0.24791666666666665,Positive,Negative
+don.baughman@enron.com,2010-12-29,Request Submitted: Access Request sally.beck@enron.com,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2010-03-06,Upcoming Season,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-09-07,ene,0.0,Neutral,Positive
+eric.bass@enron.com,2010-07-29,Re: Promotions Luncheon for Managers,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-09-05,MUI Access Notification,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-30,Western Area Power Administration,0.04102564102564103,Neutral,Positive
+don.baughman@enron.com,2011-01-31,Order re. transfer of operational control to MISO,0.41632653061224495,Positive,Positive
+lydia.delgado@enron.com,2010-12-15,"RESUME Of: Sanjay Gupta  - Thursday, August 2, 2001 -",0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-21,ENA Group Expenses,0.06000000000000001,Positive,Neutral
+rhonda.denton@enron.com,2010-08-24,Financial Council Agenda,0.08333333333333333,Positive,Neutral
+lydia.delgado@enron.com,2011-04-25,[cheatsheets] Bad News - Ricky Williams,0.16433566433566435,Positive,Negative
+rhonda.denton@enron.com,2010-04-20,Dec Schedule,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-13,Contractor List,0.1,Positive,Neutral
+sally.beck@enron.com,2010-11-30,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-04-16,(No Subject),0.5,Positive,Neutral
+eric.bass@enron.com,2011-06-19,Per my voice mail,0.33809523809523806,Positive,Positive
+lydia.delgado@enron.com,2010-05-19,Re: Deal # QX4420,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-02-22,Mandell,0.2857142857142857,Positive,Neutral
+patti.thompson@enron.com,2010-10-27,June Curve Validation Memorandum,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-11-02,Personnel on night shift week of 05/14 - 05/18/2001,0.225,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-09-16,EOL Average Deal Count as of 08-30-00,-0.075,Negative,Neutral
+johnny.palmer@enron.com,2010-02-18,Dope Wars 2.0 for Windows - Order No. 330038,0.09404761904761905,Positive,Positive
+bobette.riner@ipgdirect.com,2011-04-20,Re: FYI,0.2,Positive,Neutral
+sally.beck@enron.com,2010-05-29,Re: Do you want to reschedule a catch up ?,0.26833333333333337,Positive,Positive
+johnny.palmer@enron.com,2010-10-04,Master Power Contracts,0.1090909090909091,Positive,Neutral
+kayne.coulter@enron.com,2010-10-15,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-01-10,EWS Organizational Announcement,0.16,Positive,Neutral
+john.arnold@enron.com,2010-06-08,EnronOptions Update!,0.25,Positive,Positive
+john.arnold@enron.com,2010-07-13,Golf Friday?,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-08-11,(No Subject),0.25,Positive,Positive
+lydia.delgado@enron.com,2010-04-10,Accomplishments,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-03-07,No trades with PG&E,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-11-23,Another Move Up the Career Ladder,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-04-26,Vermont Yankee Status Update.,0.4,Positive,Neutral
+don.baughman@enron.com,2010-03-18,New Gen Update 2,0.15757575757575756,Positive,Neutral
+eric.bass@enron.com,2011-09-03,Re: free agents,0.4,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-15,Atlantic City Electric Company,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-01-07,Fwd: Inspection Report,0.8,Positive,Positive
+lydia.delgado@enron.com,2011-04-03,Re: Happy Hour,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2011-04-10,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2011-08-18,Dues,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-05-20,Associate & Analyst Program Survey,0.1666666666666667,Positive,Positive
+sally.beck@enron.com,2010-09-16,"AES NewEnergy,Inc.",0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-01-31,Continental Power Transmission,0.05,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-25,Re: congrats,0.0,Neutral,Positive
+rhonda.denton@enron.com,2011-12-21,"TradersNews officially launches hourly indexes for ERCOT,
+ ComEd/MAIN and TVA/SERC",0.2434659090909091,Positive,Positive
+sally.beck@enron.com,2010-08-09,Missed our Timing,0.08113636363636365,Positive,Negative
+bobette.riner@ipgdirect.com,2010-07-02,"Enron Conference Call Today, 11:00am CST",0.25,Positive,Neutral
+lydia.delgado@enron.com,2011-08-20,1/2/01 Preliminary DPR,0.20727272727272728,Positive,Neutral
+rhonda.denton@enron.com,2011-09-13,Re: FYI,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-10-29,Funny,0.00714285714285714,Neutral,Neutral
+john.arnold@enron.com,2011-07-01,AES Eastern Energy LP,0.2,Positive,Neutral
+don.baughman@enron.com,2010-11-21,RE: what are teh odds,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-01-27,Re: Subscription,-0.09999999999999999,Negative,Neutral
+eric.bass@enron.com,2011-04-12,Updated info,-0.03571428571428571,Neutral,Positive
+lydia.delgado@enron.com,2011-08-24,Rap mtg. Schedule,0.11041666666666666,Positive,Positive
+eric.bass@enron.com,2011-08-28,RE: Numbers,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-07-08,Master Power Contracts,0.2,Positive,Neutral
+lydia.delgado@enron.com,2011-02-13,Western Area Power Administration,0.04102564102564103,Neutral,Positive
+patti.thompson@enron.com,2011-07-14,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2010-05-14,RE: Exotic Options Module Series - Asian Options,0.2619047619047619,Positive,Neutral
+patti.thompson@enron.com,2011-08-06,ENA Management Committee,0.15833333333333335,Positive,Positive
+john.arnold@enron.com,2011-02-07,Re:,0.09,Positive,Positive
+patti.thompson@enron.com,2011-09-21,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-12-31,Joe Hunter resume,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-07-23,RE: Hey Man,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-06-22,trade,-0.1,Negative,Neutral
+eric.bass@enron.com,2011-11-18,RE: Good Morning,0.6499999999999999,Positive,Positive
+johnny.palmer@enron.com,2010-10-03,AirCard Activation,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-11,Quick and Easy Renewal Form for CFO Magazine,0.18958333333333333,Positive,Positive
+eric.bass@enron.com,2011-06-28,quad cities,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-12-09,Expense Report for Stephen Schwarz Dated 4/13/00,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-08-03,Systems,0.17101190476190478,Positive,Positive
+kayne.coulter@enron.com,2011-04-27,"Dove Hunt (Sept 1,2)",0.21428571428571427,Positive,Positive
+bobette.riner@ipgdirect.com,2010-04-25,"Enron Federal Credit Union - Loan Response, Application Number:
+ 725068.01",0.06507936507936508,Positive,Neutral
+patti.thompson@enron.com,2010-10-27,Your E-mail,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-09-29,Position,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-11-28,Re: BABY!,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-18,Austin,0.35,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-16,latest MG integration plan,0.39999999999999997,Positive,Positive
+rhonda.denton@enron.com,2010-04-16,RE: Enron on Moneyline,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-05-30,Power Desk List,-0.16666666666666666,Negative,Neutral
+rhonda.denton@enron.com,2010-07-11,Pager Request,-0.15,Negative,Negative
+don.baughman@enron.com,2011-08-19,Re: enl-dailyupdate-txt,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-06,Re:,-0.15000000000000002,Negative,Neutral
+sally.beck@enron.com,2011-03-22,houses,0.0,Neutral,Positive
+eric.bass@enron.com,2011-01-31,Coming to London,0.325,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-09,RE: are trading,-0.009595959595959616,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-25,Credit Watch List--4/23/01,-0.125,Negative,Negative
+patti.thompson@enron.com,2010-11-24,Interviews,0.3333333333333333,Positive,Positive
+don.baughman@enron.com,2010-01-08,Re: election night,0.27499999999999997,Positive,Positive
+sally.beck@enron.com,2010-07-22,Re: visit,0.12000000000000002,Positive,Positive
+patti.thompson@enron.com,2011-03-11,2000 Accomplishments,0.014090909090909088,Neutral,Positive
+eric.bass@enron.com,2010-04-15,Bet,-0.05,Negative,Neutral
+eric.bass@enron.com,2011-10-11,ClickAtHome Pilot 3 - Last Day to speak with Dell,0.1,Positive,Neutral
+sally.beck@enron.com,2010-03-06,Re: Furniture,-0.15000000000000002,Negative,Neutral
+kayne.coulter@enron.com,2010-05-30,"SPP hourly trades have been incorporated into the Entergy hourly
+ index",0.2,Positive,Neutral
+don.baughman@enron.com,2010-11-14,(No Subject),0.0,Neutral,Neutral
+eric.bass@enron.com,2010-05-06,Marriott,-0.4,Negative,Negative
+lydia.delgado@enron.com,2010-03-15,Enron In Action 11.19.01,0.25363636363636366,Positive,Positive
+johnny.palmer@enron.com,2010-03-31,Mid year review - resume,0.1,Positive,Neutral
+john.arnold@enron.com,2010-09-21,Re: Dec99 Enron North America Wholesale Volumes,0.062037037037037036,Positive,Neutral
+john.arnold@enron.com,2010-12-09,Interview Schedule for Bruno Messer,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-09-18,Mastio/FGT Mtg.,0.13333333333333333,Positive,Neutral
+patti.thompson@enron.com,2010-09-21,Clickpaper Review,0.16233766233766236,Positive,Positive
+sally.beck@enron.com,2010-07-20,Cigar Aficionado Account Service,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-29,"Fresno Cogeneration Partners, LP",0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-04-01,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-12-15,Re: Jealousy,-0.3125,Negative,Neutral
+johnny.palmer@enron.com,2010-03-09,Request For Additional Information,0.125,Positive,Neutral
+sally.beck@enron.com,2010-05-26,MPR 12/29/00,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-03-27,Las Vegas,0.0,Neutral,Positive
+don.baughman@enron.com,2011-12-04,RE: Dad's Birthday,0.5,Positive,Positive
+patti.thompson@enron.com,2010-04-22,Re: Matt Haselback,0.0,Neutral,Negative
+eric.bass@enron.com,2010-11-03,liquids curve validation,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-11-06,Product approval,0.2,Positive,Positive
+patti.thompson@enron.com,2010-05-01,Contract System Review - EB 4102,0.13333333333333333,Positive,Neutral
+johnny.palmer@enron.com,2011-12-05,Re: Missing TAGG Deals Meeting,-0.25,Negative,Negative
+patti.thompson@enron.com,2011-12-05,MAPP Loss Matrix,0.275,Positive,Negative
+bobette.riner@ipgdirect.com,2011-09-26,Re:,0.35,Positive,Positive
+sally.beck@enron.com,2011-11-04,Commissioner.COM Transaction Request,0.25,Positive,Positive
+don.baughman@enron.com,2010-11-22,"Re: Diversity/OLER Open House: Now Friday, April 27, 2001 from 9
+ a.m. to 3 p.m. in EBH49c1; drop by anytime to learn about Diversity/OLER
+ and enjoy some refreshments",0.225,Positive,Neutral
+kayne.coulter@enron.com,2011-02-27,Re: Aggie vs t.u. Flag Football,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-24,FFL Update,-0.15555555555555559,Negative,Neutral
+lydia.delgado@enron.com,2010-06-17,Re: GAME TONIGHT @ 7:00,-0.35,Negative,Neutral
+lydia.delgado@enron.com,2011-05-12,New Interchange Subcommittee Officers,0.20735930735930733,Positive,Positive
+john.arnold@enron.com,2011-08-11,Master Power Contracts,0.2,Positive,Neutral
+john.arnold@enron.com,2010-03-22,Re:,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-15,"Reliant Energy Services, Inc.",0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-09-12,"Into Cinergy Hourly Index for November 20, 2001",0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-15,Team Leader Mtg. Conference room EB4102,0.13333333333333333,Positive,Neutral
+sally.beck@enron.com,2010-03-13,Re:,0.018750000000000003,Neutral,Positive
+lydia.delgado@enron.com,2010-07-31,User account activated,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-08,Asset Marketing,0.1965909090909091,Positive,Positive
+don.baughman@enron.com,2010-02-25,Rankings,-0.6,Negative,Negative
+sally.beck@enron.com,2011-04-10,Extra Transmission Porviders,0.16666666666666666,Positive,Neutral
+john.arnold@enron.com,2010-03-16,FW:,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-09,Re: Questions regarding Steer rope guitar strap,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-08-08,RE:,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-01,Re: Check out Leni's website...,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-09,Don't forget to register!,0.21005291005291002,Positive,Neutral
+don.baughman@enron.com,2010-05-16,MAPP Loss Matrix,0.275,Positive,Negative
+bobette.riner@ipgdirect.com,2010-03-06,dead eye dick!,0.04375000000000001,Neutral,Neutral
+sally.beck@enron.com,2010-07-02,"Price differentials between TN hourly and daily Cin indexes,
+ Aug.-Nov.",0.125,Positive,Neutral
+rhonda.denton@enron.com,2010-11-23,"FW: MAPP Partial Outage Monday, November 19 5am-6am CT",-0.1,Negative,Neutral
+lydia.delgado@enron.com,2010-11-29,Re: JDF,0.05,Positive,Neutral
+lydia.delgado@enron.com,2011-09-27,Accomplishments - First Half of 2000,0.08214285714285714,Positive,Neutral
+lydia.delgado@enron.com,2010-02-03,TradersNews,0.23750000000000002,Positive,Positive
+don.baughman@enron.com,2010-06-17,RE: FFL Dues,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-01-25,FW: OATI Meeting Agenda,0.1875,Positive,Neutral
+kayne.coulter@enron.com,2010-04-25,Re: Game at 9:00,-0.5571428571428572,Negative,Negative
+don.baughman@enron.com,2011-05-25,Interview Schedule,0.1,Positive,Neutral
+lydia.delgado@enron.com,2011-05-31,Congratulations!,0.7083333333333334,Positive,Positive
+eric.bass@enron.com,2011-05-08,vacation plans,0.1590909090909091,Positive,Positive
+eric.bass@enron.com,2011-09-19,Re: I am officially in a bit of a panic!,0.3662037037037037,Positive,Positive
+rhonda.denton@enron.com,2010-08-21,RE: data,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-01-30,Re:,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-19,Monday's Game,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2011-12-21,(No Subject),-0.375,Negative,Negative
+lydia.delgado@enron.com,2011-08-27,Re:,0.4083333333333333,Positive,Neutral
+john.arnold@enron.com,2011-10-21,Re: Lunch w/ Cindy Olson,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-07-26,(No Subject),0.45,Positive,Neutral
+sally.beck@enron.com,2010-08-09,energynewslive.com,0.25,Positive,Neutral
+patti.thompson@enron.com,2011-09-03,dead eye dick!,0.04375000000000001,Neutral,Neutral
+patti.thompson@enron.com,2011-11-04,(No Subject),0.13333333333333333,Positive,Negative
+patti.thompson@enron.com,2010-06-05,2001 Plan vs 2000 Forecast Explanation,0.13963636363636361,Positive,Positive
+bobette.riner@ipgdirect.com,2011-06-12,Expense Report for Stephen Schwarz Dated 12/20/99,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-03-21,Re: Phone # verification,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-12-18,Meeting and Business Reports,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-11-20,Re:,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-06-11,Re: travel schedule,0.3872727272727273,Positive,Positive
+johnny.palmer@enron.com,2011-07-03,Pick -Up,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-05-28,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-12-24,Re:,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-05-18,(No Subject),0.11481481481481481,Positive,Neutral
+john.arnold@enron.com,2011-06-06,(No Subject),0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-07-23,El Paso Electric Company,0.2,Positive,Neutral
+john.arnold@enron.com,2011-12-29,Dot's Shirleys 90th birthday party,0.0,Neutral,Positive
+eric.bass@enron.com,2011-07-01,"FW: Final Schedule - Monday, July 2, 2001 - George T. Phillips",0.1,Positive,Neutral
+kayne.coulter@enron.com,2011-09-03,Re: Congratulations!,0.20650510204081632,Positive,Positive
+johnny.palmer@enron.com,2011-06-22,"MW Off-site @ El Lago Lake Conroe, Fletch, Dorland,",0.0,Neutral,Positive
+patti.thompson@enron.com,2010-11-14,Re:,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-12-21,FW: Hourly Trading Desk,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-01-18,Re: Futures and Options Topics - Dutch Quigley,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-06-18,Re: vacation,0.15,Positive,Positive
+patti.thompson@enron.com,2010-04-11,Re: dinner,-0.35000000000000003,Negative,Negative
+john.arnold@enron.com,2011-03-27,Re: Hi,0.19999999999999998,Positive,Neutral
+sally.beck@enron.com,2010-02-15,NOTICE TO ALL,-0.5,Negative,Neutral
+johnny.palmer@enron.com,2011-01-20,Re:  Enron/TradersNews Energy (meeting),0.0,Neutral,Positive
+patti.thompson@enron.com,2010-11-26,Gordon Heaney's Acceptance,0.12777777777777777,Positive,Positive
+don.baughman@enron.com,2011-01-31,Congratulations,0.1787878787878788,Positive,Positive
+don.baughman@enron.com,2010-02-25,WARNING:  Your mailbox is approaching the size limit,0.18,Positive,Neutral
+patti.thompson@enron.com,2010-11-20,Connecticut Municipal Electric Energy Cooperative,0.2,Positive,Neutral
+don.baughman@enron.com,2010-06-08,you gentlemen should be set up today w/ TradersNews passwords,0.1875,Positive,Neutral
+don.baughman@enron.com,2011-12-27,Quick Tips for the UBSWE migration,0.10043290043290043,Positive,Negative
+eric.bass@enron.com,2011-06-04,Promotions Memo edit,0.09999999999999999,Positive,Positive
+sally.beck@enron.com,2011-02-18,Taliban life,0.12733766233766233,Positive,Positive
+johnny.palmer@enron.com,2010-10-25,"Final Schedule - Wednesday, May 23, 2001 - Kevin M. McLarney",0.06666666666666667,Positive,Neutral
+sally.beck@enron.com,2011-01-28,trade,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-06-23,Congratulations!,0.3,Positive,Positive
+don.baughman@enron.com,2011-05-24,RE: TV,0.019999999999999997,Neutral,Positive
+sally.beck@enron.com,2011-10-06,Oldy but goody,0.15,Positive,Positive
+johnny.palmer@enron.com,2010-10-22,March 16 Clean-up Day and Garage Sale,0.10000000000000002,Positive,Neutral
+john.arnold@enron.com,2011-05-30,"Re: SPP hourly trades have been incorporated into the Entergy
+ hourly index",0.35,Positive,Positive
+kayne.coulter@enron.com,2010-08-02,OU Salaries,0.05555555555555555,Positive,Negative
+rhonda.denton@enron.com,2010-01-28,JD VACATION,0.0,Neutral,Positive
+patti.thompson@enron.com,2010-06-30,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-04-13,EnTelligence Tag Line Contest Results,0.27187500000000003,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-24,Wheatland unit2,-0.14166666666666666,Negative,Negative
+patti.thompson@enron.com,2010-10-27,Dinner with UT Students,0.07662337662337662,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-06-03,(No Subject),0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-02-17,Re: Associate PRC Reps for Year End,0.2,Positive,Neutral
+don.baughman@enron.com,2010-06-05,hey don,0.06818181818181818,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-11-30,Freeman,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-12-31,Now HERE is a good lawsuit...,0.33125000000000004,Positive,Negative
+rhonda.denton@enron.com,2011-05-03,Re: Things From London,0.3716666666666667,Positive,Positive
+sally.beck@enron.com,2011-12-04,Draft change request,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-01-07,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-11,Re: thanks/ follow up,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-10-31,Re: Friday,0.35,Positive,Positive
+rhonda.denton@enron.com,2011-10-15,FW: MISO phase in of operations,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-01-07,Pick -Up,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-15,Re: Davis,0.5,Positive,Positive
+sally.beck@enron.com,2010-12-04,"Duke Purchase for tomorrow, April 26th",0.095,Positive,Neutral
+sally.beck@enron.com,2010-05-21,TradersNews market info,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-10-16,Re:,0.225,Positive,Positive
+eric.bass@enron.com,2011-04-18,Jason Berlin,0.26666666666666666,Positive,Neutral
+lydia.delgado@enron.com,2011-02-06,Details of Thursday Afternoon OpRisk Meeting,-0.06666666666666667,Negative,Neutral
+sally.beck@enron.com,2011-12-08,TradersNews market info,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-03-21,Re:,-0.2708333333333333,Negative,Neutral
+johnny.palmer@enron.com,2010-04-28,Phone Screen  Interview - Shannon L. Burnham,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-03-26,RE:,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-09-09,Transmission Agreements Meeting Tues. Jan. 29 10:00 a.m.,0.41818181818181815,Positive,Positive
+kayne.coulter@enron.com,2011-10-18,(No Subject),0.9,Positive,Positive
+johnny.palmer@enron.com,2011-06-04,Get Out Your Light Saber,0.5,Positive,Neutral
+rhonda.denton@enron.com,2011-06-04,Re: Expense Reports,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-12-26,SCHEDULE DISCREP'S,-0.0625,Negative,Positive
+bobette.riner@ipgdirect.com,2010-12-29,Tim's Birthday,0.0,Neutral,Positive
+kayne.coulter@enron.com,2011-01-09,Re: BOWL POOL 2000,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-11-26,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-02-23,Terry Jury Summons,0.13333333333333333,Positive,Neutral
+sally.beck@enron.com,2011-11-27,Re: basketball leauge,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-20,RE: Free agent pick up,0.4,Positive,Neutral
+lydia.delgado@enron.com,2011-10-21,Hourly Trading,0.15,Positive,Positive
+don.baughman@enron.com,2010-04-01,from Katherine Corbally,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-08-10,Re: NY meeting reports,0.21666666666666667,Positive,Positive
+lydia.delgado@enron.com,2010-08-24,RE: OU Candidates,0.30000000000000004,Positive,Positive
+john.arnold@enron.com,2010-12-19,Re: Keneally's,0.5,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-06-30,Expense Report for Stephen Schwarz Dated 7/6/00,0.44999999999999996,Positive,Positive
+kayne.coulter@enron.com,2010-07-10,RE: game at 9,-0.4,Negative,Neutral
+johnny.palmer@enron.com,2010-07-03,EES Report from EnTelligence,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-07-20,BBALL,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-08-06,Accomplishments for 2000,-0.04999999999999999,Neutral,Negative
+bobette.riner@ipgdirect.com,2011-07-13,TradersNews market commentary attached,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-04-12,Internet E-mail,-0.12694444444444444,Negative,Neutral
+don.baughman@enron.com,2011-04-28,Dean Laurent and Joe Errigo,0.155,Positive,Positive
+john.arnold@enron.com,2011-06-16,FW: Real Time Trader Ryan Thomas,0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-04-27,"NYISO - Opening Technical Bulletin # 74 - Virtual Bidding in the
+ Day-	Ahead Market",-0.013888888888888888,Neutral,Negative
+lydia.delgado@enron.com,2010-09-20,Matthew Olney,0.0,Neutral,Positive
+rhonda.denton@enron.com,2011-03-09,Cool Sailing Pics,0.35,Positive,Positive
+patti.thompson@enron.com,2011-09-09,Garvin Brown - AXIA Sr. Power Scheduler,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-02-22,The Mighty Horns,0.4,Positive,Neutral
+johnny.palmer@enron.com,2010-09-01,WARNING:  Your mailbox is approaching the size limit,0.18,Positive,Neutral
+johnny.palmer@enron.com,2011-02-12,Re: Welcome to www.har.com! (4),0.32999999999999996,Positive,Positive
+kayne.coulter@enron.com,2010-04-20,East Power Candidates,0.03095238095238095,Neutral,Positive
+sally.beck@enron.com,2010-12-25,Re:,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-11-19,Re :  (#7482-000998-38589983858),0.5,Positive,Neutral
+patti.thompson@enron.com,2011-07-21,House on W. Alabama,0.225,Positive,Neutral
+don.baughman@enron.com,2010-07-25,Re: ESPN.com - NCB - Ratings Percentage Index,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-08,quad cities,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-07-24,Re: Saturday Night,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-05-13,Happy Birthday Don Jr.,0.5953125,Positive,Positive
+lydia.delgado@enron.com,2011-10-28,JD VACATION,0.0,Neutral,Positive
+john.arnold@enron.com,2011-04-23,Re:,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-09-25,Re: Fw: [txhmed] interesting ...,0.13686868686868686,Positive,Positive
+lydia.delgado@enron.com,2011-02-27,"EPMI Real-time Traders and Schedulers working during the
+ Thanksgiving Holiday",0.09166666666666667,Positive,Positive
+kayne.coulter@enron.com,2011-04-24,Re: Welcome to www.har.com! (3),0.04999999999999999,Neutral,Negative
+john.arnold@enron.com,2010-12-24,(No Subject),0.0,Neutral,Positive
+kayne.coulter@enron.com,2010-01-18,Name of Doctor,0.0,Neutral,Positive
+lydia.delgado@enron.com,2010-10-31,Re: Welcome to www.har.com! (4),0.32500000000000007,Positive,Positive
+lydia.delgado@enron.com,2011-04-06,computer wallpaper- must have,0.09375,Positive,Neutral
+eric.bass@enron.com,2011-03-05,Re: Game Wednesday at 8,-0.4,Negative,Neutral
+rhonda.denton@enron.com,2010-12-23,Pat Heim Forum,0.2,Positive,Neutral
+john.arnold@enron.com,2010-11-02,Austin,-0.13333333333333333,Negative,Neutral
+patti.thompson@enron.com,2010-10-29,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-16,Re: Dinner,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-19,Hi,0.2566666666666667,Positive,Positive
+lydia.delgado@enron.com,2011-06-17,Global Standards Report - September 2000,0.15000000000000002,Positive,Neutral
+patti.thompson@enron.com,2011-07-11,Lunch,0.2,Positive,Neutral
+don.baughman@enron.com,2010-12-31,Re: New Product,0.07454545454545454,Positive,Neutral
+don.baughman@enron.com,2011-09-19,USS Lexington in Corpus Christi Bay,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-06-10,Re: Next Week,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-06,FW:,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-21,Fundamental Operating Standards,0.1775,Positive,Neutral
+john.arnold@enron.com,2010-09-18,Re: UH v. T@Austin,-0.10520833333333333,Negative,Neutral
+eric.bass@enron.com,2011-12-06,Re: Lunch,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-04-23,Commonwealth Energy Corporation,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-03-02,Natalie Mahdi,0.625,Positive,Positive
+john.arnold@enron.com,2010-03-08,"Out of the Office - Friday, October 20",0.03854166666666667,Neutral,Negative
+eric.bass@enron.com,2010-07-12,Re:,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-01,Re: Promotion,0.2833333333333333,Positive,Positive
+rhonda.denton@enron.com,2011-03-29,homo,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-03-04,Re: Good Morning,0.1333333333333333,Positive,Positive
+rhonda.denton@enron.com,2011-06-18,Re: faulk,0.4333333333333333,Positive,Positive
+sally.beck@enron.com,2010-08-27,Northern States Power Company,0.06818181818181818,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-03-15,RE: Christine Walton Resume,0.225,Positive,Neutral
+don.baughman@enron.com,2011-09-22,Re; Trade,0.4166666666666667,Positive,Neutral
+patti.thompson@enron.com,2011-06-28,VaR training,0.26666666666666666,Positive,Neutral
+lydia.delgado@enron.com,2010-01-02,Tiger recruiting #1,-0.125,Negative,Neutral
+john.arnold@enron.com,2010-07-09,More I-bank info,0.3125,Positive,Positive
+patti.thompson@enron.com,2011-09-01,An Enron win against MISO!,0.325,Positive,Positive
+lydia.delgado@enron.com,2011-05-18,The Montana Power Trading & Marketing Company,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-07-11,Minnesota Municipal Power Agency,0.2,Positive,Neutral
+eric.bass@enron.com,2011-09-09,Re: GAME TONIGHT @ 9:45,-0.4,Negative,Neutral
+kayne.coulter@enron.com,2010-04-10,RE: directories,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-08-24,Re: Southwest tickets,-0.06666666666666667,Negative,Neutral
+don.baughman@enron.com,2010-06-06,Transactions with Municipalities or Other Governmental Agencies,-0.125,Negative,Neutral
+eric.bass@enron.com,2010-11-26,(REVISED)  Vacation/Paternity Leave Scheduled,0.25,Positive,Positive
+bobette.riner@ipgdirect.com,2011-06-19,Hi All,0.4681818181818182,Positive,Positive
+sally.beck@enron.com,2011-03-14,Re: Kristin Albrecht,-0.125,Negative,Neutral
+rhonda.denton@enron.com,2011-09-11,"Re: Vacation, floating holiday request",0.14583333333333334,Positive,Positive
+bobette.riner@ipgdirect.com,2010-09-27,No trades with PG&E,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-29,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-12-08,"Mobile Energy Services Company, L.L.C.",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-01-29,Holcomb's new address and telephone number,0.03210227272727272,Neutral,Neutral
+lydia.delgado@enron.com,2011-01-07,Additions to Attendee List for Dallas ASE,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-03-19,UT Game,-0.06250000000000001,Negative,Negative
+john.arnold@enron.com,2010-02-01,Associates PRC Meeting Cancelled,0.03333333333333333,Neutral,Negative
+john.arnold@enron.com,2011-08-04,"Final Schedule - Tuesday, May 22, 2001 - Jeff M. Gerl",0.06666666666666667,Positive,Neutral
+lydia.delgado@enron.com,2010-08-04,Technical Support,-0.03125,Neutral,Positive
+don.baughman@enron.com,2010-12-14,Re: FW: Truth in 13 words,0.07083333333333333,Positive,Negative
+kayne.coulter@enron.com,2010-09-25,Re: b-day,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-06-08,UT/A&M,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-04-04,"RE: Company Focus -- 3 ways to profit from the coming gas crisis -
+ MSN Money",0.5,Positive,Positive
+john.arnold@enron.com,2011-08-11,CG&E Agreements,0.11233766233766233,Positive,Neutral
+lydia.delgado@enron.com,2011-04-18,congratulations,0.625,Positive,Positive
+lydia.delgado@enron.com,2010-06-22,Throughput Info,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-01-02,RE: data,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-09-09,Re: Good Morning,0.3027777777777778,Positive,Positive
+lydia.delgado@enron.com,2011-09-02,RE: Walker & Associates gathering agreements,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-25,Promotions Memo edit,0.09999999999999999,Positive,Positive
+don.baughman@enron.com,2010-05-23,Reporting,0.5,Positive,Neutral
+sally.beck@enron.com,2011-08-18,(No Subject),0.17833333333333332,Positive,Neutral
+don.baughman@enron.com,2011-11-28,Updated template,0.1961038961038961,Positive,Positive
+kayne.coulter@enron.com,2010-01-15,Re:,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-19,Austin,-0.13333333333333333,Negative,Neutral
+rhonda.denton@enron.com,2010-08-18,GET READY,0.25,Positive,Neutral
+eric.bass@enron.com,2010-09-06,do you have any people working on Friday?,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-04-30,MG Future structure,0.25,Positive,Neutral
+patti.thompson@enron.com,2010-01-15,Re: ENSIDE,0.5208333333333334,Positive,Positive
+john.arnold@enron.com,2011-02-26,Bearkadette Schedule,0.078125,Positive,Positive
+rhonda.denton@enron.com,2011-06-01,"Allegheny Energy Supply Company LLC - Merrill Lynch Capital
+ Services, Inc.",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-10-04,RE: FW: new address,0.2018939393939394,Positive,Positive
+patti.thompson@enron.com,2011-07-03,TradersNews Energy new price reporting sheet,-0.040909090909090916,Neutral,Positive
+kayne.coulter@enron.com,2010-02-13,ERV Notification:  (Violation/Notification Memo - 10/08/2001),-0.11666666666666665,Negative,Negative
+eric.bass@enron.com,2010-02-26,Entergy's new OASIS node is now available,0.15132575757575759,Positive,Negative
+kayne.coulter@enron.com,2011-12-04,Re:Trading track questions,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-05-08,vacation plans,0.2,Positive,Positive
+bobette.riner@ipgdirect.com,2011-07-14,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-06-10,Pick ups,0.1,Positive,Neutral
+john.arnold@enron.com,2010-12-23,Re: Phone # verification,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-08-05,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-04-27,"Final Schedule - Thursday, May 24, 2001 - John W. Nolan Jr.",0.06666666666666667,Positive,Neutral
+eric.bass@enron.com,2011-01-25,Promotion,0.3352083333333333,Positive,Positive
+lydia.delgado@enron.com,2010-01-12,Re: (no subject),0.08333333333333333,Positive,Neutral
+eric.bass@enron.com,2011-06-14,Vermont Yankee Notification,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-27,"TradersNews officially launches hourly indexes for ERCOT,
+ ComEd/MAIN and TVA/SERC",0.2434659090909091,Positive,Positive
+john.arnold@enron.com,2011-08-27,Re: My new work email,0.040909090909090895,Neutral,Neutral
+johnny.palmer@enron.com,2011-09-21,FW: Report Calendar Showed Plane Crashing Near Manhattan,0.1,Positive,Neutral
+sally.beck@enron.com,2011-02-15,"Discretionary Holiday - Friday, April 13",0.35714285714285715,Positive,Positive
+patti.thompson@enron.com,2011-10-15,NBPL Town Border Stations,0.30000000000000004,Positive,Neutral
+john.arnold@enron.com,2010-12-16,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-05-15,GRO Production Site,0.1,Positive,Neutral
+kayne.coulter@enron.com,2011-11-25,Agua Dulce and Thompsonville Products,0.08409090909090909,Positive,Neutral
+kayne.coulter@enron.com,2011-12-26,Global Operations Controller Forum,0.06135531135531136,Positive,Positive
+eric.bass@enron.com,2011-03-08,NO GAME TONIGHT,-0.1,Negative,Negative
+john.arnold@enron.com,2011-10-30,Michael Byrne-Real Time Trader,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-04-05,Mapp machine,-0.10972222222222223,Negative,Neutral
+rhonda.denton@enron.com,2011-03-06,Enpower counterparties,0.35,Positive,Neutral
+don.baughman@enron.com,2010-05-06,RE: Index Prices for 7-3-01,0.3125,Positive,Positive
+sally.beck@enron.com,2010-10-18,(No Subject),-0.08888888888888889,Negative,Neutral
+rhonda.denton@enron.com,2011-07-30,Re: Congrats,0.425,Positive,Positive
+lydia.delgado@enron.com,2010-12-18,RE: Good Morning,0.6499999999999999,Positive,Positive
+lydia.delgado@enron.com,2010-10-05,Accomplishments,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-02,Midwest/Southeast Desk Meeting w/Fletch Sturm,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-20,Re: Hi,0.003571428571428575,Neutral,Positive
+sally.beck@enron.com,2011-01-04,testing....,0.25,Positive,Neutral
+don.baughman@enron.com,2010-02-23,Re:  Enron/TradersNews Energy-Wednesday,0.175,Positive,Positive
+john.arnold@enron.com,2010-11-28,RE: Flag Football,0.1,Positive,Neutral
+john.arnold@enron.com,2010-12-24,12/05/200,0.8,Positive,Neutral
+kayne.coulter@enron.com,2011-04-27,Dream Matchup,0.29583333333333334,Positive,Positive
+sally.beck@enron.com,2010-01-16,TradersNews market commentary attached,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-07-13,VaR training,0.26666666666666666,Positive,Neutral
+kayne.coulter@enron.com,2011-12-21,Re: bus top,0.25,Positive,Neutral
+don.baughman@enron.com,2011-10-01,Re: Calgary operations hot list,0.31666666666666665,Positive,Positive
+kayne.coulter@enron.com,2010-06-07,Re: engram,-0.8,Negative,Neutral
+patti.thompson@enron.com,2010-09-12,RE: Cost Cutting,0.2,Positive,Positive
+john.arnold@enron.com,2011-01-11,boat show,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-08-11,RE: Existing Trading Track Rotations,0.35,Positive,Neutral
+kayne.coulter@enron.com,2011-11-11,DRAFT,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-29,TraderNews market commentary,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-05-25,Interview Schedule,0.1,Positive,Neutral
+sally.beck@enron.com,2011-08-22,SAP Process Audit,0.11499999999999999,Positive,Neutral
+patti.thompson@enron.com,2011-07-06,(No Subject),0.0,Neutral,Positive
+kayne.coulter@enron.com,2010-08-09,Need assistanece wil taking lights down?,0.32815656565656565,Positive,Positive
+rhonda.denton@enron.com,2011-02-07,SAP Logon ID and Password,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-02-25,Change in firm redirect policy,0.012499999999999994,Neutral,Neutral
+don.baughman@enron.com,2010-08-05,(No Subject),0.43333333333333335,Positive,Positive
+johnny.palmer@enron.com,2010-03-10,(No Subject),-0.375,Negative,Negative
+john.arnold@enron.com,2010-02-13,Re: faulk,0.3166666666666667,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-23,Revised Agenda,0.22999999999999998,Positive,Neutral
+eric.bass@enron.com,2011-04-12,Re: Happy Hour,0.425,Positive,Positive
+lydia.delgado@enron.com,2011-12-21,Congratulations,0.15416666666666665,Positive,Positive
+johnny.palmer@enron.com,2010-02-22,Kirit Purbhoo Resume,0.01816239316239315,Neutral,Positive
+rhonda.denton@enron.com,2011-09-19,Dayton Power & Light; Sempra Energy Trading,0.25,Positive,Neutral
+lydia.delgado@enron.com,2010-07-28,Re:,0.175,Positive,Positive
+don.baughman@enron.com,2010-12-19,Don't forget to register!,0.21005291005291002,Positive,Neutral
+lydia.delgado@enron.com,2011-09-12,RE:,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-01-13,OU Alumni List - GIS,0.4,Positive,Positive
+john.arnold@enron.com,2010-05-25,Re:,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-23,Your address is not serviceable,0.14625850340136057,Positive,Negative
+lydia.delgado@enron.com,2010-04-25,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-09-26,RE: FW: new address,0.2018939393939394,Positive,Positive
+eric.bass@enron.com,2010-05-05,Doorstep personnel from London,0.3583333333333334,Positive,Positive
+eric.bass@enron.com,2011-08-21,Draft info,0.5,Positive,Positive
+lydia.delgado@enron.com,2010-12-14,Another Vac. request,0.0,Neutral,Negative
+sally.beck@enron.com,2010-08-03,check it out,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-01-06,New Active X for EOL Website,0.05287878787878788,Positive,Negative
+don.baughman@enron.com,2011-10-22,what's up (or down) in Cin markets,0.17222222222222222,Positive,Neutral
+johnny.palmer@enron.com,2010-08-02,TradersNews Cinergy index shows massive hourly volumes for Feb. 1,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-11-19,Trade,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-06-21,Re: Lunch w/ Cindy Olson,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-19,Boots,0.49000000000000005,Positive,Positive
+patti.thompson@enron.com,2010-03-20,RE: Happy Hour,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-04,Re: Schedule C,0.15000000000000002,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-12-19,Congrats!,0.0,Neutral,Positive
+johnny.palmer@enron.com,2011-04-12,"Wabash Valley Power Association, Inc.",0.2,Positive,Neutral
+patti.thompson@enron.com,2011-07-19,"Enron Federal Credit Union - Loan Response, Application Number:
+ 725068.01",0.06507936507936508,Positive,Neutral
+johnny.palmer@enron.com,2010-04-26,Re: I was planning on,0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-07-08,RE: Tracking problem,-0.15625,Negative,Negative
+patti.thompson@enron.com,2011-03-02,RE:,0.0,Neutral,Positive
+johnny.palmer@enron.com,2010-08-28,Re: CP&L Requests - Jan '00,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-11-11,Engage Energy America LLC,0.2,Positive,Neutral
+don.baughman@enron.com,2011-07-22,FW: Lotus notes?,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-04-19,Another Vac. request,0.0,Neutral,Negative
+bobette.riner@ipgdirect.com,2010-07-23,ERMS Resources,0.22999999999999998,Positive,Neutral
+rhonda.denton@enron.com,2010-02-23,Meeting in San Antonio - September 13-15,-0.049999999999999996,Neutral,Neutral
+john.arnold@enron.com,2011-05-10,ANALYST SURVEY CONCLUSION,0.33333333333333337,Positive,Neutral
+patti.thompson@enron.com,2010-04-19,Vermont Yankee Notification Update.,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-09,Re: Thank You,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-07-26,Williams,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-11-20,Congratulations,0.0,Neutral,Positive
+don.baughman@enron.com,2010-01-02,(No Subject),0.13636363636363635,Positive,Neutral
+sally.beck@enron.com,2010-06-03,RE: The Periwinkle Foundation,0.4166666666666667,Positive,Neutral
+john.arnold@enron.com,2010-10-26,Williams,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-02-07,Enron Japan Trading,0.06935286935286936,Positive,Neutral
+eric.bass@enron.com,2011-05-17,Caledonia unavailable,-0.09375,Negative,Negative
+lydia.delgado@enron.com,2011-05-17,Master Power Contracts,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-08-20,Trade,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-11-27,Game tonight @ 7:00,-0.4,Negative,Neutral
+bobette.riner@ipgdirect.com,2011-07-12,RE: traders news indexes 4-03-01,0.175,Positive,Neutral
+rhonda.denton@enron.com,2011-04-26,The TradersNews Cin and AEP hourly indexes have been posted,0.225,Positive,Neutral
+patti.thompson@enron.com,2011-12-17,Needs Improvement Managers and Directors,0.2,Positive,Positive
+rhonda.denton@enron.com,2011-02-21,The Mighty Horns,-0.030000000000000006,Neutral,Neutral
+lydia.delgado@enron.com,2011-11-11,Contractor List,0.1,Positive,Neutral
+john.arnold@enron.com,2011-11-15,IPG,0.19047619047619047,Positive,Positive
+lydia.delgado@enron.com,2011-05-20,Weekly Report 5/22-5/26/00,0.2,Positive,Neutral
+don.baughman@enron.com,2011-09-18,Wedding Date Confirmation,-0.08333333333333333,Negative,Negative
+bobette.riner@ipgdirect.com,2010-11-02,Re: CWS,-0.30000000000000004,Negative,Neutral
+lydia.delgado@enron.com,2011-09-14,Ryan Thomas Interview 6/19/01,0.2,Positive,Neutral
+rhonda.denton@enron.com,2010-04-03,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-06-05,Re: Status Report,0.4,Positive,Neutral
+lydia.delgado@enron.com,2011-12-02,Re: New Book,0.11212121212121212,Positive,Neutral
+don.baughman@enron.com,2010-05-26,"MW Off-site @ El Lago Lake Conroe, Fletch, Dorland,",0.0,Neutral,Positive
+john.arnold@enron.com,2011-02-20,"Enron Federal Credit Union - Loan Response, Application Number:
+ 725068.01",0.06507936507936508,Positive,Neutral
+john.arnold@enron.com,2011-02-21,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2010-03-06,Re: Travis Resume,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-06-08,mdea imbalance,0.3416666666666666,Positive,Positive
+patti.thompson@enron.com,2010-11-28,Re:,0.0,Neutral,Positive
+lydia.delgado@enron.com,2011-10-10,Services Presentation for Louise Kitchen,0.18333333333333332,Positive,Positive
+don.baughman@enron.com,2010-04-02,Expense Report for Stephen Schwarz Dated 7/6/00,0.44999999999999996,Positive,Positive
+lydia.delgado@enron.com,2011-12-11,Re:,-0.10000000000000002,Negative,Neutral
+john.arnold@enron.com,2010-11-05,Groceries for 1/10/01,-0.2,Negative,Neutral
+rhonda.denton@enron.com,2010-08-17,RE:,-0.25,Negative,Neutral
+eric.bass@enron.com,2011-08-03,Status on Hiring,0.05814393939393939,Positive,Positive
+john.arnold@enron.com,2010-05-10,No trades with PG&E,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-07-03,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-31,Here's the rest!,1.0,Positive,Positive
+patti.thompson@enron.com,2010-10-06,Forgot the Attachment,0.3,Positive,Neutral
+patti.thompson@enron.com,2010-11-12,Home Audio?,0.16,Positive,Positive
+eric.bass@enron.com,2011-01-15,kennison,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-22,East Power Candidate,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-09-20,Schedule C Reserve,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-12-25,Re: travel schedule,0.3872727272727273,Positive,Positive
+don.baughman@enron.com,2011-04-17,Pick -Up,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-12-30,"You're so money, baby",0.6,Positive,Positive
+john.arnold@enron.com,2011-03-09,UT/A&M football tourney,0.15625,Positive,Neutral
+eric.bass@enron.com,2011-06-15,ERCOT Readiness Update attached,0.03333333333333333,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-02-05,Re: Global Risk Management Operations,0.06818181818181818,Positive,Neutral
+lydia.delgado@enron.com,2010-10-17,Re: 7:00 Showdown,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-12-14,Mark Doggett Shower @ iOWA cOLO,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-04-09,Re: Game at 8:00,-0.4,Negative,Neutral
+patti.thompson@enron.com,2011-08-13,MG Middle Office Descriptions,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-08-24,Re:,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-08-22,Promotions Luncheon for Managers,0.3,Positive,Positive
+eric.bass@enron.com,2011-09-17,Re: does it work?,0.2333333333333333,Positive,Positive
+john.arnold@enron.com,2010-11-09,line-up,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-11-15,Hook 'Em,0.5083333333333333,Positive,Neutral
+kayne.coulter@enron.com,2010-02-06,tkts,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-07-26,Dinner,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-06-04,Re:,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-02-18,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+kayne.coulter@enron.com,2011-09-07,2000 Audit,0.2,Positive,Neutral
+sally.beck@enron.com,2011-03-30,"Out of the Office - Friday, October 20",0.03854166666666667,Neutral,Negative
+rhonda.denton@enron.com,2011-01-01,10/9 dpr,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-07-07,Taylor,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-08-28,Houston visit,0.2,Positive,Positive
+johnny.palmer@enron.com,2011-01-11,(No Subject),0.875,Positive,Positive
+kayne.coulter@enron.com,2011-10-28,Re: ENSIDE,0.5208333333333334,Positive,Positive
+eric.bass@enron.com,2010-01-10,Game @ 7:00,-0.30833333333333335,Negative,Neutral
+rhonda.denton@enron.com,2011-03-03,Re; Trade,0.4166666666666667,Positive,Neutral
+sally.beck@enron.com,2011-03-30,Re: Jealousy,-0.3125,Negative,Neutral
+lydia.delgado@enron.com,2010-09-07,"RE: REVISED - Final Schedule - Thursday, October 11, 2001 - Bang I.
+ Tran",0.1,Positive,Neutral
+kayne.coulter@enron.com,2010-07-18,EOL stats for Q4 2000,0.05454545454545454,Positive,Neutral
+patti.thompson@enron.com,2011-09-13,GAME WEDNEDSDAY @ 7:00,-0.20000000000000004,Negative,Neutral
+don.baughman@enron.com,2010-02-05,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-10-13,Associate/Analyst Fall Recruiting,0.2083333333333333,Positive,Negative
+patti.thompson@enron.com,2010-04-28,EIM Resources,-0.005765993265993266,Neutral,Neutral
+john.arnold@enron.com,2011-03-19,what's up (or down) in Cin markets,0.17222222222222222,Positive,Neutral
+lydia.delgado@enron.com,2010-01-15,Website,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-06-05,FW: TVA New Firm Redirect Policy,-0.03181818181818183,Neutral,Neutral
+johnny.palmer@enron.com,2010-03-02,Incorrectly booked deals,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-24,Transmission Agreements Meeting Tues. Jan. 29 10:00 a.m.,0.41818181818181815,Positive,Positive
+john.arnold@enron.com,2011-05-01,Re: Fw: Corruption Test,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-12,Re: diff topic,0.5,Positive,Neutral
+johnny.palmer@enron.com,2010-10-03,Williams Customer First site,0.25,Positive,Neutral
+sally.beck@enron.com,2010-06-30,Arch Takedown,0.05995670995670997,Positive,Positive
+sally.beck@enron.com,2010-07-02,Japan Weekly Update,-0.25,Negative,Negative
+johnny.palmer@enron.com,2010-03-19,Playoffs,0.04285714285714286,Neutral,Positive
+lydia.delgado@enron.com,2010-04-30,Fwd: [Fwd: Fwd: predictions],0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-02,Game tonight @ 7:00,-0.4,Negative,Neutral
+johnny.palmer@enron.com,2011-11-21,Shiner BockToberFest:,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-23,Re: Roster,0.3333333333333333,Positive,Positive
+lydia.delgado@enron.com,2010-07-26,Re: FW: Truth in 13 words,0.07083333333333333,Positive,Negative
+bobette.riner@ipgdirect.com,2010-02-03,Important FastWeb Scholarship Alert!,0.3693181818181818,Positive,Positive
+john.arnold@enron.com,2010-05-16,Re:,0.31233766233766236,Positive,Positive
+sally.beck@enron.com,2010-11-22,RE: Background  for Hourly Positions,0.2,Positive,Neutral
+john.arnold@enron.com,2010-06-12,(No Subject),0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-02-08,Re: Brian's B-day,-0.3333333333333333,Negative,Neutral
+eric.bass@enron.com,2010-07-10,Credit Jobs,-0.09522727272727273,Negative,Positive
+kayne.coulter@enron.com,2010-05-23,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-07-12,Re: AEC Issues,0.39999999999999997,Positive,Positive
+don.baughman@enron.com,2011-10-23,James is coming...,0.3495920745920746,Positive,Positive
+john.arnold@enron.com,2011-02-08,Our next vacation,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-04,FW:,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-29,FW: Index for 5/24/01,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-03,Fundamental Operating Standards,0.10808080808080807,Positive,Neutral
+don.baughman@enron.com,2010-12-13,Re: Expense Reports,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-21,Bearkadette Schedule,0.078125,Positive,Positive
+john.arnold@enron.com,2010-08-28,Williams,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-08-22,Re: ASE,0.8,Positive,Positive
+sally.beck@enron.com,2010-02-20,Re: trades,0.1875,Positive,Neutral
+patti.thompson@enron.com,2011-08-23,FW: if work ever gets you down..,-0.15555555555555559,Negative,Neutral
+lydia.delgado@enron.com,2011-04-16,FW: scheduler's by region,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-05-31,Risk Management Initiatives,0.0,Neutral,Positive
+eric.bass@enron.com,2010-09-05,Hourly Trading,0.15,Positive,Positive
+johnny.palmer@enron.com,2010-07-19,this is funny,0.25,Positive,Positive
+rhonda.denton@enron.com,2010-04-21,GAME TONIGHT @ 9:45,-0.4,Negative,Neutral
+patti.thompson@enron.com,2010-05-15,Nov. Staff Mtg.,0.13333333333333333,Positive,Neutral
+don.baughman@enron.com,2010-01-03,Re: Happy Hour,0.3666666666666667,Positive,Positive
+kayne.coulter@enron.com,2011-06-25,Bid/Offer,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-12-06,Re: HP -- confidential internal document,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-02-08,Re:,0.4375,Positive,Positive
+eric.bass@enron.com,2011-02-13,Re: Greg's Bill,0.7,Positive,Positive
+bobette.riner@ipgdirect.com,2011-05-06,Credit Review Meeting EB13C2,0.13333333333333333,Positive,Neutral
+sally.beck@enron.com,2011-06-24,More I-bank info,0.3125,Positive,Positive
+don.baughman@enron.com,2011-08-07,Price Responsive Load Working Group,0.04545454545454545,Neutral,Neutral
+sally.beck@enron.com,2010-08-13,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-03-24,FW: Rebooks 10/5,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-03-23,Re:,-0.325,Negative,Negative
+bobette.riner@ipgdirect.com,2011-08-26,Total Transfer Capabilities,-0.041666666666666664,Neutral,Neutral
+patti.thompson@enron.com,2010-11-28,Your Houston Chronicle Subscriber Account Number,0.0,Neutral,Negative
+patti.thompson@enron.com,2011-07-22,Need assistanece wil taking lights down?,0.32815656565656565,Positive,Positive
+johnny.palmer@enron.com,2011-05-24,(No Subject),0.390625,Positive,Positive
+lydia.delgado@enron.com,2010-05-16,Weekday Products,0.037500000000000006,Neutral,Negative
+sally.beck@enron.com,2010-04-15,RE: friday,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-03-20,Power Trader Position,0.12407407407407407,Positive,Positive
+johnny.palmer@enron.com,2011-11-21,REK TX Uprising Concert @ Woodlands,0.08333333333333333,Positive,Neutral
+patti.thompson@enron.com,2011-01-16,Interview Schedule,0.1,Positive,Neutral
+patti.thompson@enron.com,2010-10-19,Out of Office,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-13,PacifiCorp,0.2,Positive,Neutral
+lydia.delgado@enron.com,2011-03-16,Re: resume,0.20833333333333334,Positive,Positive
+don.baughman@enron.com,2010-04-30,$$$$,0.35,Positive,Neutral
+don.baughman@enron.com,2011-08-28,FW: Resume for Job Posting #0000108727,0.225,Positive,Neutral
+don.baughman@enron.com,2010-01-25,Re:,0.35,Positive,Positive
+don.baughman@enron.com,2010-10-31,Re: New Work Number,0.0909090909090909,Positive,Neutral
+john.arnold@enron.com,2010-02-12,George,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-03-24,"EB-27-C-2- Associate Luncheon w/SB, GP, MP (Associates: Boon Lua,
+ Edosa Obayagbona, Michael Mattox, Nadeem Abdullah, Shruti Gandhi-Gupta,
+ Vikram Abhyankar, Sarah Goodpastor, Jennifer Smith, Jon Henderlong, Sunjay
+ Arya, (Teseo Bergoglio-N/A-Brazil)",0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-06-03,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-07-13,Enron Metals: FX & Rho,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-10-04,Re: John Elway's baby,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-03-16,Flood pics,0.037500000000000006,Neutral,Neutral
+patti.thompson@enron.com,2010-10-24,Hey Man,0.18333333333333335,Positive,Positive
+bobette.riner@ipgdirect.com,2010-02-08,Mark Doggett Shower @ iOWA cOLO,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-04-06,Re: Executive Impact and Influence Program- Enrollment,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-11,Re: The Pictures,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-05,Get Out Your Light Saber,0.5,Positive,Neutral
+johnny.palmer@enron.com,2011-04-20,SCHEDULE DISCREP'S,-0.0625,Negative,Positive
+lydia.delgado@enron.com,2010-07-12,The TradersNews Cin and AEP hourly indexes have been posted,0.225,Positive,Neutral
+don.baughman@enron.com,2010-02-20,RE:,-0.15000000000000002,Negative,Neutral
+sally.beck@enron.com,2011-11-02,Re: ENE,0.3,Positive,Positive
+john.arnold@enron.com,2010-06-22,RE: Happy Hour,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2010-03-25,BOOKEDOUT ERCOT SCHEDULE(WR TO RHLP) ISO 9095,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-08-07,Next Day Checkouts with AEP,-0.16666666666666666,Negative,Negative
+john.arnold@enron.com,2011-11-10,Williams Customer First site,0.125,Positive,Neutral
+don.baughman@enron.com,2011-11-01,Re:,0.31666666666666665,Positive,Positive
+john.arnold@enron.com,2010-04-07,"LN Database ""east power trading""",0.05909090909090909,Positive,Neutral
+lydia.delgado@enron.com,2011-12-17,Re:,0.09772727272727272,Positive,Positive
+rhonda.denton@enron.com,2011-02-08,Update - ENA Confirmation Delivery System,0.21428571428571427,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-08-04,Re:,0.35,Positive,Positive
+bobette.riner@ipgdirect.com,2010-10-21,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-03-14,Associate Starting,0.15324675324675324,Positive,Neutral
+eric.bass@enron.com,2010-07-20,Re: QB,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-23,FW: Letter to the captain - QUANTAS,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-06-09,Room for Tomorrow's Meeting,0.07727272727272727,Positive,Negative
+bobette.riner@ipgdirect.com,2011-04-04,Re: Fw: Winning the cultural war,0.21999999999999997,Positive,Positive
+rhonda.denton@enron.com,2011-03-15,TradersNews Energy new price reporting sheet,-0.040909090909090916,Neutral,Positive
+sally.beck@enron.com,2010-08-21,RE: Good Morning!!,1.0,Positive,Positive
+kayne.coulter@enron.com,2010-01-31,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-03-12,Interview Schedule for John Franklin,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-06-22,MISO proposed tariff change,0.195,Positive,Neutral
+don.baughman@enron.com,2010-01-23,RE: data,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-06-30,FW: Salmon,0.25,Positive,Positive
+bobette.riner@ipgdirect.com,2010-06-17,Expense Report for Stephen Schwarz Dated 4/13/00,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-03-03,MAPP/Dynegy PC's,0.012499999999999997,Neutral,Neutral
+lydia.delgado@enron.com,2010-12-02,Index,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-06-16,Disbanding of Joel Henenberg's Team,0.10092592592592593,Positive,Positive
+bobette.riner@ipgdirect.com,2010-03-20,Tentative conference call with Greg Whalley,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-25,Re:,0.175,Positive,Positive
+kayne.coulter@enron.com,2011-11-01,RE: data,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-01-21,El Paso Electric Company,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-06-22,Re: How About Lunch?,0.7,Positive,Positive
+johnny.palmer@enron.com,2011-02-26,Monday's Game,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2010-10-16,Re: NO GAME TONIGHT,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-07-30,Headcount increase from 18 to 20.,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-03-13,Re: Good Morning,0.3027777777777778,Positive,Positive
+lydia.delgado@enron.com,2010-04-25,(No Subject),0.8,Positive,Positive
+sally.beck@enron.com,2010-08-13,Happy Hour,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2011-04-17,RE:,0.06785714285714284,Positive,Neutral
+johnny.palmer@enron.com,2010-04-19,Todd's REAL expense rprt,0.2,Positive,Positive
+kayne.coulter@enron.com,2010-08-30,Update to Bus Pass Information,0.12083333333333335,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-11-12,Lotus notes?,-0.16666666666666666,Negative,Neutral
+patti.thompson@enron.com,2010-05-03,Re: Global Risk Management Operations,0.15,Positive,Neutral
+eric.bass@enron.com,2010-07-03,Re: ENSIDE,0.5208333333333334,Positive,Positive
+sally.beck@enron.com,2011-12-17,Attendees for Wednesday night's dinner at Cafe Annie's,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-07-19,"Don, claim your gift!",0.625,Positive,Positive
+patti.thompson@enron.com,2011-08-17,Draft of Southern Cone Reports,0.1,Positive,Neutral
+john.arnold@enron.com,2011-02-27,Re: Got caught up with real time issue - missed my slot today,0.23214285714285715,Positive,Positive
+john.arnold@enron.com,2010-03-18,Good Beer drinkers game!,0.19166666666666665,Positive,Positive
+rhonda.denton@enron.com,2011-03-20,"Final Schedule -  Tuesday, May 8, 2001 - Andrew C. Greer",0.06666666666666667,Positive,Neutral
+don.baughman@enron.com,2011-01-18,"EB 3305  Nov. & Dec Report- Tom Bauer, John Sorrells, Wes Colwell
+ (Sabrina x66340)",0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-06-10,TV,0.2,Positive,Neutral
+john.arnold@enron.com,2011-03-10,Re: Unresolved Tx/Prod Svcs Issues,0.125,Positive,Positive
+eric.bass@enron.com,2010-01-23,"Coffee & Donuts, Friday 8:00 - 9:00 a.m.",0.5424242424242425,Positive,Positive
+kayne.coulter@enron.com,2010-01-28,TradersNews Cinergy index shows massive hourly volumes for Feb. 1,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-02-23,George,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-06-18,Re: draft,0.25,Positive,Neutral
+eric.bass@enron.com,2010-09-04,hourly checkout AECI HE 9 from 5-3-01,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-07-09,Interview Schedule for John Franklin,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-23,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-19,Re: New Building,0.11212121212121212,Positive,Neutral
+lydia.delgado@enron.com,2011-04-11,Re: Bet,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-11-27,FW: Letter to the captain - QUANTAS,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-06-23,Re: Redraw?,0.375,Positive,Positive
+patti.thompson@enron.com,2011-09-11,India trading operations,0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-11-01,Mid-Year PRC,0.0,Neutral,Positive
+patti.thompson@enron.com,2011-06-05,Interview Schedule for John Franklin,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-07-19,MAPP Customer Service Issue,-0.20729166666666668,Negative,Negative
+johnny.palmer@enron.com,2010-04-22,Re: Update Info,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-21,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-10-24,Re: How About Lunch?,0.7,Positive,Positive
+lydia.delgado@enron.com,2010-12-24,RE: TradersNews,-0.16666666666666666,Negative,Neutral
+kayne.coulter@enron.com,2010-12-14,"RE: ""Force Majeure""",-0.075,Negative,Neutral
+lydia.delgado@enron.com,2011-04-12,Game tonight,-0.10000000000000002,Negative,Neutral
+eric.bass@enron.com,2011-06-22,Re: HAPPY BIRTHDAY,0.23958333333333334,Positive,Positive
+bobette.riner@ipgdirect.com,2011-02-17,TradersNews Energy Account Activation,-0.07777777777777779,Negative,Negative
+rhonda.denton@enron.com,2010-08-05,AirCard Activation,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-04-05,Pick -Up,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-02-11,Vegas,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-01-15,Alexander McElreath 24hr Trader,0.1,Positive,Neutral
+eric.bass@enron.com,2010-01-16,RE: Ship-to-Shore Information,0.4642857142857143,Positive,Positive
+john.arnold@enron.com,2011-07-09,Vacation/Paternity Leave Scheduled,0.13636363636363635,Positive,Positive
+sally.beck@enron.com,2010-06-18,"Final Schedule - Wednesday, May 23, 2001 - Kevin M. McLarney",0.06666666666666667,Positive,Neutral
+sally.beck@enron.com,2010-08-12,Lunch Meeting Scheduled for 2/16,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-01-14,Don't forget to register!,0.176547619047619,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-28,Re:  Enron/TradersNews Energy-Wednesday,0.175,Positive,Positive
+john.arnold@enron.com,2010-04-30,Re: Congratulations!,0.4,Positive,Positive
+lydia.delgado@enron.com,2010-08-21,New Interchange Subcommittee Officers,0.20735930735930733,Positive,Positive
+eric.bass@enron.com,2010-07-03,City of Shasta Lake,0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-01-12,RE: boat show,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-09-13,RE:,0.47333333333333333,Positive,Positive
+sally.beck@enron.com,2010-12-02,Re:,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-05,RE: CommodityLogic Team Contact Info,0.2,Positive,Positive
+sally.beck@enron.com,2010-01-10,Approval to release salary averages to Lisa Cousino,0.0,Neutral,Positive
+don.baughman@enron.com,2011-08-20,Re: Saturday night follow up,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-22,Re: Demand Letter for Shannon Tyer to Amico Property,0.2,Positive,Neutral
+sally.beck@enron.com,2010-04-13,Steve Peace,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-12-15,TradersNews Energy new price reporting sheet,-0.040909090909090916,Neutral,Positive
+kayne.coulter@enron.com,2010-03-04,checkout for 5/3 hourly deals,0.09375,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-03-05,Input on Breakout Groups,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-01-01,Showstopper Report Status 8/14,0.5,Positive,Neutral
+lydia.delgado@enron.com,2011-05-18,Re:,-0.0642857142857143,Negative,Neutral
+patti.thompson@enron.com,2011-03-20,Re: Update for Executive Report Viewer project,0.1,Positive,Neutral
+eric.bass@enron.com,2010-09-05,Re: Facilitator training for offsite breakout groups,0.18333333333333335,Positive,Neutral
+rhonda.denton@enron.com,2011-01-01,MAPP Customer Service Issue,-0.20729166666666668,Negative,Negative
+bobette.riner@ipgdirect.com,2011-04-25,"Christmas Sing-a-Long - from Larry, Julie, Cody and Zack",0.1,Positive,Neutral
+john.arnold@enron.com,2011-03-28,Re: Inspection for Mission South,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-07,homo,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-10-09,Meeting and Business Reports,0.0,Neutral,Positive
+john.arnold@enron.com,2010-06-06,PRC Binders,-0.3374999999999999,Negative,Negative
+kayne.coulter@enron.com,2010-03-01,Lunch,0.2,Positive,Neutral
+sally.beck@enron.com,2010-08-12,Re: Game @ 7:00,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2011-08-19,Expense Report for Stephen Schwarz Dated 2/25/00,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-06-20,Re: Possible dinner sites for OU students,0.05,Positive,Neutral
+johnny.palmer@enron.com,2011-08-19,RE: TradersNews,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-20,Re: Eugenio Perez,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-04-17,trade,-0.1,Negative,Neutral
+eric.bass@enron.com,2010-12-22,(No Subject),0.2,Positive,Positive
+don.baughman@enron.com,2011-05-22,Re: Expense Reports,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-01-23,"Enron Metals Notification Memo 13th November 2001: Five Day Loss
+ Limit",0.0,Neutral,Negative
+patti.thompson@enron.com,2011-11-19,Re: Fw: Winning the cultural war,0.21999999999999997,Positive,Positive
+john.arnold@enron.com,2010-02-22,Free Trial: Gas Trader,0.2055735930735931,Positive,Negative
+bobette.riner@ipgdirect.com,2010-08-09,Sending hourly indexes,-0.10833333333333334,Negative,Negative
+eric.bass@enron.com,2011-03-27,Interview Schedule,0.028571428571428574,Neutral,Neutral
+eric.bass@enron.com,2011-09-10,"Re: Aug 8,00 baseball game",-0.9765625,Negative,Neutral
+johnny.palmer@enron.com,2010-04-29,Re: My new work email,0.040909090909090895,Neutral,Neutral
+johnny.palmer@enron.com,2011-04-13,MAD COW DISEASE,-0.37916666666666665,Negative,Negative
+lydia.delgado@enron.com,2010-04-24,Flag Football,0.06666666666666667,Positive,Neutral
+john.arnold@enron.com,2011-10-31,Re: Deal # QX4420,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-06,Out of the Office - March 2 and March 5,-0.0063333333333333245,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-29,Re: Next Week,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-02-18,Minnesota Municipal Power Agency,0.2,Positive,Neutral
+eric.bass@enron.com,2011-06-22,Re: FW: LNG Weekly Update,0.14950786056049212,Positive,Positive
+eric.bass@enron.com,2010-02-25,Resume -  Joe,0.11458333333333333,Positive,Positive
+patti.thompson@enron.com,2010-01-15,"Phone Interview Confirmation - Monday, April 30, 2001 - Steven
+ Coulter",0.4,Positive,Neutral
+don.baughman@enron.com,2010-02-21,Bjornson,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-03-30,Commissioner.COM Transaction Request,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-01-28,East Power Candidate,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-06-27,FW: Hourly Trading Desk,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-01-29,daily hoil & unlded cahrts 11/26,0.08125000000000002,Positive,Negative
+john.arnold@enron.com,2011-03-02,summary status of the comments,0.21666666666666667,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-09-14,Dues,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-03-07,P&L entries,-0.03015873015873017,Neutral,Negative
+don.baughman@enron.com,2010-02-21,hourly checkout AECI HE 9 from 5-3-01,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-22,"Final Schedule - Wednesday, May 2, 2001 - Jesus O. Guerra",0.06666666666666667,Positive,Neutral
+patti.thompson@enron.com,2010-09-20,Metro 214 and 216 downtown route changes,0.15,Positive,Neutral
+patti.thompson@enron.com,2010-02-07,Did I miss you?,0.2294760101010101,Positive,Neutral
+sally.beck@enron.com,2010-01-15,Vermont Yankee Notification,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-08-18,Rotation,-0.15,Negative,Neutral
+john.arnold@enron.com,2011-08-20,Re: Fantasy Football,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-06-13,Oldy but goody,0.15,Positive,Positive
+kayne.coulter@enron.com,2011-09-02,FW: Happy Hour,0.8,Positive,Positive
+eric.bass@enron.com,2010-11-29,Book Administrators - Gas,0.1,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-02-21,Re: $,-0.5,Negative,Negative
+lydia.delgado@enron.com,2010-03-07,Operations Contacts - Week of March 12,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-03-26,Re: Game at 9:00,-0.5571428571428572,Negative,Negative
+sally.beck@enron.com,2010-05-24,EGM Management Summary / Hot List as of 10/4,0.175,Positive,Neutral
+sally.beck@enron.com,2011-03-31,West Power,0.17676767676767677,Positive,Neutral
+sally.beck@enron.com,2010-10-05,Re: Gonzalez,-0.020833333333333343,Neutral,Neutral
+eric.bass@enron.com,2011-09-27,FINAL DECISION ON ACCRUAL VALUE,0.10416666666666667,Positive,Positive
+kayne.coulter@enron.com,2010-02-19,New deals,0.13636363636363635,Positive,Neutral
+patti.thompson@enron.com,2011-03-06,5 X 24,0.35,Positive,Neutral
+rhonda.denton@enron.com,2010-09-24,RE: USENE Recent Stock News Investing - MSN Money,0.2333333333333333,Positive,Positive
+johnny.palmer@enron.com,2010-09-19,TradersNews market commentary attached,0.2,Positive,Neutral
+eric.bass@enron.com,2011-05-20,RB?,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-22,"Did you just win $1,000?",0.65,Positive,Positive
+sally.beck@enron.com,2010-05-08,(No Subject),0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-05,"Final Schedule - Thursday, May 31, 2001 - Michael J. Byrne",0.06666666666666667,Positive,Neutral
+eric.bass@enron.com,2010-07-31,For your review 359pm,0.24659090909090908,Positive,Neutral
+johnny.palmer@enron.com,2011-04-24,RE: OU Candidates,0.30000000000000004,Positive,Positive
+patti.thompson@enron.com,2011-07-30,"Reliant Energy Services, Inc.",0.2,Positive,Neutral
+patti.thompson@enron.com,2011-02-24,TradersNews,0.16666666666666666,Positive,Positive
+don.baughman@enron.com,2010-11-20,Re: Entex Contracts,1.0,Positive,Neutral
+eric.bass@enron.com,2011-03-05,MISO Approved for Start Up of Transmission Functions,0.14166666666666666,Positive,Positive
+johnny.palmer@enron.com,2011-11-06,Re: Mtg w/ Sally Beck,0.4166666666666667,Positive,Neutral
+sally.beck@enron.com,2011-10-28,(No Subject),0.0,Neutral,Positive
+rhonda.denton@enron.com,2011-12-22,Re:,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-20,League Dues,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-11,Re:,0.2125,Positive,Neutral
+don.baughman@enron.com,2010-05-21,Did I miss you?,0.2294760101010101,Positive,Neutral
+lydia.delgado@enron.com,2010-03-20,Background  for Hourly Positions,0.2937037037037037,Positive,Positive
+patti.thompson@enron.com,2011-08-25,"eThink About It: November 6, 2000",0.495,Positive,Positive
+john.arnold@enron.com,2010-03-22,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-03-03,Re: Promotion,0.4,Positive,Positive
+johnny.palmer@enron.com,2011-04-17,Re: Request Submitted: Access Request for shona.wilson@enron.com,0.5,Positive,Neutral
+john.arnold@enron.com,2010-02-25,Re: Davis,0.5,Positive,Positive
+kayne.coulter@enron.com,2011-10-10,MAPP ATC Posting Website,-0.125,Negative,Negative
+bobette.riner@ipgdirect.com,2010-08-24,CommodityLogic documents,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-03-05,Re: Question,0.1,Positive,Neutral
+john.arnold@enron.com,2011-11-11,Salon.com News By any means necessary,0.35,Positive,Positive
+patti.thompson@enron.com,2011-12-03,Membership information you requested,0.08,Positive,Positive
+rhonda.denton@enron.com,2010-02-14,"ACN Power, Inc.",0.2,Positive,Neutral
+eric.bass@enron.com,2010-01-03,Re: Jordan's comments on Doorstep meeting,0.325,Positive,Positive
+john.arnold@enron.com,2011-07-14,Re: Call Center/Resolution Center contacts,0.24444444444444446,Positive,Positive
+kayne.coulter@enron.com,2011-10-23,Day of the Trader - Las Vegas,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-05-04,*Updated* Nightly Duties and MDEA Load sheets folder,0.16666666666666666,Positive,Positive
+rhonda.denton@enron.com,2010-08-20,Re: Liquids Limits Oct. 20,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-05-01,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+johnny.palmer@enron.com,2011-08-16,Physical - Financial TAGG,0.02727272727272728,Neutral,Neutral
+patti.thompson@enron.com,2010-01-22,Commissioner.COM Transaction Request,-0.07500000000000001,Negative,Neutral
+lydia.delgado@enron.com,2011-06-01,Enabled EMail Maskell,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-01-25,Welcome to Chicago and ENA,0.5,Positive,Positive
+sally.beck@enron.com,2011-01-29,Re:,0.175,Positive,Positive
+kayne.coulter@enron.com,2011-04-09,"Clear Lake at sunset, saturday",0.10000000000000002,Positive,Neutral
+lydia.delgado@enron.com,2010-01-22,"Mobile Energy Services Company, L.L.C.",0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-05-31,Energy Ops Showstopper Status Report - 6/29/00,0.16,Positive,Positive
+lydia.delgado@enron.com,2010-08-27,RE: Revised E&Y Memo,-0.17857142857142858,Negative,Negative
+rhonda.denton@enron.com,2011-09-09,Re: FYI,0.2,Positive,Neutral
+john.arnold@enron.com,2010-12-29,Matthew Olney,0.0,Neutral,Positive
+don.baughman@enron.com,2010-09-03,Metro 214 and 216 downtown route changes,0.15,Positive,Neutral
+don.baughman@enron.com,2011-04-05,Lotus notes?,-0.16666666666666666,Negative,Neutral
+rhonda.denton@enron.com,2011-05-06,Congratulations,1.0,Positive,Positive
+don.baughman@enron.com,2011-09-14,Manitoba-Hydro Procedures,0.2222222222222222,Positive,Positive
+lydia.delgado@enron.com,2011-12-21,System outage nomination impact,-0.19999999999999998,Negative,Negative
+rhonda.denton@enron.com,2010-05-27,2001 Plan,0.2,Positive,Neutral
+lydia.delgado@enron.com,2011-11-16,RE: friday,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-05-19,Austin,-0.13333333333333333,Negative,Neutral
+eric.bass@enron.com,2011-12-20,Last Call for Accountants.....,0.11727272727272728,Positive,Neutral
+john.arnold@enron.com,2010-02-14,FW:,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-08-28,MISO proposed $1000 penalty,-0.13333333333333328,Negative,Negative
+sally.beck@enron.com,2011-05-19,Snapka's Holiday Benefits (all prodeeds go to Cindy!),0.0,Neutral,Positive
+eric.bass@enron.com,2010-10-22,Associates PRC Meeting,0.13636363636363635,Positive,Neutral
+sally.beck@enron.com,2011-02-05,Re: Facility Fees,0.017857142857142873,Neutral,Negative
+kayne.coulter@enron.com,2010-01-31,Re: Friday,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-21,East Power Candidate,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-01,Re: Austin,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-06-05,From Wellesley,0.37250000000000005,Positive,Positive
+johnny.palmer@enron.com,2011-02-12,East Power Candidate,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-03-11,AES Eastern Energy LP,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-02-20,(No Subject),0.011111111111111115,Neutral,Negative
+john.arnold@enron.com,2010-12-25,RE: Lunch,0.15999999999999998,Positive,Neutral
+don.baughman@enron.com,2010-05-09,Telluride,0.05,Positive,Neutral
+johnny.palmer@enron.com,2011-07-06,Re: Another Vac. request,0.7,Positive,Positive
+eric.bass@enron.com,2011-01-12,tkts,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-12-16,Executive Committee Meeting,-0.1,Negative,Neutral
+bobette.riner@ipgdirect.com,2011-11-09,TradeSpark SO2 and OTC NOx MPI 02/23/01,0.23333333333333336,Positive,Positive
+johnny.palmer@enron.com,2011-02-10,Staff Meetings,0.062412587412587414,Positive,Positive
+lydia.delgado@enron.com,2011-02-02,RE: Good Morning!!,1.0,Positive,Positive
+lydia.delgado@enron.com,2011-09-23,Product Approval,0.2,Positive,Positive
+don.baughman@enron.com,2011-05-17,Rap mtg. Schedule,0.11041666666666666,Positive,Positive
+johnny.palmer@enron.com,2010-01-01,ERCOT Readiness Update attached,0.03333333333333333,Neutral,Neutral
+patti.thompson@enron.com,2010-05-08,Addition,-0.1,Negative,Neutral
+john.arnold@enron.com,2010-08-21,More I-bank info,0.3125,Positive,Positive
+john.arnold@enron.com,2010-03-05,Days Out of Office,0.03333333333333333,Neutral,Neutral
+johnny.palmer@enron.com,2010-10-26,"FirstEnergy Trading Services, Inc.",0.6,Positive,Neutral
+don.baughman@enron.com,2010-05-21,budget 2000,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-11,Re: Rodeo tickets,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-08,Re: Managing Director and Vice President Elections,0.16,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-01,Re: Access to DPR for Fernley Dyson,0.2,Positive,Neutral
+patti.thompson@enron.com,2011-11-22,2001 Plan vs 2000 Forecast Explanation,0.13963636363636361,Positive,Positive
+bobette.riner@ipgdirect.com,2011-04-25,Re: Congratulations,0.45999999999999996,Positive,Positive
+bobette.riner@ipgdirect.com,2010-06-04,hourly checkout AECI HE 9 from 5-3-01,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-12-26,"Vacation - March 2, 3, and 6th",0.09428571428571429,Positive,Positive
+sally.beck@enron.com,2011-10-25,Vermont Yankee Notification,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-30,Re: dinner,0.27499999999999997,Positive,Positive
+kayne.coulter@enron.com,2010-11-25,NEW VERSION OF THE VIEW DATA DATABASE,0.11212121212121212,Positive,Neutral
+don.baughman@enron.com,2010-06-05,Re: Key Contacts in Your Area - December 20 - 31,0.18571428571428572,Positive,Neutral
+johnny.palmer@enron.com,2010-09-21,Phone Number,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-01-12,RE: Your son's first game...,0.2333333333333333,Positive,Positive
+bobette.riner@ipgdirect.com,2010-10-12,March 16 Clean-up Day and Garage Sale,0.10000000000000002,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-30,Re:,0.4166666666666667,Positive,Neutral
+don.baughman@enron.com,2010-06-20,Re:,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-02-18,Re:  Enron/TradersNews Energy-Schedule Meet.,0.1,Positive,Neutral
+rhonda.denton@enron.com,2011-03-21,Pagers,0.016666666666666677,Neutral,Neutral
+eric.bass@enron.com,2010-08-03,Re: breakfast pizza,0.24666666666666667,Positive,Positive
+rhonda.denton@enron.com,2011-12-31,NEED COMMENTS-Dynegy v. ComEd response,0.06666666666666667,Positive,Neutral
+rhonda.denton@enron.com,2011-06-27,Re:,0.13017676767676767,Positive,Neutral
+patti.thompson@enron.com,2011-04-15,RE: Bet,0.7,Positive,Positive
+rhonda.denton@enron.com,2011-01-19,"TradersNews hourly indexes for ComEd, TVA and ERCOT attached",0.13636363636363635,Positive,Neutral
+john.arnold@enron.com,2010-12-06,Re:,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-01,TraderNews market commentary,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-08-23,Ken Lay Resigns from Board,0.19444444444444445,Positive,Neutral
+johnny.palmer@enron.com,2011-04-11,Re:,0.3,Positive,Neutral
+johnny.palmer@enron.com,2011-08-06,Get Out Your Light Saber,0.5,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-04-14,Re: enl-dailyupdate-txt,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-11-30,Re: Tigers,0.5,Positive,Neutral
+kayne.coulter@enron.com,2010-09-11,Personnel on night shift week of 05/14 - 05/18/2001,0.225,Positive,Neutral
+john.arnold@enron.com,2010-09-07,"AXIA ENERGY, LP",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-03-25,(No Subject),0.06818181818181818,Positive,Neutral
+don.baughman@enron.com,2010-12-16,Dope Wars 2.0 for Windows - Order No. 330038,0.09404761904761905,Positive,Positive
+john.arnold@enron.com,2010-11-24,Telluride,0.6,Positive,Positive
+johnny.palmer@enron.com,2011-08-19,eService Online New Member Information,0.43825757575757573,Positive,Positive
+rhonda.denton@enron.com,2011-08-10,Congratulations!,0.6,Positive,Positive
+sally.beck@enron.com,2011-12-27,Weekly Focus on Commercialization of Services,0.18015873015873016,Positive,Neutral
+kayne.coulter@enron.com,2011-09-23,Consolidated Global Standards 12/18/00,0.13333333333333333,Positive,Neutral
+lydia.delgado@enron.com,2011-05-22,Re: FAS 133 Offsite,0.175,Positive,Neutral
+sally.beck@enron.com,2011-08-04,Market drivers--story attached,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-17,Weekly Mtg.,-0.16666666666666666,Negative,Neutral
+eric.bass@enron.com,2011-06-07,Gordon Heaney's Acceptance,0.12777777777777777,Positive,Positive
+john.arnold@enron.com,2011-08-24,TX Version of Survivor,0.6083333333333334,Positive,Positive
+patti.thompson@enron.com,2011-04-23,Re: Beck/Sally 13Dec ENR-1081 Itinerary,0.44999999999999996,Positive,Positive
+lydia.delgado@enron.com,2011-05-08,Re: NY meeting reports,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-10-07,PRC,-0.25,Negative,Neutral
+rhonda.denton@enron.com,2011-02-23,Re:,-0.2708333333333333,Negative,Neutral
+john.arnold@enron.com,2011-10-11,Employee Profile - Brent Price,0.0,Neutral,Positive
+john.arnold@enron.com,2011-11-13,Referral (w/resume),0.08333333333333333,Positive,Positive
+johnny.palmer@enron.com,2011-02-19,Texas & HPLC Deals that end 2/28/00,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-10,Utility Term Sheet Form 1,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-01-06,1,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-01-05,Dinner with UT Students,0.07662337662337662,Positive,Neutral
+john.arnold@enron.com,2010-09-12,(No Subject),0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-09-04,RESUME,0.5,Positive,Neutral
+sally.beck@enron.com,2010-08-06,(No Subject),0.44999999999999996,Positive,Positive
+bobette.riner@ipgdirect.com,2011-09-12,Atlantic City Electric Company,0.2,Positive,Neutral
+john.arnold@enron.com,2010-01-10,Commissioner.COM trade decision,-0.15000000000000002,Negative,Neutral
+rhonda.denton@enron.com,2010-02-28,sailing pics,0.0,Neutral,Negative
+eric.bass@enron.com,2011-01-07,El Paso Electric Company,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-11-24,GAME TONIGHT @ 7:45,-0.4,Negative,Neutral
+johnny.palmer@enron.com,2011-10-10,Re: anniversary,0.22000000000000003,Positive,Positive
+johnny.palmer@enron.com,2010-10-25,Re:,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-04-26,this is funny,0.25,Positive,Positive
+rhonda.denton@enron.com,2011-07-07,Expense Report for Stephen Schwarz Dated 12/20/99,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-02-16,Out of Office August 29-31 - Key Contacts,0.05340909090909091,Positive,Neutral
+lydia.delgado@enron.com,2010-06-10,Allegheny Power Guidelines Update,0.75,Positive,Neutral
+lydia.delgado@enron.com,2011-12-14,UT Business Leadership Conference,0.0775,Positive,Positive
+patti.thompson@enron.com,2010-04-03,Cool Sailing Pics,0.35,Positive,Positive
+patti.thompson@enron.com,2010-05-03,Stage 1 CANCELLATION,0.3,Positive,Negative
+lydia.delgado@enron.com,2010-12-21,Did I miss you?,0.2294760101010101,Positive,Neutral
+eric.bass@enron.com,2011-04-22,Input on Breakout Groups,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-01,Master Power Contracts,0.20000000000000004,Positive,Neutral
+eric.bass@enron.com,2010-10-07,Mid Market/Trader Mtg. w/Regions,0.0066666666666666706,Neutral,Neutral
+eric.bass@enron.com,2011-12-10,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+don.baughman@enron.com,2010-06-29,Order re. transfer of operational control to MISO,0.41632653061224495,Positive,Positive
+john.arnold@enron.com,2011-07-24,Generation,0.12626262626262627,Positive,Positive
+eric.bass@enron.com,2011-07-27,Re: Congratulations!,0.20650510204081632,Positive,Positive
+patti.thompson@enron.com,2011-06-12,Lower Colorado River Authority,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-08-22,(No Subject),0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-02-08,Energy Ops Showstopper Status Report - 6/30/00,0.16,Positive,Positive
+patti.thompson@enron.com,2011-05-11,"Enpower Production Database Outage - (Dec 29 6pm to Dec 30 6am -
+ PwrProdn)",-0.10222222222222224,Negative,Neutral
+eric.bass@enron.com,2011-01-31,"Wabash Valley Power Association, Inc.",0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-01-19,Re: TX IPPS,0.1340909090909091,Positive,Positive
+sally.beck@enron.com,2010-08-20,"Phone Interview Confirmation - Wednesday, June 6, 2001 - Shannon L.
+ Burnhan",0.4,Positive,Neutral
+lydia.delgado@enron.com,2010-01-04,Your mailbox is over its size limit,0.3045454545454545,Positive,Neutral
+sally.beck@enron.com,2010-02-20,Re: Blossom,-0.03333333333333335,Neutral,Neutral
+johnny.palmer@enron.com,2011-02-19,DUKE to SOCO deal 1-30-01,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-10-30,FW:,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-06-22,E Services company,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-10-14,Re: I need your phone # to help your debt problem. [h7gmu],-0.4,Negative,Negative
+sally.beck@enron.com,2011-12-20,RE: Honeymoon Itinerary,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-12-24,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-01-20,So long,0.25092592592592594,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-27,(No Subject),0.5,Positive,Neutral
+kayne.coulter@enron.com,2011-11-27,Austin?,0.19318181818181818,Positive,Neutral
+patti.thompson@enron.com,2011-03-06,TradersNews Energy new price reporting sheet,-0.040909090909090916,Neutral,Positive
+patti.thompson@enron.com,2010-06-09,TradersNews Password,0.0,Neutral,Negative
+lydia.delgado@enron.com,2010-06-03,RBs,0.0,Neutral,Negative
+john.arnold@enron.com,2011-06-30,Re: Proposal for Electronic Confirmations,-0.1,Negative,Positive
+kayne.coulter@enron.com,2011-09-12,Draft,0.03273809523809523,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-06,Re: Associate PRC Reps for Year End,0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-04-09,1,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-04,Get Out Your Light Saber,0.5,Positive,Neutral
+kayne.coulter@enron.com,2011-02-16,Happy Hour,0.8,Positive,Positive
+john.arnold@enron.com,2010-01-14,Financial Council Agenda,0.08333333333333333,Positive,Neutral
+lydia.delgado@enron.com,2011-02-04,Lunch,0.2,Positive,Neutral
+rhonda.denton@enron.com,2011-06-19,Wheatland unit2,-0.14166666666666666,Negative,Negative
+sally.beck@enron.com,2010-09-08,VaR training,0.26666666666666666,Positive,Neutral
+lydia.delgado@enron.com,2010-11-25,Re: Semi Finals,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-07-19,Accomplishments - First Half of 2000,0.08214285714285714,Positive,Neutral
+johnny.palmer@enron.com,2010-02-07,Re: Later Transfer,0.1,Positive,Neutral
+sally.beck@enron.com,2011-07-04,Re: QB,0.5,Positive,Positive
+john.arnold@enron.com,2011-02-24,Re: Sorry,0.125,Positive,Positive
+johnny.palmer@enron.com,2011-02-25,Re: Dinner on Friday?,-0.15000000000000002,Negative,Neutral
+johnny.palmer@enron.com,2011-06-20,Re: Friday,0.35,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-08,Re: golf,-0.15000000000000002,Negative,Neutral
+lydia.delgado@enron.com,2010-06-03,RE: Ship fixed price swing/swap,0.1,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-11-08,(No Subject),0.2,Positive,Positive
+rhonda.denton@enron.com,2011-01-17,Bachelor Party,0.0,Neutral,Positive
+john.arnold@enron.com,2010-12-24,Commissioner.COM E-Reports for Y2KG 11/13/00,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-13,Kristen's b-day,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-30,Updated Desk Info.,-0.16666666666666666,Negative,Neutral
+sally.beck@enron.com,2010-08-24,TSC Calculator,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-03-19,CONGRATULATIONS,-0.05555555555555555,Negative,Positive
+rhonda.denton@enron.com,2010-09-10,Congratulations!,0.4083333333333333,Positive,Positive
+sally.beck@enron.com,2011-12-26,Trade,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-09-02,Response to RFP,0.125,Positive,Neutral
+kayne.coulter@enron.com,2011-01-07,Global Standards 12/27,-0.2333333333333333,Negative,Negative
+patti.thompson@enron.com,2011-07-12,Update to Merger Q&A,0.5,Positive,Neutral
+patti.thompson@enron.com,2011-07-16,Analyst Hiring Needs,0.3666666666666667,Positive,Positive
+eric.bass@enron.com,2011-09-23,TNE Index info attached,0.19375,Positive,Positive
+john.arnold@enron.com,2010-11-03,DCB info,0.875,Positive,Positive
+john.arnold@enron.com,2011-02-22,Social club initiates,0.06666666666666667,Positive,Neutral
+lydia.delgado@enron.com,2010-12-01,Re: Prudencies,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-26,Groceries for 1/10/01,-0.2,Negative,Neutral
+johnny.palmer@enron.com,2011-08-29,Dinner with UT Students,0.07662337662337662,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-02,RE: Exotic Options Module Series - Asian Options,0.2619047619047619,Positive,Neutral
+eric.bass@enron.com,2011-01-25,VAR,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-01-15,Illinois Power Option Pricing,0.4,Positive,Neutral
+sally.beck@enron.com,2011-05-15,Global Standards 12/28/00,0.2340909090909091,Positive,Positive
+don.baughman@enron.com,2011-05-04,Happy holidays,0.35555555555555557,Positive,Positive
+eric.bass@enron.com,2010-10-09,Forwarding the Resume,0.2,Positive,Neutral
+sally.beck@enron.com,2010-11-12,Market Mail from The Potter Roberts Group,-0.02380952380952381,Neutral,Neutral
+lydia.delgado@enron.com,2010-12-25,Dow Pipeline Company,0.2,Positive,Neutral
+eric.bass@enron.com,2011-12-28,"AES NewEnergy,Inc.",0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-06-02,Re: Lunch with UT Summer Interns,0.1,Positive,Neutral
+patti.thompson@enron.com,2011-07-07,FW: Deal: Y82661.1,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-21,FW: Associate,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-10-29,Enron Wholesale Services Legal Department,0.140625,Positive,Positive
+eric.bass@enron.com,2011-12-23,Vermont Yankee Notification Update.,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-10-15,PRC Pre-ratings,0.7111111111111111,Positive,Positive
+johnny.palmer@enron.com,2010-10-11,Re: Engram,-0.3333333333333333,Negative,Negative
+kayne.coulter@enron.com,2011-04-23,RE: EPMI traders news index,0.14250000000000002,Positive,Positive
+patti.thompson@enron.com,2010-09-09,February 5th,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-08-28,Re: saturday,0.175,Positive,Neutral
+eric.bass@enron.com,2010-05-07,Re: Hi,0.2051948051948052,Positive,Positive
+rhonda.denton@enron.com,2010-03-28,"Coral Power, LLC",0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-01-26,Re: Project Aruba Closing Dinner,0.11499999999999999,Positive,Positive
+sally.beck@enron.com,2011-10-28,Re: CUSTOMER REQUESTED CANCEL,0.0,Neutral,Negative
+eric.bass@enron.com,2010-05-16,Info for Sally Beck Jornada,0.11093750000000001,Positive,Positive
+don.baughman@enron.com,2010-05-02,Global Operations Task Force - Issues Summary,0.0,Neutral,Negative
+john.arnold@enron.com,2010-02-13,V@R,0.6,Positive,Neutral
+johnny.palmer@enron.com,2010-12-23,Interview Schedule for John Jamroz,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-26,Access to Mary Solmonson's e-mail,0.19421487603305784,Positive,Neutral
+johnny.palmer@enron.com,2011-07-16,New Products,0.1787878787878788,Positive,Negative
+sally.beck@enron.com,2011-08-25,RE: THIS IS A SURVEY - ONE QUESTION,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-06-11,Re :  (#7482-000998-38589983858),0.5,Positive,Neutral
+lydia.delgado@enron.com,2010-07-29,"Into Cinergy Hourly Index for November 19, 2001",0.25555555555555554,Positive,Positive
+johnny.palmer@enron.com,2010-01-07,Clarification,-0.2,Negative,Neutral
+patti.thompson@enron.com,2011-03-17,RE: FPL CA,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-29,Re: Addresses,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-08-09,(No Subject),0.0,Neutral,Neutral
+eric.bass@enron.com,2010-03-17,Power Failure,0.04555555555555555,Neutral,Neutral
+don.baughman@enron.com,2010-04-10,TradersNews market commentary attached,0.2,Positive,Neutral
+eric.bass@enron.com,2011-05-04,Team Leader Mtg. Conference room EB4102,0.13333333333333333,Positive,Neutral
+eric.bass@enron.com,2011-04-07,Re:  Enron/TradersNews Energy-Meeting week of 10/15,0.06666666666666667,Positive,Neutral
+kayne.coulter@enron.com,2010-01-23,(No Subject),0.21696428571428572,Positive,Neutral
+don.baughman@enron.com,2011-08-08,Thunderball presentation,0.2,Positive,Neutral
+john.arnold@enron.com,2010-08-08,Re: missing a couple jumbos?,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-11-28,Canadian Promotions/Trip,0.3,Positive,Positive
+patti.thompson@enron.com,2011-07-14,Update to the MIF Meeting Presentations on the ISO Website,0.1,Positive,Neutral
+lydia.delgado@enron.com,2010-11-30,(No Subject),0.5,Positive,Neutral
+rhonda.denton@enron.com,2011-06-29,MAD COW DISEASE,-0.37916666666666665,Negative,Negative
+kayne.coulter@enron.com,2011-09-20,The TradersNews Cin and AEP hourly indexes have been posted,0.225,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-17,Interview Schedule for John Franklin,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-03-05,Re: trades,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-07,Enron Management Conference,0.25,Positive,Neutral
+kayne.coulter@enron.com,2010-06-18,Re:,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-04-24,TradersNews market commentary attached,0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-08-24,Fwd: Foundations,0.8,Positive,Positive
+patti.thompson@enron.com,2010-09-04,Staff Meetings,0.062412587412587414,Positive,Positive
+don.baughman@enron.com,2011-12-22,"AES NewEnergy,Inc.",0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-09-11,Weekly Mtg.,-0.16666666666666666,Negative,Neutral
+sally.beck@enron.com,2010-08-29,(No Subject),0.5,Positive,Positive
+john.arnold@enron.com,2011-10-29,Flood pics,0.037500000000000006,Neutral,Neutral
+rhonda.denton@enron.com,2011-04-03,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-05-11,process flow for doorstep,0.3181818181818182,Positive,Neutral
+sally.beck@enron.com,2011-01-31,RE: Executed Master Netting Agreement Binders,0.2,Positive,Neutral
+don.baughman@enron.com,2011-05-17,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+rhonda.denton@enron.com,2011-05-10,"Final Schedule - Wednesday, May 23, 2001 - Kevin M. McLarney",0.06666666666666667,Positive,Neutral
+johnny.palmer@enron.com,2010-10-03,Fwd: Inspection Report,0.8,Positive,Positive
+eric.bass@enron.com,2011-12-12,Dove HUNT in Mason TX - Joe Ebert,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-07-24,Pager Request,-0.15,Negative,Negative
+bobette.riner@ipgdirect.com,2010-02-28,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-05-13,Interview Schedule,0.1,Positive,Neutral
+lydia.delgado@enron.com,2011-12-20,Re: Game @ 7:00,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2011-06-17,Re: fyi - eRequest for vpn,0.33166666666666667,Positive,Positive
+don.baughman@enron.com,2010-11-18,Re: Lunch,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-23,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+johnny.palmer@enron.com,2011-12-28,New Team,0.16818181818181818,Positive,Neutral
+johnny.palmer@enron.com,2010-01-24,Re: Power Trader Position,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-10-29,Here's the rest!,1.0,Positive,Positive
+john.arnold@enron.com,2011-10-08,Days Out of Office,0.03333333333333333,Neutral,Neutral
+rhonda.denton@enron.com,2011-12-21,System outage nomination impact,-0.19999999999999998,Negative,Negative
+bobette.riner@ipgdirect.com,2010-09-12,Eastern Interconnect - Then and Now,0.4,Positive,Positive
+kayne.coulter@enron.com,2010-06-16,September NCL Meeting,0.0859375,Positive,Neutral
+sally.beck@enron.com,2011-03-09,Re: Game tomorrow at 8:00,-0.4,Negative,Neutral
+eric.bass@enron.com,2011-03-18,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-06-07,New Model,0.13636363636363635,Positive,Neutral
+sally.beck@enron.com,2010-01-23,W-2 problems,-0.018750000000000003,Neutral,Negative
+sally.beck@enron.com,2010-05-09,(no subject),0.2625,Positive,Positive
+kayne.coulter@enron.com,2010-04-09,Dope Wars 2.0 for Windows - Order No. 330038,0.09404761904761905,Positive,Positive
+lydia.delgado@enron.com,2011-12-12,12/05/200,0.8,Positive,Neutral
+john.arnold@enron.com,2010-12-24,Updated info,-0.03571428571428571,Neutral,Positive
+lydia.delgado@enron.com,2011-02-26,Re: Fooball game,0.19999999999999998,Positive,Positive
+lydia.delgado@enron.com,2011-04-10,Winfield Technology,0.1,Positive,Positive
+eric.bass@enron.com,2011-06-01,Re: Travis Resume,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-30,Free Trial: Gas Trader,0.2055735930735931,Positive,Negative
+bobette.riner@ipgdirect.com,2011-11-02,India trading operations,0.2,Positive,Neutral
+eric.bass@enron.com,2011-04-15,Congratulations,0.44999999999999996,Positive,Positive
+patti.thompson@enron.com,2010-08-08,A note on PMA's,0.21666666666666667,Positive,Positive
+bobette.riner@ipgdirect.com,2011-09-18,FFL Dues,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-06-04,Re: Check Request,0.18125,Positive,Neutral
+john.arnold@enron.com,2011-12-30,Split Rock Energy LLC,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-08-28,(No Subject),-0.4,Negative,Neutral
+kayne.coulter@enron.com,2010-10-13,(No Subject),0.3181818181818182,Positive,Neutral
+john.arnold@enron.com,2011-05-27,"Ash Grove Cement Company, East Bay Municipal Utilitity District",0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-02-04,GLOBAL STANDARDS 12/20 TO 12/21,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-10-07,EWS Organizational Announcement,0.16,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-09-04,Re: visit,0.12000000000000002,Positive,Positive
+eric.bass@enron.com,2010-03-02,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-04-24,Final presentation - RAC FAQs,0.20000000000000004,Positive,Neutral
+patti.thompson@enron.com,2011-12-17,eValueMarketing  - N60 Cancellation,0.5,Positive,Neutral
+rhonda.denton@enron.com,2010-12-24,W-2 problems,-0.018750000000000003,Neutral,Negative
+bobette.riner@ipgdirect.com,2010-06-17,"Re: Today the World, Tomorrow....Who Knows!?",0.21761363636363634,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-29,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-12-22,TradersNews Energy Account Activation,-0.07777777777777779,Negative,Negative
+sally.beck@enron.com,2010-09-12,Game @ 7:00,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2011-11-25,WH DATA,0.03888888888888891,Neutral,Negative
+john.arnold@enron.com,2011-12-31,"UBSW Orientation - Thursday. For those that did not attend the
+ Houstonian Sessions",0.1,Positive,Positive
+rhonda.denton@enron.com,2010-09-11,Personnel on night shift week of 05/14 - 05/18/2001,0.225,Positive,Neutral
+lydia.delgado@enron.com,2011-02-25,Re:,0.41948051948051945,Positive,Positive
+lydia.delgado@enron.com,2011-02-18,BRUTAL,-0.2333333333333333,Negative,Positive
+patti.thompson@enron.com,2011-07-08,Garvin Brown - AXIA Sr. Power Scheduler,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-06,AEP-HPL Transition Issues,0.5625,Positive,Negative
+sally.beck@enron.com,2010-06-07,ACRONYM ADDITIONS TO THE P&L AND PRICE SHEET.,0.1,Positive,Positive
+kayne.coulter@enron.com,2010-01-18,(No Subject),0.0,Neutral,Positive
+kayne.coulter@enron.com,2010-04-23,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-03-20,Updated Desk Info.,-0.16666666666666666,Negative,Neutral
+patti.thompson@enron.com,2011-03-22,JD in LATE,-0.3,Negative,Negative
+eric.bass@enron.com,2011-06-23,RE: M&A's,0.3,Positive,Neutral
+patti.thompson@enron.com,2011-10-10,Bracket,-0.15555555555555559,Negative,Neutral
+don.baughman@enron.com,2010-04-13,\\spr1inf1\sapfiles\ifout\04000\20020111-ENWC.XLS,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-05-14,TradersNews Power Account Activation,0.008888888888888885,Neutral,Negative
+sally.beck@enron.com,2010-06-01,Re: rotation,0.4121212121212121,Positive,Positive
+lydia.delgado@enron.com,2010-03-29,Indianapolis Power and Light Company,0.30000000000000004,Positive,Neutral
+johnny.palmer@enron.com,2010-10-04,Re:,0.20833333333333334,Positive,Positive
+lydia.delgado@enron.com,2011-02-13,Jury Duty - November 28,-0.25,Negative,Neutral
+johnny.palmer@enron.com,2011-09-27,Happy New Year - No Y2K Fear!,0.1799910873440285,Positive,Positive
+don.baughman@enron.com,2010-12-15,Re: Canadian Promotions/Trip,0.625,Positive,Positive
+eric.bass@enron.com,2010-11-09,Showdown Shirts for Everyone!!!,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2010-02-28,you gentlemen should be set up today w/ TradersNews passwords,0.1875,Positive,Neutral
+rhonda.denton@enron.com,2010-12-23,Power Desk List,-0.16666666666666666,Negative,Neutral
+don.baughman@enron.com,2010-12-05,MPR 12/29/00,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-12-02,Re: Jarnold,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-10-17,No trades with PG&E,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-03-04,Re: ASTROS GAME,0.21785714285714283,Positive,Positive
+johnny.palmer@enron.com,2010-08-17,RBs,0.0,Neutral,Negative
+john.arnold@enron.com,2011-01-19,Desk Info Speadsheet,0.20727272727272728,Positive,Neutral
+sally.beck@enron.com,2010-11-18,"Shop Now, Ship for Free--the Holidays Are Here",-0.0625,Negative,Positive
+lydia.delgado@enron.com,2011-04-30,Re: Update for Executive Report Viewer project,0.1,Positive,Neutral
+lydia.delgado@enron.com,2011-07-15,January 10 meeting,0.09999999999999999,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-02-18,Transmission Rates,0.1,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-22,(No Subject),0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-11-26,Re: Check it out!,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-12-18,Re: Welcome to www.har.com! (4),0.16,Positive,Positive
+eric.bass@enron.com,2010-09-14,Kennedy Ranch Weekend,-0.13333333333333333,Negative,Neutral
+eric.bass@enron.com,2010-07-11,(No Subject),0.18522727272727274,Positive,Positive
+john.arnold@enron.com,2011-05-27,Re: Plays and other information,0.13785714285714284,Positive,Neutral
+sally.beck@enron.com,2010-08-29,Product Approval,0.1,Positive,Positive
+lydia.delgado@enron.com,2011-02-09,Dove HUNT in Mason TX - Joe Ebert,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-03-06,Re: visit,0.25,Positive,Positive
+lydia.delgado@enron.com,2011-10-15,SCR Event Reporting,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-02-05,RE: TradersNews,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-06-06,"eThink About It: November 6, 2000",0.495,Positive,Positive
+john.arnold@enron.com,2011-06-02,TradersNews,0.45,Positive,Positive
+sally.beck@enron.com,2010-07-23,CONGRATULATIONS,-0.05555555555555555,Negative,Positive
+johnny.palmer@enron.com,2011-01-15,Draft,-0.05952380952380953,Negative,Positive
+sally.beck@enron.com,2011-11-22,TradeSpark SO2 and OTC NOx MPI 02/23/01,0.23333333333333336,Positive,Positive
+rhonda.denton@enron.com,2011-01-21,(No Subject),0.13636363636363635,Positive,Neutral
+patti.thompson@enron.com,2010-09-09,Entergy's new OASIS node is now available,0.15132575757575759,Positive,Negative
+bobette.riner@ipgdirect.com,2010-06-15,Outage for Unify Gas Users,-0.125,Negative,Neutral
+don.baughman@enron.com,2010-07-19,ACRONYM ADDITIONS TO THE P&L AND PRICE SHEET.,0.1,Positive,Positive
+johnny.palmer@enron.com,2011-08-01,homo,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-07-30,Re: UT MBA Excellence Awards,0.2,Positive,Neutral
+kayne.coulter@enron.com,2010-12-19,(No Subject),0.2199074074074074,Positive,Positive
+don.baughman@enron.com,2011-08-17,Resume -  Joe,0.11458333333333333,Positive,Positive
+don.baughman@enron.com,2011-01-30,Re: Game tonight,-0.4,Negative,Neutral
+don.baughman@enron.com,2010-09-13,FW: Scotty Ts X-mas Party 2,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-09,Re: Proposal for Electronic Confirmations,0.47000000000000003,Positive,Negative
+eric.bass@enron.com,2011-05-03,"Enpower Production Database Outage - (Dec 29 6pm to Dec 30 6am -
+ PwrProdn)",-0.10222222222222224,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-09-16,kennison,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-05,Get a FREE DVD@ColumbiaHouse.com! (open for details),0.2567460317460318,Positive,Positive
+rhonda.denton@enron.com,2010-12-15,Re:,0.14981060606060606,Positive,Positive
+eric.bass@enron.com,2011-06-18,RE: Letter to E&Y,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-10-13,Re: Congrats,0.1,Positive,Positive
+johnny.palmer@enron.com,2010-02-12,Re: Bet,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-08-28,Re:,0.35,Positive,Positive
+lydia.delgado@enron.com,2011-10-25,Taylor,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-09-09,Sally's itinerary 1/2/01,-0.048242187500000006,Neutral,Positive
+rhonda.denton@enron.com,2011-12-09,Commissioner.COM E-Reports for Y2KG 11/13/00,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-07-17,October 20 Meeting re: Internal Audit Projects for September,-0.047619047619047616,Neutral,Negative
+patti.thompson@enron.com,2010-05-05,FIST logins,0.04999999999999999,Neutral,Neutral
+lydia.delgado@enron.com,2010-03-26,Re: Demand Letter for Shannon Tyer to Amico Property,0.2,Positive,Neutral
+john.arnold@enron.com,2010-08-06,homo,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-11-09,(No Subject),0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-10-27,Hello!,0.11818181818181818,Positive,Neutral
+patti.thompson@enron.com,2010-10-10,Sorry,-0.5,Negative,Negative
+lydia.delgado@enron.com,2010-01-02,Re: Wellhead Accrual Income,0.5,Positive,Neutral
+patti.thompson@enron.com,2011-04-08,SAP Logon ID and Password,0.024999999999999994,Neutral,Neutral
+john.arnold@enron.com,2011-10-11,Doorstep RAC Direction,0.15500000000000003,Positive,Positive
+sally.beck@enron.com,2010-11-17,India,0.65,Positive,Positive
+sally.beck@enron.com,2010-10-15,(No Subject),0.0,Neutral,Neutral
+eric.bass@enron.com,2010-09-21,draft,0.6,Positive,Neutral
+patti.thompson@enron.com,2011-02-18,TV,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-28,Harrison,0.0,Neutral,Negative
+sally.beck@enron.com,2010-01-20,Reporting,0.5,Positive,Neutral
+sally.beck@enron.com,2011-11-24,Interview Schedule,0.1,Positive,Neutral
+sally.beck@enron.com,2010-12-25,Re: Expense Reports,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-10-28,Another Vac. request,0.0,Neutral,Negative
+don.baughman@enron.com,2011-11-17,Trading Track PRC Evaluations due today,-0.08333333333333333,Negative,Neutral
+john.arnold@enron.com,2010-03-26,(No Subject),-0.3,Negative,Neutral
+patti.thompson@enron.com,2011-10-08,24 hour trading position,0.45,Positive,Positive
+bobette.riner@ipgdirect.com,2010-07-30,T. Hall Final 1999 Exp Rpt,0.1,Positive,Positive
+john.arnold@enron.com,2010-05-10,Re: Game Tonight @ 7,-0.24107142857142858,Negative,Positive
+bobette.riner@ipgdirect.com,2010-11-30,Re: How About Lunch?,0.7,Positive,Positive
+john.arnold@enron.com,2010-12-29,Re: Metals Trading Back Office Support Meeting,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-10-17,(no subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-08-16,NEW PASSWORD FOR EXELON (CE) CHECKOUTS,0.13636363636363635,Positive,Negative
+sally.beck@enron.com,2011-07-12,Re:,0.7,Positive,Positive
+sally.beck@enron.com,2010-04-02,Re:,0.6,Positive,Positive
+sally.beck@enron.com,2011-03-27,"Into Cinergy Hourly Index for November 20, 2001",0.0,Neutral,Neutral
+eric.bass@enron.com,2011-09-28,Global Risk Management Operations Weekly Operating Report,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-04-09,Transmission Rates,0.1,Positive,Positive
+johnny.palmer@enron.com,2010-02-25,No trades with PG&E,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-01-25,Historicals,-0.09375,Negative,Neutral
+lydia.delgado@enron.com,2011-02-10,Re: Expense Reports,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-07-04,Interview Schedules for Steven Jacobellis and Jeffrey Snyder,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-07-13,SEPA and schedules,0.1672348484848485,Positive,Positive
+sally.beck@enron.com,2011-07-02,RE: Saturday December 29,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-01-26,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2011-08-14,Mid Year Evaluation Form,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-08-14,Re: Practice,0.2,Positive,Positive
+patti.thompson@enron.com,2010-10-11,"EnronOnline Executive Summary for May 31, 2001",0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-04-04,TradeSpark SO2 and OTC NOx MPI 02/23/01,0.23333333333333336,Positive,Positive
+patti.thompson@enron.com,2011-01-22,Dave Kopel on NRO,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-01-25,Enron Japan Weekly update.,0.11212121212121212,Positive,Negative
+sally.beck@enron.com,2010-06-05,FW: Options Market Update,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-11-27,Lunch,0.2,Positive,Neutral
+rhonda.denton@enron.com,2010-08-21,User account activated,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-05-17,Re: Promotion,0.43125,Positive,Positive
+patti.thompson@enron.com,2010-06-21,This is alot of concrete,0.25,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-04-08,FW: Phantom Stock Payouts,0.375,Positive,Neutral
+eric.bass@enron.com,2010-01-03,computer wallpaper- must have,0.09375,Positive,Neutral
+sally.beck@enron.com,2010-08-02,Mark Potts resume,0.5,Positive,Positive
+johnny.palmer@enron.com,2010-01-05,turn up volume first & open with care,0.125,Positive,Neutral
+johnny.palmer@enron.com,2010-10-09,trade,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-08,"Ash Grove Cement Company, East Bay Municipal Utilitity District",0.2,Positive,Neutral
+patti.thompson@enron.com,2010-10-06,Minnesota Municipal Power Agency,0.2,Positive,Neutral
+lydia.delgado@enron.com,2010-06-19,MAPP ATC Posting Website,-0.125,Negative,Negative
+john.arnold@enron.com,2010-05-25,Redraw?,-0.35,Negative,Neutral
+eric.bass@enron.com,2010-11-24,Winfield Technology,0.1,Positive,Positive
+patti.thompson@enron.com,2010-06-19,Lunch for UT Summer Analysts and Associates,0.3125,Positive,Positive
+patti.thompson@enron.com,2010-09-15,Re:  Enron/TradersNews Energy (meeting),0.0,Neutral,Positive
+sally.beck@enron.com,2011-07-01,RE: EPMI IPG INDICES 2/12/01,0.4375,Positive,Positive
+don.baughman@enron.com,2011-12-12,Re: ASE,0.8,Positive,Positive
+john.arnold@enron.com,2010-12-12,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-22,Hourly Trading Position,0.36018518518518516,Positive,Positive
+sally.beck@enron.com,2010-03-06,RE: FFL Dues,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-04-12,Lunch Meeting Scheduled for 2/16,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-01-17,Re: Congratulations!,0.384375,Positive,Positive
+patti.thompson@enron.com,2010-09-06,Game Tonight,-0.07500000000000001,Negative,Neutral
+johnny.palmer@enron.com,2011-11-04,Cheapest Long Distance - NO CATCH!,0.09239926739926742,Positive,Positive
+john.arnold@enron.com,2010-06-18,TradersNews Energy new price reporting sheet,-0.040909090909090916,Neutral,Positive
+don.baughman@enron.com,2010-02-11,Re: Southwest tickets,0.21562499999999998,Positive,Positive
+kayne.coulter@enron.com,2011-07-24,FW: Working in a cubical!!!,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-11-11,Trips,-0.125,Negative,Neutral
+bobette.riner@ipgdirect.com,2011-07-13,GAME @ 9 on Wed,-0.4,Negative,Neutral
+lydia.delgado@enron.com,2010-10-19,(No Subject),0.04999999999999999,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-03-31,Re: Thanks!,0.375,Positive,Neutral
+lydia.delgado@enron.com,2010-07-11,Copier Commitment Information Requested,0.17916666666666667,Positive,Negative
+bobette.riner@ipgdirect.com,2011-08-16,Re: one last thing...,0.2321626984126984,Positive,Positive
+lydia.delgado@enron.com,2010-08-18,"Valley Electric Association, Inc.",0.2,Positive,Neutral
+don.baughman@enron.com,2011-09-10,(No Subject),0.0,Neutral,Neutral
+don.baughman@enron.com,2010-07-20,Re: Spring Flag Football,0.05,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-07-20,FW: Real Time Trader Ryan Thomas,0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-08-17,Re: Global Risk Management Operations,0.1,Positive,Neutral
+patti.thompson@enron.com,2011-08-09,Sally's Itinerary for Calgary 2/7-8/01,-0.09285714285714286,Negative,Neutral
+kayne.coulter@enron.com,2010-01-29,M. Bodnar/Storage Allocation to meet in Lynn's office,0.13333333333333333,Positive,Neutral
+johnny.palmer@enron.com,2010-02-06,Re: GAME TONIGHT @ 9:45,-0.4,Negative,Neutral
+bobette.riner@ipgdirect.com,2011-03-29,Lunch for UT Summer Analysts and Associates,0.2,Positive,Neutral
+sally.beck@enron.com,2011-03-27,Re:,0.31233766233766236,Positive,Positive
+lydia.delgado@enron.com,2011-12-04,RE: Cold winter ahead for Owens-Corning,-0.6,Negative,Neutral
+lydia.delgado@enron.com,2010-11-25,RE: trade,-0.05,Negative,Neutral
+kayne.coulter@enron.com,2010-11-22,Updated: Richard Heidorn - Traders News Energy,0.001666666666666668,Neutral,Neutral
+eric.bass@enron.com,2010-03-29,Panama City Doorstep,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-03-28,Power Trader Position,0.12407407407407407,Positive,Positive
+sally.beck@enron.com,2011-01-12,MISO Advisory Seat,0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-11-01,CommodityLogic documents,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-08-11,"NOTIFICATION:  Outlook Outage - Monday, January 7, 2002",0.039999999999999994,Neutral,Negative
+eric.bass@enron.com,2011-10-20,New price reporters at TradersNews,0.19318181818181818,Positive,Positive
+don.baughman@enron.com,2010-07-07,Bjornson,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-02-26,BO Origination April 2001.ppt,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-04-19,2002 Holiday Schedule,0.0934659090909091,Positive,Positive
+eric.bass@enron.com,2010-06-20,"New Hire Orientation for Monday, Aug. 21, 2000",0.13636363636363635,Positive,Neutral
+john.arnold@enron.com,2011-10-18,Performance Management Process - New Password,0.13484848484848486,Positive,Neutral
+lydia.delgado@enron.com,2011-10-16,BJ,0.0,Neutral,Neutral
+don.baughman@enron.com,2011-10-17,Re: Access to Cost Center,0.05,Positive,Neutral
+don.baughman@enron.com,2011-11-26,CFA Reimbursement,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-10-19,Re: ENE,-0.15000000000000002,Negative,Neutral
+lydia.delgado@enron.com,2010-06-10,Blank form,0.25,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-04-05,Re: Dinner,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2010-12-26,Ski trip????,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-06-29,New Team,0.16818181818181818,Positive,Neutral
+kayne.coulter@enron.com,2010-02-02,No more Hourly trades with IP,-0.05833333333333333,Negative,Neutral
+sally.beck@enron.com,2011-02-07,Re: golf,-0.15000000000000002,Negative,Neutral
+john.arnold@enron.com,2011-02-21,Re:,0.35,Positive,Positive
+kayne.coulter@enron.com,2010-01-03,RE: Trade,0.125,Positive,Neutral
+eric.bass@enron.com,2011-05-07,"Operational Risk Forum Luncheon beginning this Monday, January 29",-0.23333333333333334,Negative,Neutral
+don.baughman@enron.com,2010-12-14,Power Desk List,-0.16666666666666666,Negative,Neutral
+patti.thompson@enron.com,2011-12-18,Triple Lutz Notes,0.1,Positive,Neutral
+don.baughman@enron.com,2010-06-18,Asset Marketing,0.1965909090909091,Positive,Positive
+eric.bass@enron.com,2011-05-19,checkout for 5/3 hourly deals,0.09375,Positive,Neutral
+kayne.coulter@enron.com,2010-08-16,Operations Contacts - Week of March 12,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-09-14,The Montana Power Trading & Marketing Company,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-09-08,For Greg's Calendar - Dinner with Operations Team,0.30000000000000004,Positive,Positive
+john.arnold@enron.com,2010-12-05,Re: Promotion,0.43125,Positive,Positive
+john.arnold@enron.com,2011-10-12,clarksdale generation,0.2,Positive,Neutral
+eric.bass@enron.com,2011-05-07,FW: michael harrison resume/ S-T Power Trader,0.2,Positive,Neutral
+rhonda.denton@enron.com,2010-11-11,"Enron Federal Credit Union - Loan Response, Application Number:
+ 725068.01",0.06507936507936508,Positive,Neutral
+eric.bass@enron.com,2011-12-01,Re: dinner,-0.15000000000000002,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-04-05,Dow Pipeline Company,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-06-08,Connecticut Municipal Electric Energy Cooperative,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-09-16,Re: The Next HEISMAN winner for the University of Texas,-0.07777777777777779,Negative,Positive
+john.arnold@enron.com,2011-09-20,Express Pipeline Partnership,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-03-13,Flag Football,0.06666666666666667,Positive,Neutral
+sally.beck@enron.com,2010-01-16,Global Ops Task Force week ending 9/29,0.0,Neutral,Neutral
+patti.thompson@enron.com,2011-11-22,"Frontier Energy I, LLC",0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-08-22,PRC Rep,0.22642045454545454,Positive,Positive
+bobette.riner@ipgdirect.com,2010-05-02,FW: Jason' Bachelor Party,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-12-22,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+johnny.palmer@enron.com,2011-04-21,October 20 Meeting re: Internal Audit Projects for September,-0.047619047619047616,Neutral,Negative
+patti.thompson@enron.com,2010-03-16,Open Enrollment 2001 Deadline,0.0,Neutral,Positive
+eric.bass@enron.com,2010-01-02,Doorstep meeting 8/4 New time - 9:30 AM,0.16818181818181818,Positive,Neutral
+sally.beck@enron.com,2011-07-14,TradersNews,0.23750000000000002,Positive,Positive
+bobette.riner@ipgdirect.com,2010-09-10,Re:,0.07916666666666666,Positive,Neutral
+lydia.delgado@enron.com,2010-12-11,Trips,-0.125,Negative,Neutral
+johnny.palmer@enron.com,2011-04-13,Phone Screen Interview - Charles E. Hunter III,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-06-29,engram,0.24999999999999997,Positive,Neutral
+john.arnold@enron.com,2011-10-06,"Final Schedule -  Tuesday, May 8, 2001 - Andrew C. Greer",0.06666666666666667,Positive,Neutral
+lydia.delgado@enron.com,2011-12-12,RE: Travis Baughman's Resume,0.4,Positive,Neutral
+rhonda.denton@enron.com,2010-08-06,Happy Holidays from HighSchoolAlumni.com!,0.2825254329004329,Positive,Positive
+don.baughman@enron.com,2010-12-28,Holiday Key Contacts List for Energy Operations - Enron Americas,0.0,Neutral,Neutral
+don.baughman@enron.com,2010-08-06,RE:,0.2833333333333333,Positive,Neutral
+kayne.coulter@enron.com,2011-11-27,RE: TradersNews,-0.16666666666666666,Negative,Neutral
+sally.beck@enron.com,2011-02-10,"Final Schedule - Tuesday, May 22, 2001 - Larry Joe Hunter",0.06666666666666667,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-20,Intern Offers -- UT,0.17142857142857143,Positive,Positive
+patti.thompson@enron.com,2011-04-07,Re: New RC for Sally Beck's Southern Cone Risk Management group,0.17474747474747473,Positive,Neutral
+lydia.delgado@enron.com,2011-05-30,Super Bowl Party - 2/3/02,0.20833333333333331,Positive,Positive
+lydia.delgado@enron.com,2011-10-20,"Don, claim your gift!",0.625,Positive,Positive
+patti.thompson@enron.com,2011-03-17,Master Power Contracts,0.20000000000000004,Positive,Neutral
+sally.beck@enron.com,2011-11-22,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2010-09-08,Re:,0.16666666666666666,Positive,Neutral
+eric.bass@enron.com,2011-06-21,Business Risk Management,0.125,Positive,Positive
+johnny.palmer@enron.com,2010-02-19,Texas Desk - Post HPL,0.10000000000000002,Positive,Neutral
+don.baughman@enron.com,2011-07-28,Bearkadette Schedule,0.078125,Positive,Positive
+bobette.riner@ipgdirect.com,2010-11-10,RE: TradersNews,-0.16666666666666666,Negative,Neutral
+lydia.delgado@enron.com,2011-08-14,Re: Status Report,0.4,Positive,Neutral
+lydia.delgado@enron.com,2011-02-24,Your Houston Chronicle Subscriber Account Number,0.0,Neutral,Negative
+lydia.delgado@enron.com,2010-10-09,Re: SUMMER ANALYST INVITATION,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-07-02,Re: CFA,0.625,Positive,Positive
+john.arnold@enron.com,2011-10-07,(No Subject),0.13749999999999998,Positive,Positive
+john.arnold@enron.com,2010-10-04,Re: Got caught up with real time issue - missed my slot today,0.23214285714285715,Positive,Positive
+john.arnold@enron.com,2010-11-10,Update - Trading Track Rotations,0.04242424242424243,Neutral,Neutral
+rhonda.denton@enron.com,2011-09-02,Commissioner.COM Transaction Request,0.25,Positive,Positive
+rhonda.denton@enron.com,2010-02-03,updated presentation for MF,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-02-08,Re: anniversary update,0.36875,Positive,Positive
+don.baughman@enron.com,2011-12-30,Rap mtg. Schedule,0.11041666666666666,Positive,Positive
+kayne.coulter@enron.com,2010-06-26,Forgot the Attachment,0.3,Positive,Neutral
+don.baughman@enron.com,2011-01-10,I thought you might be interested . . .,0.08333333333333333,Positive,Neutral
+john.arnold@enron.com,2011-02-08,Caledonia unavailable,-0.09375,Negative,Negative
+lydia.delgado@enron.com,2011-10-27,(No Subject),0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-09-23,RE: : Priceless,1.0,Positive,Neutral
+john.arnold@enron.com,2010-02-17,Re - mapping,0.018750000000000003,Neutral,Neutral
+rhonda.denton@enron.com,2011-04-13,Pick Ups,-0.15000000000000002,Negative,Neutral
+johnny.palmer@enron.com,2011-04-29,Re: Resume,0.2828571428571428,Positive,Positive
+patti.thompson@enron.com,2011-11-14,Renaissance Austin Hotel,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-07-09,FW: UBS meeting tommorrow @ 10 am till 1pm,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-07-06,Re: Telluride,-0.10000000000000002,Negative,Neutral
+patti.thompson@enron.com,2011-07-09,Re: Commissioner.COM Transaction Request,0.4,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-01-02,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-01-29,Happy Hour,0.8,Positive,Positive
+rhonda.denton@enron.com,2010-02-23,El Paso Electric Company,0.2,Positive,Neutral
+eric.bass@enron.com,2010-05-22,FW: Happy Hour,0.8,Positive,Positive
+bobette.riner@ipgdirect.com,2011-01-14,<<Concur Expense Document>> - Monthly Cellular Bill,-0.025,Neutral,Positive
+patti.thompson@enron.com,2010-03-18,The US military gets mightier,0.2,Positive,Neutral
+eric.bass@enron.com,2011-12-14,Calling all Texas Exes...,0.046875,Neutral,Positive
+patti.thompson@enron.com,2011-07-20,Re:,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-01-02,RE: working on Holiday (Monday Dec. 24th),0.09999999999999998,Positive,Positive
+john.arnold@enron.com,2011-02-27,TradersNews,0.23750000000000002,Positive,Positive
+kayne.coulter@enron.com,2010-01-27,Re: Friday,0.35,Positive,Positive
+lydia.delgado@enron.com,2010-12-16,Golf Tournament Details,0.12333333333333335,Positive,Positive
+kayne.coulter@enron.com,2011-11-10,Re: Tuberville,0.75,Positive,Positive
+don.baughman@enron.com,2010-12-31,AirCard Activation,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-05-16,RE: TradersNews,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-07-02,September NCL Meeting,0.0859375,Positive,Neutral
+lydia.delgado@enron.com,2010-03-11,Re:,0.0,Neutral,Negative
+lydia.delgado@enron.com,2011-03-04,Allegheny Power Guidelines Update,0.75,Positive,Neutral
+sally.beck@enron.com,2010-10-26,Saints,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-18,TradersNews market commentary attached,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-10-11,Re: Commissioner.COM Transaction Request,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-06-29,The TradersNews Cin and AEP hourly indexes have been posted,0.225,Positive,Neutral
+patti.thompson@enron.com,2011-12-10,OU Presentation,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-07-19,Pick Ups,-0.024999999999999994,Neutral,Neutral
+lydia.delgado@enron.com,2010-04-17,RE: OU Candidates,0.30000000000000004,Positive,Positive
+lydia.delgado@enron.com,2011-10-06,"Phone Interview Confirmation - Monday, April 30, 2001 - Steven
+ Coulter",0.4,Positive,Neutral
+johnny.palmer@enron.com,2011-08-06,Bankruptcy,0.2333333333333333,Positive,Negative
+patti.thompson@enron.com,2010-03-10,RE: Hello,-0.125,Negative,Neutral
+eric.bass@enron.com,2011-06-14,"Price differentials between TN hourly and daily Cin indexes,
+ Aug.-Nov.",0.125,Positive,Neutral
+sally.beck@enron.com,2011-03-05,4/25/01 To Do List,-0.1,Negative,Neutral
+eric.bass@enron.com,2011-04-24,An Enron win against MISO!,0.325,Positive,Positive
+don.baughman@enron.com,2010-02-28,phone #,0.0,Neutral,Positive
+patti.thompson@enron.com,2010-06-12,Headcount increase from 18 to 20.,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-08-15,Re: CUSTOMER REQUESTED CANCEL,0.0,Neutral,Negative
+rhonda.denton@enron.com,2010-08-15,Robinson,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-10-11,"Fw: Check out The Shower Curtain Song: A tribute to coyboys who
+ find no  toilet pa",0.016666666666666666,Neutral,Neutral
+don.baughman@enron.com,2011-12-18,Editorial The Hijacking of the Presidency,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-07-01,Julia / Danny Staff Meeting in video room EB49C2,0.13333333333333333,Positive,Neutral
+kayne.coulter@enron.com,2011-11-30,FirstEnergy Services Corp.,-0.022916666666666655,Neutral,Neutral
+don.baughman@enron.com,2011-10-30,computer wallpaper- must have,0.09375,Positive,Neutral
+lydia.delgado@enron.com,2010-11-03,FW: Ryan Thomas Interview 6/19/01,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-06-02,Latest & Greatest Agendas,0.4375,Positive,Neutral
+johnny.palmer@enron.com,2011-09-19,Congratulations,0.0,Neutral,Positive
+sally.beck@enron.com,2011-08-06,Holcomb's new address and telephone number,0.03210227272727272,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-04,"Out of the Office - Friday, October 20",0.03854166666666667,Neutral,Negative
+eric.bass@enron.com,2011-01-23,Re: favor,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-02-26,FW: MAPP OASIS Partial Outage,-0.1,Negative,Neutral
+lydia.delgado@enron.com,2011-10-01,Enron Europe FX/IR BRM,0.1875,Positive,Neutral
+lydia.delgado@enron.com,2011-04-01,Re: Monday's Game,-0.20000000000000004,Negative,Neutral
+don.baughman@enron.com,2010-05-24,RE: Favor,0.5,Positive,Neutral
+lydia.delgado@enron.com,2011-12-12,Pick Ups,-0.15000000000000002,Negative,Neutral
+sally.beck@enron.com,2010-11-08,Re: Stats,0.06666666666666667,Positive,Neutral
+patti.thompson@enron.com,2011-12-15,Mass time correction,-0.16666666666666666,Negative,Negative
+sally.beck@enron.com,2010-08-03,Indianapolis Power and Light Company,0.30000000000000004,Positive,Neutral
+lydia.delgado@enron.com,2011-08-07,(No Subject),0.007500000000000007,Neutral,Positive
+eric.bass@enron.com,2011-04-16,Mason Hamlin Interview 6/27/01,0.2,Positive,Neutral
+johnny.palmer@enron.com,2010-06-03,Re: trades,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-03-06,FW: My Baby's Page,0.2681818181818182,Positive,Positive
+lydia.delgado@enron.com,2010-03-22,JAN-MAR Degree Day Swaps,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-01-27,Engram,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-08,Start 2002 with a NEW Car!!,0.42049663299663304,Positive,Positive
+eric.bass@enron.com,2010-07-21,"Final Schedule - Thursday, May 3, 2001 - Joseph Wayne Davis",0.06666666666666667,Positive,Neutral
+johnny.palmer@enron.com,2010-02-14,"Re: Do you know how long Stephen Schwarz has been with Enron -
+ roughly?",-0.06875,Negative,Neutral
+patti.thompson@enron.com,2010-09-18,what's up (or down) in Cin markets,0.17222222222222222,Positive,Neutral
+sally.beck@enron.com,2011-05-21,Re: Entex Recap,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-10-30,RE:,-0.15000000000000002,Negative,Neutral
+rhonda.denton@enron.com,2010-11-02,Mid-Year 2001 Performance Feedback,0.18095238095238095,Positive,Neutral
+eric.bass@enron.com,2010-03-21,Trade,-0.13333333333333333,Negative,Neutral
+eric.bass@enron.com,2011-06-24,Arch Takedown,0.05995670995670997,Positive,Positive
+lydia.delgado@enron.com,2010-10-28,System outage nomination impact,-0.19999999999999998,Negative,Negative
+lydia.delgado@enron.com,2011-09-25,Master Power Contracts,0.1090909090909091,Positive,Neutral
+rhonda.denton@enron.com,2010-04-15,Weekly Report - Risk Issues,0.0,Neutral,Negative
+rhonda.denton@enron.com,2010-04-10,Follow Up,0.22142857142857145,Positive,Positive
+don.baughman@enron.com,2010-09-28,"Dove Hunt in Mason, TX",0.0,Neutral,Neutral
+patti.thompson@enron.com,2010-05-02,SCHEDULE DISCREP'S,-0.0625,Negative,Positive
+johnny.palmer@enron.com,2010-02-19,(No Subject),0.16406250000000003,Positive,Positive
+don.baughman@enron.com,2011-02-13,New Team,0.16818181818181818,Positive,Neutral
+eric.bass@enron.com,2010-03-31,Transmission Agreements Meeting Tues. Jan. 29 10:00 a.m.,0.41818181818181815,Positive,Positive
+eric.bass@enron.com,2011-05-01,Here's the rest!,1.0,Positive,Positive
+eric.bass@enron.com,2010-10-14,Las Vegas Trip,0.3375,Positive,Positive
+bobette.riner@ipgdirect.com,2010-03-22,"REVISED - Final Schedule - Thursday, October 11, 2001 - Bang I.
+ Tran",0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-04-05,Vandals,0.5,Positive,Positive
+bobette.riner@ipgdirect.com,2011-07-29,(No Subject),-0.1125,Negative,Neutral
+sally.beck@enron.com,2011-07-05,Promotion,0.3352083333333333,Positive,Positive
+sally.beck@enron.com,2010-08-11,EES Calls to Power Marketing,0.11666666666666668,Positive,Neutral
+patti.thompson@enron.com,2011-07-25,Re:,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-12-28,Fall APDA Conference,0.45,Positive,Negative
+rhonda.denton@enron.com,2011-01-15,Re: Analyst PRC process,0.2,Positive,Neutral
+john.arnold@enron.com,2011-07-03,Minutes & Actions from today's UBS Start Up coordination meeting,0.25,Positive,Neutral
+johnny.palmer@enron.com,2011-04-15,RE: Christine Walton Resume,0.225,Positive,Neutral
+patti.thompson@enron.com,2010-05-02,testing....,0.25,Positive,Neutral
+rhonda.denton@enron.com,2011-02-17,"Into Cinergy Hourly Index for November 14, 2001",0.0,Neutral,Neutral
+john.arnold@enron.com,2011-08-07,Carolina Power & Light Company and Florida Power Corporation,0.20000000000000004,Positive,Neutral
+patti.thompson@enron.com,2011-11-20,Draft Date,0.21212121212121213,Positive,Neutral
+john.arnold@enron.com,2010-10-28,Free Trial: Gas Trader,0.2055735930735931,Positive,Negative
+eric.bass@enron.com,2011-06-05,Re: Concierge.com Daily Deal Two-for-One Caribbean Cruise Deal,-0.07500000000000001,Negative,Neutral
+eric.bass@enron.com,2010-03-10,Fwd: Who really loves beer?,0.2,Positive,Neutral
+rhonda.denton@enron.com,2010-08-10,UT game,-0.18333333333333335,Negative,Neutral
+lydia.delgado@enron.com,2010-01-11,updated budget for doorstep,-0.16666666666666666,Negative,Neutral
+johnny.palmer@enron.com,2010-02-15,Trader Access,0.1,Positive,Neutral
+rhonda.denton@enron.com,2010-08-06,VP PRC,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-01-28,"Allegheny Energy Supply Company LLC - Merrill Lynch Capital
+ Services, Inc.",0.0,Neutral,Neutral
+johnny.palmer@enron.com,2010-11-20,Re:,0.4083333333333333,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-07-01,FW: Ryan Thomas Interview 6/19/01,0.2,Positive,Neutral
+johnny.palmer@enron.com,2011-06-29,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-16,FW: Deal: Y82661.1,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-04-01,Follow-up to VNG meeting,0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-04-18,Get Out Your Light Saber,0.5,Positive,Neutral
+patti.thompson@enron.com,2011-09-11,PayPal Email Confirmation,0.08333333333333333,Positive,Negative
+johnny.palmer@enron.com,2011-05-25,ACRONYM ADDITIONS TO THE P&L AND PRICE SHEET.,0.1,Positive,Positive
+bobette.riner@ipgdirect.com,2011-03-14,"Phone Interview Confirmation - Monday, April 30, 2001 - Steven
+ Coulter",0.4,Positive,Neutral
+rhonda.denton@enron.com,2011-11-11,Fundamental Presentation,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-05-13,Congratulations!,0.4083333333333333,Positive,Positive
+john.arnold@enron.com,2011-05-01,"Fresno Cogeneration Partners, LP",0.2,Positive,Neutral
+kayne.coulter@enron.com,2011-09-30,Re: anniversary,0.22000000000000003,Positive,Positive
+sally.beck@enron.com,2011-01-27,Re: Practice,0.2,Positive,Positive
+eric.bass@enron.com,2011-12-11,Additions to Attendee List for Dallas ASE,0.1595959595959596,Positive,Positive
+eric.bass@enron.com,2011-06-29,FW: Options Market Update,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-10-26,Ameren Services Company,0.0,Neutral,Neutral
+eric.bass@enron.com,2010-08-14,Commissioner.COM Transaction Request,-0.07500000000000001,Negative,Neutral
+kayne.coulter@enron.com,2010-08-29,FW: Scotty Ts X-mas Party 2,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-02-12,(No Subject),0.057142857142857155,Positive,Positive
+john.arnold@enron.com,2010-04-16,Book Administrator's for EGM,-0.125,Negative,Neutral
+sally.beck@enron.com,2010-08-06,Tell us how it's been clicking!,0.17750000000000002,Positive,Positive
+kayne.coulter@enron.com,2011-04-28,Cruise,0.0,Neutral,Neutral
+eric.bass@enron.com,2011-05-30,Vacation/Paternity Leave Scheduled,0.13636363636363635,Positive,Positive
+sally.beck@enron.com,2010-08-07,RE: production qviewer,0.0,Neutral,Negative
+rhonda.denton@enron.com,2011-03-05,Computer,0.2090909090909091,Positive,Neutral
+johnny.palmer@enron.com,2011-08-09,"RESUME Of: Sanjay Gupta  - Thursday, August 2, 2001 -",0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-21,Fwd: Foundations,0.8,Positive,Positive
+kayne.coulter@enron.com,2011-03-21,vacation plans,0.1590909090909091,Positive,Positive
+kayne.coulter@enron.com,2011-04-26,MISO proposed $1000 penalty,-0.13333333333333328,Negative,Negative
+eric.bass@enron.com,2011-04-26,Happy holidays,0.35555555555555557,Positive,Positive
+lydia.delgado@enron.com,2011-05-18,Vermont Yankee Notification,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-11-01,"Thanks for January 1, 2000",0.3097402597402597,Positive,Positive
+john.arnold@enron.com,2011-05-19,Re: Draft Order Determined,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-07-01,Re: ALS Charity - It's Time to Collect,0.2,Positive,Neutral
+eric.bass@enron.com,2011-03-23,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-12-03,Re: testing....,0.35,Positive,Neutral
+rhonda.denton@enron.com,2011-12-11,FW: Monthly Acctg Meeting,0.35,Positive,Neutral
+rhonda.denton@enron.com,2011-07-09,"EPMI Real-time Traders and Schedulers working during the
+ Thanksgiving Holiday FY2001",0.09166666666666667,Positive,Positive
+rhonda.denton@enron.com,2010-12-11,(No Subject),0.0,Neutral,Neutral
+sally.beck@enron.com,2010-09-02,Here's the rest!,1.0,Positive,Positive
+johnny.palmer@enron.com,2011-06-11,Update - ENA Confirmation Delivery System,0.21428571428571427,Positive,Neutral
+don.baughman@enron.com,2011-08-20,System Notice 9/21/01,0.17500000000000002,Positive,Neutral
+sally.beck@enron.com,2011-07-01,Minutes and actions from todays UBS start up meeting,0.16666666666666666,Positive,Neutral
+eric.bass@enron.com,2011-01-12,Game tonight @ 7,-0.4,Negative,Neutral
+rhonda.denton@enron.com,2010-12-18,Party Invitation,-0.5,Negative,Positive
+lydia.delgado@enron.com,2010-06-13,Power Trader Position,0.12407407407407407,Positive,Positive
+patti.thompson@enron.com,2011-07-24,Re: JDF,0.05,Positive,Neutral
+john.arnold@enron.com,2011-08-21,Here's the rest!,1.0,Positive,Positive
+don.baughman@enron.com,2011-10-07,RE:,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2010-02-23,RE: Good Morning,0.55,Positive,Positive
+rhonda.denton@enron.com,2010-12-26,Re: golf tourney,-0.125,Negative,Neutral
+lydia.delgado@enron.com,2010-07-09,Additions to Attendee List for Dallas ASE,0.1595959595959596,Positive,Positive
+lydia.delgado@enron.com,2010-10-03,New Years,0.2909090909090909,Positive,Positive
+sally.beck@enron.com,2011-05-15,Atlantic City Electric Company,0.2,Positive,Neutral
+rhonda.denton@enron.com,2011-09-18,Re: AEC Issues,0.39999999999999997,Positive,Positive
+sally.beck@enron.com,2010-12-29,FW: UBS meeting tommorrow @ 10 am till 1pm,0.21875,Positive,Positive
+sally.beck@enron.com,2010-03-11,Re: vacation,0.15,Positive,Positive
+rhonda.denton@enron.com,2010-05-01,PRC Summary Report,0.09191919191919191,Positive,Positive
+lydia.delgado@enron.com,2010-10-13,Re: we'll take care of you,0.85,Positive,Positive
+sally.beck@enron.com,2010-05-16,(No Subject),-0.08,Negative,Neutral
+patti.thompson@enron.com,2011-12-28,January 11 - Managing Operational Risk,0.18452380952380953,Positive,Negative
+sally.beck@enron.com,2010-12-31,- Inventory Collected from CN=Don Baughman/OU=HOU/O=ECT -,0.13,Positive,Positive
+lydia.delgado@enron.com,2011-05-28,Global Operations Controllers Forum,-0.0625,Negative,Neutral
+bobette.riner@ipgdirect.com,2010-11-17,Re: golf tourney,-0.125,Negative,Neutral
+don.baughman@enron.com,2011-06-02,Re:,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-09-25,Re: Need for Business Owner on SAP/Unify Interface,0.2833333333333333,Positive,Positive
+john.arnold@enron.com,2010-09-07,pick up,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-08-10,FW: Illinois Power Option Pricing,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-06-07,Minnesota Municipal Power Agency,0.2,Positive,Neutral
+eric.bass@enron.com,2010-09-18,Re: Managing Director and Vice President Elections,0.16,Positive,Positive
+eric.bass@enron.com,2011-09-01,FW: Resume for Job Posting #0000108727,0.225,Positive,Neutral
+sally.beck@enron.com,2010-03-15,N.O.V. Updates,0.75,Positive,Neutral
+patti.thompson@enron.com,2011-11-06,Associate Starting,0.15324675324675324,Positive,Neutral
+patti.thompson@enron.com,2011-08-17,Vacation Scheduled - Contact List,0.09791666666666667,Positive,Positive
+don.baughman@enron.com,2010-05-13,VAR,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-05-20,"New Hire Orientation, Monday, July 24, 2000",0.06818181818181818,Positive,Neutral
+sally.beck@enron.com,2011-07-26,TradersNews: Confirmation Request when possible,0.09722222222222222,Positive,Neutral
+sally.beck@enron.com,2010-05-07,Vermont Yankee Status Update.,0.4,Positive,Neutral
+eric.bass@enron.com,2011-05-12,dead eye dick!,0.04375000000000001,Neutral,Neutral
+kayne.coulter@enron.com,2011-01-18,RE:Southern Union Galveston/Pt. Arthur,0.1,Positive,Neutral
+sally.beck@enron.com,2011-05-18,houses,0.0,Neutral,Positive
+bobette.riner@ipgdirect.com,2011-11-13,ACRONYM ADDITIONS TO THE P&L AND PRICE SHEET.,0.1,Positive,Positive
+don.baughman@enron.com,2011-01-12,(No Subject),0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-03-28,Hourly web site,0.35,Positive,Neutral
+patti.thompson@enron.com,2010-01-08,(No Subject),0.0,Neutral,Neutral
+john.arnold@enron.com,2011-11-10,Enron Issues,-0.017592592592592587,Neutral,Negative
+johnny.palmer@enron.com,2011-01-29,Cin 2000,-0.625,Negative,Negative
+john.arnold@enron.com,2010-06-16,Peoples presentation,0.42000000000000004,Positive,Positive
+patti.thompson@enron.com,2010-05-06,Signers for Same Day Wires,0.26,Positive,Neutral
+eric.bass@enron.com,2010-09-20,Congratulations,0.041666666666666664,Neutral,Positive
+eric.bass@enron.com,2010-09-08,Minnesota Municipal Power Agency,0.2,Positive,Neutral
+eric.bass@enron.com,2010-12-13,New MAPP LRP procedures,0.1090909090909091,Positive,Neutral
+bobette.riner@ipgdirect.com,2010-10-16,RE: Flood Workers,0.2857142857142857,Positive,Positive
+don.baughman@enron.com,2010-04-13,"Final Schedule - Wednesday, May 23, 2001 - Kevin M. McLarney",0.06666666666666667,Positive,Neutral
+don.baughman@enron.com,2010-12-12,Re: FW: Truth in 13 words,0.07083333333333333,Positive,Negative
+kayne.coulter@enron.com,2011-02-14,Dinner with UT Students,0.07662337662337662,Positive,Neutral
+eric.bass@enron.com,2010-05-04,Cheapest Long Distance - NO CATCH!,0.09239926739926742,Positive,Positive
+bobette.riner@ipgdirect.com,2010-09-27,FW: Cinergy Hourly Index for 8/30/01,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2010-11-02,Rotation,-0.15,Negative,Neutral
+patti.thompson@enron.com,2011-10-13,Weekend PEP Support,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2010-03-07,"FW: DRAFT:  INFORMATION, Please Read: UBSWE Migration postponed",0.2,Positive,Neutral
+john.arnold@enron.com,2010-02-26,City of Shasta Lake,0.2,Positive,Neutral
+bobette.riner@ipgdirect.com,2011-06-06,SAP Process Audit,0.11499999999999999,Positive,Neutral
+lydia.delgado@enron.com,2010-08-27,Trade,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-05-21,ScheduleC-Daily0301.xls,0.0,Neutral,Neutral
+bobette.riner@ipgdirect.com,2011-01-04,RE:,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-12-04,Message from Rusty,0.33954545454545454,Positive,Positive
+johnny.palmer@enron.com,2011-06-20,Re:,0.3625,Positive,Positive
+eric.bass@enron.com,2011-10-14,Re:,0.0,Neutral,Neutral
+kayne.coulter@enron.com,2010-01-23,homo,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-09-30,eValueMarketing  - N60 Cancellation,0.5,Positive,Neutral
+kayne.coulter@enron.com,2011-05-21,RE:,0.39999999999999997,Positive,Positive
+lydia.delgado@enron.com,2011-04-01,Alexander McElreath-Real time,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-12-21,Re: Resume,0.0,Neutral,Neutral
+sally.beck@enron.com,2011-03-04,"Into Cinergy Hourly Index for November 14, 2001",0.0,Neutral,Neutral
+kayne.coulter@enron.com,2011-11-13,DCB info,0.875,Positive,Positive
+sally.beck@enron.com,2010-03-25,Bankruptcy,0.2333333333333333,Positive,Negative
+john.arnold@enron.com,2011-11-27,Re: Contract,0.22380952380952382,Positive,Neutral
+eric.bass@enron.com,2010-07-29,"Did you just win $1,000?",0.65,Positive,Positive
+rhonda.denton@enron.com,2011-03-16,Revenue Model Dart Board,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-11-05,"FW: MAPP Partial Outage Monday, November 19 5am-6am CT",-0.1,Negative,Neutral
+sally.beck@enron.com,2010-08-30,8/17/2000 DPR,0.0,Neutral,Neutral
+john.arnold@enron.com,2011-05-03,Mgmt Summary & Hot List,0.16666666666666666,Positive,Neutral
+kayne.coulter@enron.com,2011-02-26,Hey Man,0.30851851851851847,Positive,Positive
+kayne.coulter@enron.com,2011-09-17,(No Subject),0.9,Positive,Positive
+bobette.riner@ipgdirect.com,2010-07-15,Re:,0.05918367346938775,Positive,Neutral
+patti.thompson@enron.com,2010-03-01,Congrats,0.0,Neutral,Positive
+patti.thompson@enron.com,2011-08-04,East Power Candidate,0.0,Neutral,Neutral
+sally.beck@enron.com,2010-11-03,Bearkadette Schedule,0.078125,Positive,Positive
+patti.thompson@enron.com,2011-11-10,Re: faulk,0.5,Positive,Positive
+john.arnold@enron.com,2010-12-28,Re: CRM system,0.0,Neutral,Neutral
+john.arnold@enron.com,2010-06-18,League Dues,-0.14999999999999997,Negative,Negative
+rhonda.denton@enron.com,2010-09-21,The US military gets mightier,0.2,Positive,Neutral
+patti.thompson@enron.com,2010-01-08,UT/A&M football tourney,0.15625,Positive,Neutral
+don.baughman@enron.com,2010-06-20,Development Center Class Reminder - James Scribner,-0.1,Negative,Neutral
+john.arnold@enron.com,2011-01-19,Game Tonight,-0.4000000000000001,Negative,Neutral
+don.baughman@enron.com,2010-11-25,Re: Deal 117413,0.0,Neutral,Neutral
+lydia.delgado@enron.com,2011-02-04,Re:,0.225,Positive,Positive
+rhonda.denton@enron.com,2011-05-03,Re: EOL stats for Q4 2000,0.125,Positive,Neutral
+johnny.palmer@enron.com,2010-09-03,Sprint ION(R) - Surf with a Seat Belt,0.05809523809523811,Positive,Neutral
+patti.thompson@enron.com,2011-07-06,Sanjay Gupta Resume,0.225,Positive,Positive
+sally.beck@enron.com,2010-02-26,Re: Expense Reports,0.0,Neutral,Neutral
+rhonda.denton@enron.com,2011-12-05,(No Subject),0.0,Neutral,Neutral
+johnny.palmer@enron.com,2011-05-21,RE: Mtg. on Wed. July 26th.,-0.25,Negative,Negative
+lydia.delgado@enron.com,2010-04-26,Re: The Next HEISMAN winner for the University of Texas,-0.07777777777777779,Negative,Positive
+kayne.coulter@enron.com,2011-02-17,Re: Game @ 7:00,-0.43333333333333335,Negative,Negative
+rhonda.denton@enron.com,2010-06-03,Fantast Basketball DRAFT TODAY @ 10:30,0.07314814814814814,Positive,Positive
+lydia.delgado@enron.com,2011-12-27,Bearkadette Schedule,0.078125,Positive,Positive
+johnny.palmer@enron.com,2011-06-17,Re: Resume,0.2828571428571428,Positive,Positive
+johnny.palmer@enron.com,2011-01-20,"Final Schedule - Wednesday, May 2, 2001 - Jesus O. Guerra",0.06666666666666667,Positive,Neutral
+don.baughman@enron.com,2011-01-02,(No Subject),0.16666666666666666,Positive,Positive
+rhonda.denton@enron.com,2011-03-11,League is Set,0.025,Neutral,Negative
+johnny.palmer@enron.com,2010-10-30,AirCard Activation,0.0,Neutral,Neutral
