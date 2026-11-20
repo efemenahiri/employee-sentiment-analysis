@@ -112,7 +112,7 @@ md("""
 * *Why not an LLM?* The brief prefers an LLM "or any suitable NLP technique". This project was
   built in an offline environment with no pretrained models, so it uses a VADER-style
   lexicon approach written from scratch. It is deterministic (same input -> same label), free
-  to run, and every decision can be inspected. No LLM was used; see the limitations in
+  to run, and every decision can be inspected. No LLM was used (TextBlob is run as a cross-check in 1.1); see the limitations in
   Section 7 and the README for how an LLM could be swapped in and used to validate these labels.
 * *Cleaning first.* Quoted-printable codes, URLs, e-mail addresses, quoted/forwarded history
   (`-----Original Message-----`, `>` lines) are removed so that only the sender's own words
@@ -168,6 +168,39 @@ md("""
 * The sensitivity table shows the Negative share moves between ~5% and ~10% as the threshold goes
   from 0.35 to 0.15, so **Negative counts (and therefore flight-risk results) are threshold-dependent**.
   We keep +-0.25 as the documented, fixed choice.
+""")
+
+md("""
+### 1.1 Second opinion: TextBlob
+
+The assessment form also asks for **TextBlob**. TextBlob returns a *polarity* in [-1, 1] for each text
+(`pip install textblob`; no extra corpora are needed for polarity). We apply it to exactly the same cleaned
+text, label with the common +-0.05 cut-off, and **compare it with the lexicon labels** (agreement, confusion table,
+and what the flight-risk rule would flag under TextBlob labels). The headline results elsewhere in this notebook
+still use the lexicon labels (Section 1); this step is a cross-check. If TextBlob is not installed the cell prints
+a message and skips; install it and *Run All* to fill this section in. The numbers below are computed by the code,
+so read them after running.
+""")
+code("""
+try:
+    from src.sentiment import label_dataframe_textblob
+    tb = label_dataframe_textblob(df)
+except ImportError:
+    tb = None
+    print("TextBlob is not installed in this environment, so this comparison was skipped.")
+    print("Install it with:  pip install textblob   then Run All again.")
+if tb is not None:
+    shares = (tb["textblob_label"].value_counts(normalize=True).reindex(ORDER) * 100).round(1)
+    print("TextBlob label shares (%):"); print(shares.to_string())
+    print(f"\\nAgreement with the lexicon labels: {(tb['textblob_label'] == tb['sentiment']).mean() * 100:.1f}% of messages")
+    print("\\nConfusion table (rows = lexicon label, columns = TextBlob label):")
+    print(pd.crosstab(tb["sentiment"], tb["textblob_label"]).reindex(index=ORDER, columns=ORDER, fill_value=0).to_string())
+    alt = tb.copy(); alt["sentiment"] = alt["textblob_label"]
+    alt_risk = flight_risk_summary(alt)
+    print("\\nFlight risks if TextBlob labels were used:", ", ".join(sorted(short(e) for e in alt_risk.employee)) or "none")
+    tb[["employee", "date", "subject", "textblob_polarity", "textblob_label", "sentiment"]].rename(
+        columns={"sentiment": "lexicon_label"}).to_csv(os.path.join(OUT, "textblob_labels.csv"), index=False)
+    print("Saved outputs/textblob_labels.csv")
 """)
 
 md("## 2. Exploratory data analysis (Task 2)")

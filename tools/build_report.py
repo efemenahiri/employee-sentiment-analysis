@@ -49,6 +49,7 @@ doc.add_paragraph("Labelling (Task 1). No pretrained model or internet access wa
  "from scratch (src/sentiment.py) with a hand-curated business-email lexicon (about 390 words, valence -4..+4). Negations flip and dampen a word, "
  "boosters and dampeners adjust it, valences are summed and squashed with compound = s / sqrt(s^2 + 15). A message is Positive if compound >= 0.25, "
  "Negative if <= -0.25, otherwise Neutral. The subject is prepended to the body. No LLM was used; the method is deterministic and reproducible.")
+doc.add_paragraph("TextBlob cross-check. Notebook section 1.1 also labels every message with TextBlob polarity (cut-off +-0.05) on the same cleaned text and compares it with the lexicon labels (agreement, confusion table, flight-risk list under TextBlob labels). That section needs `pip install textblob` and was not executed in the environment where this report was generated, so no TextBlob results are reported here; headline results use the lexicon labels.")
 doc.add_paragraph("Cleaning (src/preprocessing.py). Quoted-printable codes, URLs, e-mail addresses, quoted/forwarded history, legal confidentiality footers and "
  "closing salutations ('Best regards') are removed so only the sender's own words are scored. Dates are parsed as month/day/year (verified: no first field exceeds 12).")
 doc.add_paragraph("Validation. A hand-check of 40 random messages judged 33 of 40 labels reasonable; this is a small subjective check, not a measured accuracy, "

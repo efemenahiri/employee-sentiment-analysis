@@ -207,3 +207,24 @@ def explain_text(text: str):
         if v is not None:
             out.append((lw, v))
     return out
+
+
+# --------------------------------------------------------------------------- TextBlob (optional)
+TEXTBLOB_THRESHOLD = 0.05      # common convention: polarity >= +0.05 Positive, <= -0.05 Negative
+
+
+def textblob_polarity(text: str) -> float:
+    """TextBlob polarity in [-1, 1].  TextBlob is an optional dependency (`pip install textblob`);
+    it is imported lazily so the rest of the project works without it."""
+    from textblob import TextBlob
+    if not isinstance(text, str) or not text.strip():
+        return 0.0
+    return float(TextBlob(text).sentiment.polarity)
+
+
+def label_dataframe_textblob(df, text_col: str = "text", threshold: float = TEXTBLOB_THRESHOLD):
+    """Add `textblob_polarity` and `textblob_label` columns (returns a copy)."""
+    out = df.copy()
+    out["textblob_polarity"] = out[text_col].map(textblob_polarity)
+    out["textblob_label"] = out["textblob_polarity"].map(lambda v: label_from_score(v, threshold, -threshold))
+    return out

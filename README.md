@@ -22,10 +22,25 @@ Per-month top-3 positive and negative lists are in `outputs/monthly_top3_positiv
 ## Key insights and recommendations
 
 - Tone is mostly neutral and mildly positive, with a small upward drift (+0.0046 mean score per message per month, p = 0.001).
-- **Treat the flight-risk list with caution.** Bobette Riner reached exactly 4 negatives, and the evidence is mixed (two mildly negative business notes, one fantasy-football joke, one cautionary deal e-mail). The list depends on the label threshold: 7 employees at ±0.15, 1 at ±0.25 (used), none at ±0.35.
+- **Treat the flight-risk list with caution.** TextBlob labels would flag 9 of 10 employees (see above). Bobette Riner reached exactly 4 negatives, and the evidence is mixed (two mildly negative business notes, one fantasy-football joke, one cautionary deal e-mail). The list depends on the label threshold: 7 employees at ±0.15, 1 at ±0.25 (used), none at ±0.35.
 - Totals scale with message volume; compare people on **score per message** too (Eric Bass highest, Rhonda Denton lowest).
 - The regression shows volume (not writing style) explains the monthly score; no structural feature predicts tone.
 - Before any HR use: validate labels against human labels or an LLM, and verify the `date` column (it looks synthetic: exactly 91-92 messages every month, bodies refer to 1999-2002).
+
+## TextBlob cross-check (notebook section 1.1)
+
+The assessment form asks for TextBlob. The headline results above use my own lexicon labels, and the notebook also runs
+**TextBlob** (polarity, cut-off ±0.05) on the same cleaned text and compares the two. Results from running it:
+
+| | Lexicon (used for headline results) | TextBlob |
+|---|---|---|
+| Positive | 29.5% | 53.4% |
+| Neutral | 63.1% | 34.3% |
+| Negative | 7.4% | 12.3% |
+
+- The two labelers **agree on 56.0%** of messages (1,228 of 2,191). The biggest gap: 578 messages the lexicon calls Neutral are Positive under TextBlob, and 185 are Negative.
+- If TextBlob labels were used, the flight-risk rule would flag **9 of the 10 employees** (all except Kayne Coulter), versus 1 (Bobette Riner) with the lexicon labels. So the flight-risk list depends heavily on which labeler and cut-off is used, and neither should be treated as ground truth.
+- TextBlob is a general-purpose tool and its ±0.05 cut-off is very sensitive, so mildly worded business messages often get a small non-zero polarity. I did not use TextBlob for the rankings or regression; per-message TextBlob results are in `outputs/textblob_labels.csv`.
 
 ## Setup
 
@@ -58,7 +73,7 @@ visualization/           PNG charts      outputs/   CSV result tables      repor
 
 ## Methodology (short)
 
-1. **Labelling.** No pretrained model or internet was available, so a VADER-style lexicon scorer was written from scratch (~390 business-email words, negation/booster handling, `compound = s/√(s²+15)`). Label: ≥ +0.25 Positive, ≤ −0.25 Negative, else Neutral. Cleaning removes quoted history, URLs, quoted-printable codes, legal footers and "Best regards". No LLM was used.
+1. **Labelling.** No pretrained model or internet was available, so a VADER-style lexicon scorer was written from scratch (~390 business-email words, negation/booster handling, `compound = s/√(s²+15)`). Label: ≥ +0.25 Positive, ≤ −0.25 Negative, else Neutral. Cleaning removes quoted history, URLs, quoted-printable codes, legal footers and "Best regards". No LLM was used (TextBlob is run as a cross-check, see above).
 2. **Scoring.** Positive +1, Negative −1, Neutral 0, summed per employee per calendar month (resets monthly by construction).
 3. **Ranking.** Per month: top 3 highest / lowest scores, sorted by score then alphabetically. Whole-period totals give the headline lists.
 4. **Flight risk.** ≥ 4 Negative e-mails inside any rolling 30-day window (the day plus the previous 29), independent of month boundaries and score; cross-checked with a brute-force implementation.
